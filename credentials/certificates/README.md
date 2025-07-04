@@ -16,6 +16,7 @@
     </td>
     <td align="center" style="border: none;">
       <a href="#certificados-de-bootcamps">
+        <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Bootcamps" width="120px"> -->
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Bootcamps" width="120px">
         <br><span style="font-size: 1.2em;">Certificados<br>de Bootcamps</span>
       </a>
@@ -28,7 +29,7 @@
     </td>
     <td align="center" style="border: none;">
       <a href="#certificados-de-participacao-de-eventos">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Ticket.png" alt="Events" width="120px">
+        <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Activities/Admission%20Tickets.png" alt="Events" width="120px">
         <br><span style="font-size: 1.2em;">Certificados<br>de Eventos</span>
       </a>
     </td>
