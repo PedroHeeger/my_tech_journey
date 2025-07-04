@@ -14,7 +14,7 @@
       <a href="./cursos_ao_vivo/">
         <!-- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/Man%20Teacher.png" alt="Live Courses" width="120px"> -->
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Teacher.png" alt="Live Courses" width="120px">
-        <br><span style="font-size: 1.2em;">Certificados<br>Cursos ao Vivo</span>
+        <br><span style="font-size: 1.2em;">Certificados<br>de Cursos ao Vivo</span>
       </a>
     </td>
     <td align="center" style="border: none;">

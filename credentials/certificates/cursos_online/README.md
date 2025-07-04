@@ -1045,11 +1045,15 @@
 
 <details><summary> Data - Excel</summary>
     <ul>
-        <li><a href="../cert_ti/04-curso/data/excel/(20-08-14)_Cert_Excel_Basic_PH_UIATEC.pdf">Excel 2010 - Básico</a></li>
-        <li>Sem Pasta</li>
-        <li><strong>Plataforma:</strong> UAITEC</li>
-        <li><strong>Carga Horária:</strong> 40 Horas</li>
-        <li><strong>Concluído em:</strong> 14/08/2020</li>
+        <li><details><summary>Excel 2010 - Básico</summary>
+            <ul>
+                <li><a href="../cert_ti/04-curso/data/excel/(20-08-14)_Cert_Excel_Basic_PH_UIATEC.pdf">Certificado (PDF)</a></li>
+                <li>Sem Pasta</li>
+                <li><strong>Plataforma:</strong> UAITEC</li>
+                <li><strong>Carga Horária:</strong> 40 Horas</li>
+                <li><strong>Concluído em:</strong> 14/08/2020</li>
+            </ul>
+        </details></li>
     </ul>
 </details>
 
