@@ -1,4 +1,5 @@
-# Certificados de Cursos ao Vivo
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Teacher.png" alt="Ao Vivo" width="45px"> Certificados Cursos ao Vivo
+<!-- # Certificados de Cursos ao Vivo -->
 
 <details><summary>Cloud - AWS</summary>
     <details>

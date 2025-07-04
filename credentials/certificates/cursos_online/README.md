@@ -1,4 +1,5 @@
-# Certificados de Cursos Online
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Cursos Online" width="45px"> Certificados de Cursos Online
+<!-- # Certificados de Cursos Online -->
 
 <details><summary>Artificial Intelligence (AI)</summary>
     <details>

@@ -1,4 +1,5 @@
-# Certificados de Participação de Eventos
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Admission%20Tickets.png" alt="Eventos" width="45px"> Certificados de Participação em Eventos
+<!-- # Certificados de Participação de Eventos -->
 
 <details><summary>Artificial Intelligence (AI)</summary>
     <details>

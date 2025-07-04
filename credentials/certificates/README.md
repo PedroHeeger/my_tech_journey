@@ -3,34 +3,37 @@
 <table align="center" width="100%" style="border: 0px solid transparent;">
   <tr style="border: none; width: 100%;">
     <td align="center" style="border: none;">
-      <a href="#certificados-de-programas">
-        <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Programs" width="120px">
+      <a href="./programas/">
+        <!-- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Programs" width="120px"> -->
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Programs" width="120px">
         <br><span style="font-size: 1.2em;">Certificados<br>de Programas</span>
       </a>
     </td>
     <td align="center" style="border: none;">
-      <a href="#certificados-cursos-ao-vivo">
-        <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/Man%20Teacher.png" alt="Live Courses" width="120px">
+      <a href="./cursos_ao_vivo/">
+        <!-- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/Man%20Teacher.png" alt="Live Courses" width="120px"> -->
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Teacher.png" alt="Live Courses" width="120px">
         <br><span style="font-size: 1.2em;">Certificados<br>Cursos ao Vivo</span>
       </a>
     </td>
     <td align="center" style="border: none;">
-      <a href="#certificados-de-bootcamps">
+      <a href="./bootcamps/">
         <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Bootcamps" width="120px"> -->
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Bootcamps" width="120px">
         <br><span style="font-size: 1.2em;">Certificados<br>de Bootcamps</span>
       </a>
     </td>
     <td align="center" style="border: none;">
-      <a href="#certificados-de-cursos-online">
+      <a href="./cursos_online/">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Online Courses" width="120px">
         <br><span style="font-size: 1.2em;">Certificados<br>Cursos Online</span>
       </a>
     </td>
     <td align="center" style="border: none;">
-      <a href="#certificados-de-participacao-de-eventos">
-        <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Activities/Admission%20Tickets.png" alt="Events" width="120px">
-        <br><span style="font-size: 1.2em;">Certificados<br>de Eventos</span>
+      <a href="./participacao_eventos/">
+        <!-- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Activities/Admission%20Tickets.png" alt="Events" width="120px"> -->
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Admission%20Tickets.png" alt="Events" width="120px">
+        <br><span style="font-size: 1.2em;">Certificados<br>em Eventos</span>
       </a>
     </td>
   </tr>
