@@ -54,7 +54,7 @@
   </ul>
 </details>
 
-<details><summary><b>📊 Data</b></summary>
+<details><summary><b>💾 Data</b></summary>
   <ul>
     <li><details><summary><b>📊 Business Intelligence (BI)</b></summary>
       <ul>
