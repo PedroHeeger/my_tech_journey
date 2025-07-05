@@ -1,5 +1,5 @@
 <!-- # Participação de Eventos -->
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Admission%20Tickets.png" alt="Eventos" width="45px"> Certificados de Participação de Eventos
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Admission%20Tickets.png" alt="Events" width="45px"> Certificados de Eventos
 
 <details><summary>Data - Excel</summary>
     <ul>
