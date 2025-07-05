@@ -2,7 +2,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Receipt.png" alt="Certification" width="45px"> Credenciais
 [Retornar para a pasta raíz](../)
 
-
 <table align="center" width="100%" style="border: 0px solid transparent;">
   <tr style="border: none; width: 100%;">
     <td align="center" style="border: none;">
