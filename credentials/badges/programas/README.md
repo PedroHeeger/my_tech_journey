@@ -2,6 +2,6 @@
 
 <details><summary>Cloud - AWS</summary>
     <div>
-        <img src="./cloud_aws/240730_aws_re-start.png" alt="aws_re-start" width="auto" height="180">
+        <img src="./cloud_aws/240730_aws_re-start.png" alt="aws_re-start" width="auto" height="150">
     </div>
 </details>

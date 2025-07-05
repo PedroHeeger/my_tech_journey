@@ -1,12 +1,12 @@
 <!-- # Badges -->
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Military%20Medal.png" alt="Badge" width="45px"> Badges
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Military%20Medal.png" alt="Badge" width="45px"> Badges
 
 <table align="center" width="100%" style="border: 0px solid transparent;">
   <tr style="border: none; width: 100%;">
     <td align="center" style="border: none;">
-      <a href="./programas/">
-        <!-- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Programs" width="120px"> -->
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Certifications" width="120px">
+      <a href="./certificacoes/">
+        <!-- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Activities/Trophy.png" alt="Certifications" width="120px"> -->
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Certifications" width="120px">
         <br><span style="font-size: 1.2em;">Badges<br>de Certifications</span>
       </a>
     </td>

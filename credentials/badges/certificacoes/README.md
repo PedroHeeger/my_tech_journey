@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Certifications" width="45px"> Badges de Certifications
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Certifications" width="45px"> Badges de Certifications
 
 <details><summary>Cloud - AWS</summary>
     <div>
