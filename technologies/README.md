@@ -1,6 +1,6 @@
 <!-- # Tecnologias Estudadas -->
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" alt="Technologies" width="45px"> Tecnologias Estudadas
-[Retornar para a pasta Credenciais](../)
+[Retornar para a pasta raíz](../)
 <!--
 ⬜ vazio 
 🟥 0-19
