@@ -36,7 +36,7 @@
 </div>
 
 <div align="center">
-    <h3 style="text-align: center;">🗣️ Languages</h3>
+    <h3 style="text-align: center;">🗣️ Idiomas</h3>
     <div align="center">
         <img alt="lingopass" src="./img/language/lingopass.jpeg" style="height:85px; width:auto;"/>
         <img alt="acbeu" src="./img/language/acbeu.jpeg" style="height:85px; width:auto;"/>
