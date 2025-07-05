@@ -22,7 +22,7 @@
   </ul>
 </details>
 
-<details><summary>📊 Data - Power BI</summary>
+<details><summary><b>📊 Data - Power BI</b></summary>
     <ul>
         <li><details><summary>curso_048: <a href="https://github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_048">Minicurso Power BI Experience <img src="https://github.com/PedroHeeger/course/blob/main/xperiun/power_bi/curso_048/0-aux/logo_course.png" alt="curso_048" style="height:25px; width:auto;"></a></summary>
             Construção de um report em Power BI com modo dark e light para análises de vendas.</details></li>
@@ -31,7 +31,7 @@
     </ul>
 </details>
 
-<details><summary>🐍 Programming - Python</summary>
+<details><summary><b>🐍 Programming - Python</b></summary>
     <ul>
         <li><details><summary>curso_066: <a href="https://github.com/PedroHeeger/course/tree/main/dio/python/curso_066">Dev Week - Ifood Ciência de Dados com Python <img src="https://github.com/PedroHeeger/course/blob/main/dio/python/curso_066/0-aux/dev_week.png" alt="curso_066" style="height:25px; width:auto;"></a></summary>
             Análise da satisfação dos feedbacks de um bootcamp com Python, incluindo NPS, Matplotlib e ChatGPT via OpenAI API.</details></li>
