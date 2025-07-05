@@ -80,7 +80,7 @@
         </details></li>
       </ul>
     </details></li>
-    <li><details><summary><b>🟠 Data - Big Data</b></summary>
+    <li><details><summary><b>🟠 Big Data</b></summary>
         <ul>
             <li><details><summary>Apache Kafka <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="apache_kafka" style="height:25px; width:auto;"></summary>
                 <ul>
@@ -135,15 +135,11 @@
     </details></li>
     <li><details><summary><b>🛠️ DevOps</b></summary>
       <ul>
-        <li><details><summary>DevOps <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/content/devops.png" alt="devops" style="height:25px; width:auto;"></summary>
-          <ul>
-            <li>curso_081: <a href="https://github.com/PedroHeeger/course/blob/main/outros/fabricio_veronez/devops/curso_081">Imersão DevOps & Cloud 1 <img src="https://github.com/PedroHeeger/course/blob/main/outros/fabricio_veronez/devops/curso_081/0-aux/logo_course.png" alt="curso_081" style="height:25px; width:auto;"></a></li>
-            <li>curso_085: <a href="https://github.com/PedroHeeger/course/tree/main/4.linux/devops/curso_085">DevOps Essentials <img src="https://github.com/PedroHeeger/course/blob/main/4.linux/devops/curso_085/0-aux/logo_course.jpg" alt="curso_085" style="height:25px; width:auto;"></a></li>
-            <li>curso_116: <a href="https://github.com/PedroHeeger/course/blob/main/outros/fabricio_veronez/devops/curso_116">Imersão Docker e Kubernetes <img src="https://github.com/PedroHeeger/course/blob/main/outros/fabricio_veronez/devops/curso_116/0-aux/logo_course.png" alt="curso_116" style="height:25px; width:auto;"></a></li>
-            <li>boot_017: <a href="https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_017">Formação DevOps Fundamentals <img src="https://github.com/PedroHeeger/boot/blob/main/dio/devops/boot_017/0-aux/logo_boot.png" alt="boot_017" style="height:25px; width:auto;"></a></li>
-            <li>boot_020: <a href="https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_020">Jornada DevOps com AWS - Impulso <img src="https://github.com/PedroHeeger/boot/blob/main/dio/devops/boot_020/0-aux/logo_boot.webp" alt="boot_020" style="height:25px; width:auto;"></a></li>
-          </ul>
-        </details></li>
+        <li>curso_081: <a href="https://github.com/PedroHeeger/course/blob/main/outros/fabricio_veronez/devops/curso_081">Imersão DevOps & Cloud 1 <img src="https://github.com/PedroHeeger/course/blob/main/outros/fabricio_veronez/devops/curso_081/0-aux/logo_course.png" alt="curso_081" style="height:25px; width:auto;"></a></li>
+        <li>curso_085: <a href="https://github.com/PedroHeeger/course/tree/main/4.linux/devops/curso_085">DevOps Essentials <img src="https://github.com/PedroHeeger/course/blob/main/4.linux/devops/curso_085/0-aux/logo_course.jpg" alt="curso_085" style="height:25px; width:auto;"></a></li>
+        <li>curso_116: <a href="https://github.com/PedroHeeger/course/blob/main/outros/fabricio_veronez/devops/curso_116">Imersão Docker e Kubernetes <img src="https://github.com/PedroHeeger/course/blob/main/outros/fabricio_veronez/devops/curso_116/0-aux/logo_course.png" alt="curso_116" style="height:25px; width:auto;"></a></li>
+        <li>boot_017: <a href="https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_017">Formação DevOps Fundamentals <img src="https://github.com/PedroHeeger/boot/blob/main/dio/devops/boot_017/0-aux/logo_boot.png" alt="boot_017" style="height:25px; width:auto;"></a></li>
+        <li>boot_020: <a href="https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_020">Jornada DevOps com AWS - Impulso <img src="https://github.com/PedroHeeger/boot/blob/main/dio/devops/boot_020/0-aux/logo_boot.webp" alt="boot_020" style="height:25px; width:auto;"></a></li>
       </ul>
     </details></li>
     <li><details><summary><b>🔃 Versioning</b></summary>
