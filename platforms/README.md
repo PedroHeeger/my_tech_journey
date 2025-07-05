@@ -3,9 +3,9 @@
 [Retornar para a pasta raíz](../)
 
 
-<div style="text-align: center;">
+<div align="center">
     <h3 style="text-align: center;">📌 Principais</h3>
-    <div style="text-align: center;">
+    <div align="center">
         <img alt="edn" src="./img/edn.png" style="height:85px; width:auto;"/>
         <img alt="vnw" src="./img/vnw.jpeg" style="height:85px; width:auto;"/>
         <img alt="sca" src="./img/sca.jpeg" style="height:85px; width:auto;"/>
@@ -19,9 +19,9 @@
     </div>
 </div>
 
-<div style="text-align: center;">
+<div align="center">
     <h3 style="text-align: center;">📎 Secundárias</h3>
-    <div style="text-align: center;">
+    <div align="center">
         <img alt="udemy" src="./img/udemy2.png" style="height:85px; width:auto;"/>
         <img alt="full_cycle" src="./img/full_cycle.jpg" style="height:85px; width:auto;"/>
         <img alt="cloud_treinamentos" src="./img/cloud_treinamentos.jpg" style="height:85px; width:auto;"/>
@@ -35,9 +35,9 @@
     </div>
 </div>
 
-<div style="text-align: center;">
+<div align="center">
     <h3 style="text-align: center;">🗣️ Languages</h3>
-    <div style="text-align: center;">
+    <div align="center">
         <img alt="lingopass" src="./img/language/lingopass.jpeg" style="height:85px; width:auto;"/>
         <img alt="acbeu" src="./img/language/acbeu.jpeg" style="height:85px; width:auto;"/>
     </div>
