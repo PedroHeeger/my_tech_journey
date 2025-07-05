@@ -1,5 +1,6 @@
 <!-- # Badges -->
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Military%20Medal.png" alt="Badge" width="45px"> Badges
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Military%20Medal.png" alt="Badges" width="45px"> Badges
+[Retornar para a pasta Credenciais](../)
 
 <table align="center" width="100%" style="border: 0px solid transparent;">
   <tr style="border: none; width: 100%;">
@@ -7,7 +8,7 @@
       <a href="./certificacoes/">
         <!-- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Activities/Trophy.png" alt="Certifications" width="120px"> -->
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Certifications" width="120px">
-        <br><span style="font-size: 1.2em;">Badges<br>de Certifications</span>
+        <br><span style="font-size: 1.2em;">Badges<br>de Certificações</span>
       </a>
     </td>
     <td align="center" style="border: none;">
