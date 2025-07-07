@@ -1,6 +1,6 @@
 <!-- # Plataformas -->
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Platforms" width="45px"> Plataformas de Estudos
-[Retornar para a pasta raíz](../)
+[Retornar para a pasta raiz](../)
 
 
 <div align="center">

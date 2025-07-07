@@ -1,6 +1,6 @@
 <!-- # Projetos -->
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Projects" width="45px"> Projetos
-[Retornar para a pasta raíz](../)
+[Retornar para a pasta raiz](../)
 
 <table align="center" width="100%" style="border: 0px solid transparent;">
   <tr style="border: none; width: 100%;">

@@ -154,37 +154,6 @@
   </ul>
 </details>
 
-<details><summary><b>🖥️ System Administration</b></summary>
-  <ul>
-    <li><details><summary><b>🧰 Configuration Management (CM)</b></summary>
-        <ul>
-          <li>
-            <details>
-              <summary>Terraform <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" style="height:25px; width:auto;"></summary>
-              <ul>
-                <li>boot_<a href="">a <img src="" alt="" style="height:25px; width:auto;"></a></li>
-              </ul>
-            </details>
-          </li>
-        </ul>
-      </details>
-    </li>
-    <li><details><summary><b>🖥️ Operating System (OS)</b></summary>
-        <ul>
-            <li><details><summary>Linux <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" style="height:25px; width:auto;"></summary>
-            <ul>
-                <li>boot_003: <a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003">Linux do Zero <img src="https://github.com/PedroHeeger/boot/blob/main/dio/linux/boot_003/0-aux/logo_boot.png" alt="boot_003" style="height:25px; width:auto;"></a></li>
-                <li>boot_004: <a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_004">Linux Experience <img src="https://github.com/PedroHeeger/boot/blob/main/dio/linux/boot_004/0-aux/logo_boot.png" alt="boot_004" style="height:25px; width:auto;"></a></li>
-                <li>boot_005: <a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_005">Formação Linux Fundamentals <img src="https://github.com/PedroHeeger/boot/blob/main/dio/linux/boot_005/0-aux/logo_boot.png" alt="boot_005" style="height:25px; width:auto;"></a></li>
-                <li>curso_077: <a href="https://github.com/PedroHeeger/course/tree/main/4.linux/linux/curso_077">Linux Fundamentals <img src="https://github.com/PedroHeeger/course/blob/main/4.linux/linux/curso_077/0-aux/logo_course.jpg" alt="curso_077" style="height:25px; width:auto;"></a></li>
-                <li>curso_083: <a href="https://github.com/PedroHeeger/course/tree/main/4.linux/linux/curso_083">Linux Essentials <img src="https://github.com/PedroHeeger/course/blob/main/4.linux/linux/curso_083/0-aux/logo_course.jpg" alt="curso_083" style="height:25px; width:auto;"></a></li>
-            </ul>
-            </details></li>
-        </ul>
-    </details></li>
-  </ul>
-</details>
-
 <details><summary><b>👨‍💻 Programming</b></summary>
   <ul>
     <li><details><summary><b>👨‍💻 Programming Languages</b></summary>
@@ -232,6 +201,37 @@
           </ul>
         </details></li>
       </ul>
+    </details></li>
+  </ul>
+</details>
+
+<details><summary><b>🖥️ System Administration</b></summary>
+  <ul>
+    <li><details><summary><b>🧰 Configuration Management (CM)</b></summary>
+        <ul>
+          <li>
+            <details>
+              <summary>Terraform <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" style="height:25px; width:auto;"></summary>
+              <ul>
+                <li>boot_<a href="">a <img src="" alt="" style="height:25px; width:auto;"></a></li>
+              </ul>
+            </details>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li><details><summary><b>🖥️ Operating System (OS)</b></summary>
+        <ul>
+            <li><details><summary>Linux <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" style="height:25px; width:auto;"></summary>
+            <ul>
+                <li>boot_003: <a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003">Linux do Zero <img src="https://github.com/PedroHeeger/boot/blob/main/dio/linux/boot_003/0-aux/logo_boot.png" alt="boot_003" style="height:25px; width:auto;"></a></li>
+                <li>boot_004: <a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_004">Linux Experience <img src="https://github.com/PedroHeeger/boot/blob/main/dio/linux/boot_004/0-aux/logo_boot.png" alt="boot_004" style="height:25px; width:auto;"></a></li>
+                <li>boot_005: <a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_005">Formação Linux Fundamentals <img src="https://github.com/PedroHeeger/boot/blob/main/dio/linux/boot_005/0-aux/logo_boot.png" alt="boot_005" style="height:25px; width:auto;"></a></li>
+                <li>curso_077: <a href="https://github.com/PedroHeeger/course/tree/main/4.linux/linux/curso_077">Linux Fundamentals <img src="https://github.com/PedroHeeger/course/blob/main/4.linux/linux/curso_077/0-aux/logo_course.jpg" alt="curso_077" style="height:25px; width:auto;"></a></li>
+                <li>curso_083: <a href="https://github.com/PedroHeeger/course/tree/main/4.linux/linux/curso_083">Linux Essentials <img src="https://github.com/PedroHeeger/course/blob/main/4.linux/linux/curso_083/0-aux/logo_course.jpg" alt="curso_083" style="height:25px; width:auto;"></a></li>
+            </ul>
+            </details></li>
+        </ul>
     </details></li>
   </ul>
 </details>
