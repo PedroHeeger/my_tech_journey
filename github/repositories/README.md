@@ -50,13 +50,15 @@
 
 <hr style="border: none; height: 1px; background: #ccc; margin: 30px 0;">
 
+
 <div>
     <a href="https://github.com/PedroHeeger/main" style="display: block;" target="_blank">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHeeger&repo=main&show_owner=true&bg_color=000000&title_color=FFA726&text_color=e5f7ef&icon_color=FFA726&border_color=000000" alt="Repositório Main" style="width: 50%; max-width: 400px; float: left;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHeeger&repo=main&show_owner=true&bg_color=000000&title_color=FFA726&text_color=e5f7ef&icon_color=FFA726&border_color=000000" alt="Repositório Main" style="width: 50%; max-width: 400px; float: left; height: 220px;">
     </a>
+    <div>
     <p style="margin: 0; padding: 0; width: 50%; float: left;">
         Este era o meu repositório principal até julho de 2025, quando foi substituído por este novo repositório (My Tech Journey). Ele tinha o mesmo propósito — servir como base para meu portfólio e trajetória profissional —, mas foi originalmente criado a partir de um fork de um curso da DIO, que fornecia um template de CV Online para desenvolvimento. Atualmente, o meu CV Online ainda está hospedado neste repositório antigo, enquanto um novo modelo está sendo desenvolvido e será implementado neste repositório atual.
-    </p>
+    </p></div>
     <div style="clear: both;"></div>
 </div>
 
