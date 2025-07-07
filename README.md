@@ -35,7 +35,7 @@
   </tr>
 
   <tr align="center" style="border: none; width: 100%;">
-    <td style="border: none;"></td> <!-- célula vazia -->
+    <td style="border:none; background-color: transparent; width: 10%;"></td> <!-- célula vazia -->
     <td align="center" style="border: none;">
       <a href="./github/">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="GitHub" width="120px">
