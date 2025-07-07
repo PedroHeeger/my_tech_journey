@@ -18,7 +18,7 @@
 
 ---
 
-<a name="item1"><h3>1 Introdução</h3></a>
+<a name="item1"><h3>1. Introdução</h3></a>
 [Retornar para o Sumário](#item0)   
 
 Seja muito bem-vindo! Me chamo Pedro Heeger Costa, tenho 32 anos e sou natural de Salvador-BA, onde resido atualmente. Sou formado em **Engenharia Civil** pela Universidade Católica do Salvador (Ucsal) e estou em transição de carreira para a área de tecnologia.
@@ -27,7 +27,7 @@ Tenho capacitação em **Engenharia e Análise de Dados**, **Análise, Arquitetu
 
 Este repositório é dedicado a registrar minha trajetória no universo da tecnologia — de onde parti, os caminhos que percorri e onde desejo chegar.
 
-<a name="item2"><h3>2 Fase 1 - Engenharia Civil</h3></a>
+<a name="item2"><h3>2. Fase 1 - Engenharia Civil</h3></a>
 [Retornar para o Sumário](#item0)   
 
 Iniciei minha carreira profissional em fevereiro de 2019, ainda durante a faculdade, como assistente administrativo em uma empresa de fiscalização de obras contratada pela companhia de água e saneamento de Salvador. Essa empresa era responsável por fiscalizar a construtora que executava uma obra de ampliação de um centro de reservação de abastecimento de água na cidade. Nessa obra foram construídos um reservatório apoiado, um reservatório elevado, uma estação elevatória, a rede de interligação e toda a urbanização do centro de reservação.
@@ -36,7 +36,7 @@ Com a conclusão da obra e a finalização da minha graduação, em junho de 202
 
 Foi nesse período que comecei a refletir sobre uma possível transição de carreira. Apesar de gostar da engenharia e do ambiente em que trabalhava, sentia que aquilo não me realizava completamente. Tinha a sensação de que podia ir além. Desde pequeno, sempre fui apaixonado por computadores e, aos 11 anos, já criava planilhas da Copa do Mundo com macros no Excel. Essa curiosidade me levou a questionar: *por que não aprender tecnologia? Por que não estudar programação?*
 
-<a name="item3"><h3>3 Fase 2 - Iniciando na Tecnologia</h3></a>
+<a name="item3"><h3>3. Fase 2 - Iniciando na Tecnologia</h3></a>
 [Retornar para o Sumário](#item0)   
 
 Foi nesse momento que ocorreu a virada de chave. Passei a pesquisar sobre tecnologia na internet, ler artigos e assistir a vídeos sobre o tema. Logo percebi que as perspectivas do mercado para essa área eram promissoras e em constante crescimento. Comecei a receber sugestões de cursos de **Python** e fiquei encantado com aquele universo — até que tomei uma das maiores decisões da minha vida: decidi sair do meu emprego para me dedicar aos estudos em tecnologia.
@@ -47,7 +47,7 @@ Como já havia pesquisado sobre áreas como **dados**, **banco de dados** e **li
 
 Foi então que surgiu uma nova turma para o mesmo bootcamp da **SoulCode Academy**. Decidi tentar novamente — e dessa vez, passei não apenas para a fase seguinte, mas fui selecionado para participar do programa completo.
 
-<a name="item4"><h3>4 Fase 3 - Meu Primeiro Curso ao Vivo</h3></a>
+<a name="item4"><h3>4. Fase 3 - Meu Primeiro Curso ao Vivo</h3></a>
 [Retornar para o Sumário](#item0)   
 
 No final de **outubro de 2021**, iniciei o bootcamp e o aprendizado foi incrível. Para quem não tinha conhecimento nenhum, foi super esclarecedor. Me ajudou a entender as áreas da tecnologia — coisas básicas que eu não conhecia — desde **sistemas operacionais** com o uso do **Linux**, passando por **conceitos de redes**, **linguagem de programação**, **banco de dados**, **comunicação entre a linguagem e o banco**, **big data**, até chegar à **cloud computing**. 
@@ -58,7 +58,7 @@ Após a conclusão do bootcamp, fiz outros cursos e continuei pesquisando sobre 
 
 Na época, participei do meu primeiro bootcamp na plataforma: o **Geração Tech Unimed-BH - Ciência de Dados**, onde tive um contato mais aprofundado com a área de **Ciência de Dados** e, mais uma vez, fiquei encantado. Concluí o bootcamp no final de **dezembro** do mesmo ano.
 
-<a name="item5"><h3>5 Fase 4 - Organização dos Estudos</h3></a>
+<a name="item5"><h3>5. Fase 4 - Organização dos Estudos</h3></a>
 [Retornar para o Sumário](#item0)
 
 Em **2023**, percebi que precisava me organizar. Eu tinha muito material e conteúdo acumulado, mas tudo estava desestruturado. Foi então que iniciei — e ainda estou nesse processo — a organização de todo o meu material de estudo.
@@ -67,7 +67,7 @@ Essa organização tem como base uma **planilha no Excel**, onde estruturo conce
 
 Durante esse período, realizei alguns cursos online e também conquistei minha **primeira certificação de inglês** — o nível **A1**, pela plataforma **LingoPass**, que conheci durante o bootcamp da **SoulCode Academy** e continuo utilizando até hoje. Futuramente, pretendo me dedicar com mais foco ao inglês.
 
-<a name="item6"><h3>6 Fase 5 - Organização do Perfil no GitHub</h3></a>
+<a name="item6"><h3>6. Fase 5 - Organização do Perfil no GitHub</h3></a>
 [Retornar para o Sumário](#item0)
 
 Durante o bootcamp de **Engenharia de Dados**, ouvi bastante sobre o **GitHub** como um repositório para projetos e como uma ferramenta essencial para montar um portfólio. Eu já tinha uma conta criada, mas ainda não entendia muito bem como funcionava. Foi então que comecei a pesquisar sobre o GitHub, assistir a aulas e fazer cursos para aprender a utilizá-lo de forma adequada.
@@ -80,7 +80,7 @@ Tenho muito carinho pelo meu GitHub. Neste texto, não vou detalhar toda a estru
 
 Caso queira saber mais, [clique aqui](../github/) para acessar a pasta **GitHub** deste repositório e entender toda a estrutura.
 
-<a name="item7"><h3>7 Fase 6 - Progresso na DIO</h3></a>
+<a name="item7"><h3>7. Fase 6 - Progresso na DIO</h3></a>
 [Retornar para o Sumário](#item0)
 
 A plataforma **Digital Innovation One (DIO)** também é de grande valor para mim. Ela se tornou uma das minhas principais fontes de estudo — senão a principal — por oferecer cursos em diversas áreas e assuntos. Foi a partir dela que consegui estruturar o **tripé do meu estudo**:
@@ -96,7 +96,7 @@ No período em que comecei a alimentar meu GitHub, em **julho de 2023**, os prim
 
 Durante esse período, realizei cursos de **Linux**, **Docker**, **HTML** e **Java**. Mais adiante, aprofundei os estudos em **Kubernetes**, **DevOps**, **CI/CD** e **GitLab**. Em outros momentos, explorei conteúdos voltados para **Inteligência Artificial**, **Blockchain** e **Cloud Computing**, com foco especial em **AWS** — sempre intercalando com outros estudos e temas complementares em outras plataformas.
 
-<a name="item8"><h3>8 Fase 7 - AWS Skill Builder</h3></a>
+<a name="item8"><h3>8. Fase 7 - AWS Skill Builder</h3></a>
 [Retornar para o Sumário](#item0)
 
 Ao realizar os bootcamps da **DIO** voltados para **AWS**, por voltada de **final de 2023**, fui apresentado a duas outras plataformas de estudo. A primeira delas foi o **AWS Skill Builder**, que rapidamente se tornou minha principal ferramenta para aprender sobre os serviços da AWS. A partir disso, criei um **repositório específico** dedicado à plataforma.
@@ -112,7 +112,7 @@ Com o tempo, o repositório dedicado ao **AWS Skill Builder** cresceu e passou a
 
 Além disso, esse repositório passou a reunir todo o material de estudo que criei ou utilizei na preparação para as minhas **certificações AWS**, tornando-se uma base central de referência na minha jornada com a nuvem da Amazon.
 
-<a name="item9"><h3>9 Fase 8 - Escola da Nuvem (EDN)</h3></a>
+<a name="item9"><h3>9. Fase 8 - Escola da Nuvem (EDN)</h3></a>
 [Retornar para o Sumário](#item0)
 
 A segunda plataforma que conheci por meio da **DIO** foi a **Escola da Nuvem (EDN)**. A EDN não é exatamente uma plataforma, mas sim uma **edtech** pela qual tenho imensa gratidão, pois foi com ela que realizei conquistas incríveis.
@@ -125,7 +125,7 @@ Mais adiante, em **março de 2025**, participei de um terceiro curso promovido p
 
 Todos os cursos foram incríveis, com profissionais altamente qualificados e de notório conhecimento técnico. Além da parte técnica, os cursos também abordaram **competências profissionais**, com aulas voltadas para desenvolvimento pessoal, apoio à **empregabilidade**, **revisão de currículo** e **networking** — aspectos fundamentais para minha evolução na carreira.
 
-<a name="item10"><h3>10 Fase 9 - Vai na Web (VNW)</h3></a>
+<a name="item10"><h3>10. Fase 9 - Vai na Web (VNW)</h3></a>
 [Retornar para o Sumário](#item0)
 
 Por meio do networking proporcionado pela **Escola da Nuvem (EDN)**, tive acesso a uma nova oportunidade de aprendizado: o curso **CyberSec**, uma iniciativa em parceria entre as empresas **Kensei** e **Vai na Web (VNW)**.
@@ -134,7 +134,7 @@ O curso teve início em **junho de 2025** e possui duração de **6 meses**. Seu
 
 Atualmente, estou participando do curso e, até o momento, o aprendizado tem sido incrível. Futuramente, volto aqui para contar o restante dessa história.
 
-<a name="item12"><h3>12 Onde quero chegar</h3></a>
+<a name="item12"><h3>12. Onde quero chegar</h3></a>
 [Retornar para o Sumário](#item0)
 
 Meu objetivo neste momento está dividido em duas frentes: **acumular o máximo de conhecimento possível** e **adquirir experiência prática**.
