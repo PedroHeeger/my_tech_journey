@@ -2,7 +2,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="About Me" width="45px"> Sobre Mim
 [Retornar para a pasta raiz](../)
 
-<a name="item0"><h1>Resumo</h1></a>
+<a name="item0"><h1>Sumário</h1></a>
 1. <a href="#item1">Introdução</a><br>
 2. <a href="#item2">Fase 1 - Engenharia Civil</a><br>
 3. <a href="#item3">Fase 2 - Iniciando na Tecnologia</a><br>
