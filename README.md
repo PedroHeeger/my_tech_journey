@@ -34,8 +34,8 @@
     </td>
   </tr>
 
-  <tr align="center" style="border: none; width: 100%;">
-    <td style="border: none; width: 20%;"></td> <!-- célula vazia -->
+  <tr style="border: none; width: 100%;">
+    <td style="border: none;" colspan="1"></td> <!-- espaçador esquerdo -->
     <td align="center" style="border: none;">
       <a href="./github/">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="GitHub" width="120px">
