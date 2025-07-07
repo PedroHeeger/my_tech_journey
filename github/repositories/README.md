@@ -2,7 +2,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Repositories" width="45px"> Repositórios
 [Retornar para a pasta GitHub](../)
 
-<div>
+<div style="margin-bottom: 30px;">
     <a href="https://github.com/PedroHeeger/my_tech_journey" style="display: block;" target="_blank">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHeeger&repo=my_tech_journey&show_owner=true&bg_color=000000&title_color=FFA726&text_color=e5f7ef&icon_color=FFA726&border_color=000000" alt="My Tech Journey" style="width: 50%; max-width: 400px; float: left;"/>
     </a>
@@ -14,7 +14,7 @@
 
 ---
 
-<div>
+<div style="margin-bottom: 30px;">
     <a href="https://github.com/PedroHeeger/boot" style="display: block;" target="_blank">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHeeger&repo=boot&show_owner=true&bg_color=000000&title_color=FFA726&text_color=e5f7ef&icon_color=FFA726&border_color=000000" alt="Boot Repo" style="width: 50%; max-width: 400px; float: left;"/>
     </a>
@@ -26,7 +26,7 @@
 
 ---
 
-<div>
+<div style="margin-bottom: 30px;">
     <a href="https://github.com/PedroHeeger/course" style="display: block;" target="_blank">
         <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHeeger&repo=course&show_owner=true&bg_color=000000&title_color=FFA726&text_color=e5f7ef&icon_color=FFA726&border_color=000000" alt="Course Repo" style="width: 50%; max-width: 400px; float: left;">
     </a>
@@ -38,7 +38,7 @@
 
 ---
 
-<div>
+<div style="margin-bottom: 30px;">
     <a href="https://github.com/PedroHeeger/aws_skb" style="display: block;" target="_blank">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHeeger&repo=aws_skb&show_owner=true&bg_color=000000&title_color=FFA726&text_color=e5f7ef&icon_color=FFA726&border_color=000000" alt="AWS Skill Builder" style="width: 50%; max-width: 400px; float: left;">
     </a>
@@ -50,7 +50,7 @@
 
 ---
 
-<div>
+<div style="margin-bottom: 30px;">
     <a href="https://github.com/PedroHeeger/main" style="display: block;" target="_blank">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHeeger&repo=main&show_owner=true&bg_color=000000&title_color=FFA726&text_color=e5f7ef&icon_color=FFA726&border_color=000000" alt="Repositório Main" style="width: 50%; max-width: 400px; float: left;">
     </a>
@@ -62,7 +62,7 @@
 
 ---
 
-<div>
+<div style="margin-bottom: 30px;">
     <a href="https://github.com/PedroHeeger/video" style="display: block;" target="_blank">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHeeger&repo=video&show_owner=true&bg_color=000000&title_color=FFA726&text_color=e5f7ef&icon_color=FFA726&border_color=000000" alt="Repositório Vídeos" style="width: 50%; max-width: 400px; float: left;">
     </a>
