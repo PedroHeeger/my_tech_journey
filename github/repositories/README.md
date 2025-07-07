@@ -1,6 +1,18 @@
 <!-- # Repositórios -->
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Repositories" width="45px"> Repositórios
-[Retornar para a pasta GitHub](../)
+[Retornar para a pasta Meu GitHub](../)
+
+<div>
+    <a href="https://github.com/PedroHeeger/pedroheeger" style="display: block;" target="_blank">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHeeger&repo=pedroheeger&show_owner=true&bg_color=000000&title_color=FFA726&text_color=e5f7ef&icon_color=FFA726&border_color=000000" alt="My Tech Journey" style="width: 50%; max-width: 400px; float: left;"/>
+    </a>
+    <p style="margin: 0; padding: 0; width: 50%; float: left;">
+        Este é o meu repositório que é utilizado para perfil no GitHub.
+    </p><br>
+    <div style="clear: both;"></div>
+</div>
+
+<hr style="border: none; height: 1px; background: #ccc; margin: 30px 0;">
 
 <div>
     <a href="https://github.com/PedroHeeger/my_tech_journey" style="display: block;" target="_blank">
@@ -70,5 +82,17 @@
     <p style="margin: 0; padding: 0; width: 50%; float: left;">
         Este é o meu repositório de vídeos, dedicado a videoaulas. Seu objetivo é armazenar aulas isoladas, que não fazem parte de um curso específico. A ideia é que seja um espaço objetivo e rápido, sem detalhamentos ou estruturas complexas.
     </p>
+    <div style="clear: both;"></div>
+</div>
+
+<hr style="border: none; height: 1px; background: #ccc; margin: 30px 0;">
+
+<div>
+    <a href="https://github.com/PedroHeeger/img" style="display: block;" target="_blank">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHeeger&repo=img&show_owner=true&bg_color=000000&title_color=FFA726&text_color=e5f7ef&icon_color=FFA726&border_color=000000" alt="My Tech Journey" style="width: 50%; max-width: 400px; float: left;"/>
+    </a>
+    <p style="margin: 0; padding: 0; width: 50%; float: left;">
+        Este é o meu novo repositório que é responsável por armazenar todas as logos de softwares e ferramentas que são referenciadas nos READMEs dos cursos.
+    </p><br>
     <div style="clear: both;"></div>
 </div>
