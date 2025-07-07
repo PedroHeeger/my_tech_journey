@@ -18,4 +18,3 @@ Enquanto essa atualização não estiver concluída, o currículo online continu
     </td>
   </tr>
 </table>
-
