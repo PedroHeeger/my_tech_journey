@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="45px"> Principal
 
-<table align="center" width="100%" style="border: 0px solid transparent;">
-  <tr style="border: none; width: 100%;">
+<table align="center" width="100%" style="border: 0px solid transparent; background-color: transparent;">
+  <tr style="border: none; width: 100%; background-color: transparent;">
     <td align="center" style="border: none;">
       <a href="./credentials/">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Receipt.png" alt="Credentials" width="120px">
@@ -34,7 +34,7 @@
     </td>
   </tr>
 
-  <tr style="border: none; width: 100%;">
+  <tr style="border: none; width: 100%; background-color: transparent;">
     <td style="border: none;" colspan="1"></td> <!-- espaçador esquerdo -->
     <td align="center" style="border: none;">
       <a href="./github/">
