@@ -1,6 +1,6 @@
 <!-- # Tecnologias Estudadas -->
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" alt="Technologies" width="45px"> Tecnologias Estudadas
-[Retornar para a pasta raíz](../)
+[Retornar para a pasta raiz](../)
 <!--
 ⬜ vazio 
 🟥 0-19
@@ -31,15 +31,20 @@
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 (100%)
 -->
 
-<details><summary><strong>🖥️ Programming Languages</strong></summary>
+<details><summary><strong>☁️ Cloud Computing</strong></summary>
 
-- ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ (60%)
-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜ (55%)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ (45%)
-- ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) 🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ (30%)
+- ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (80%)
+- ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ (20%)
+- ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white) 🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ (10%)
 </details>
 
-<details><summary><strong>🗄️ Databases</strong></summary>
+<details><summary><strong>📊 Data - Business Intelligence (BI)</strong></summary>
+
+- ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ (90%)
+- ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (80%)
+</details>
+
+<details><summary><strong>🗄️ Data - Databases</strong></summary>
 
 - ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ (65%)
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜ (55%)
@@ -47,70 +52,62 @@
 - ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white) 🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ (40%)
 </details>
 
-<details><summary><strong>📊 Business Intelligence (BI)</strong></summary>
-
-- ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ (90%)
-- ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (80%)
-</details>
-
-<details><summary><strong>🟠 Big Data</strong></summary>
+<details><summary><strong>🟠 Data - Big Data</strong></summary>
 
 - ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=%23E35A16) 🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ (20%)
 - ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white) 🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ (15%)
 </details>
 
-<details><summary><strong>☁️ Cloud Platforms</strong></summary>
-
-- ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (80%)
-- ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ (20%)
-- ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white) 🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜ (10%)
-</details>
-
-<details><summary><strong>📁 Repository and Versioning</strong></summary>
-
-- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜ (55%)
-- ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ (60%)
-</details>
-
-<details><summary><strong>⚙️ CI/CD</strong></summary>
-
-- ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ (30%)
-- ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FA1D1D?style=for-the-badge&logo=gitlab&logoColor=white) 🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ (25%)
-</details>
-
-<details><summary><strong>🐳 Containerization</strong></summary>
+<details><summary><strong>🐳 Development - Container</strong></summary>
 
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ (75%)
 - ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ (65%)
 </details>
 
-<details><summary><strong>📜 Infrastructure as Code (IaC)</strong></summary>
+<details><summary><strong>🚀 Development - CI/CD</strong></summary>
 
-- ![Terraform](https://img.shields.io/badge/Terraform-7F5AB6?style=for-the-badge&logo=terraform&logoColor=white) 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ (70%)
+- ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ (30%)
+- ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FA1D1D?style=for-the-badge&logo=gitlab&logoColor=white) 🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ (25%)
 </details>
 
-<details><summary><strong>🖥️ Operating Systems</strong></summary>
+<details><summary><strong>💻 Development - Integrated Development Environment (IDE)</strong></summary>
 
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ (60%)
-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ (65%)
-- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ (60%)
-- ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜ (50%)
+- ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ (90%)  
+- ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ (60%)
+- ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ (65%)
+- ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) 🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ (35%)
+- ![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white) 🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ (30%)
+- ![Remix IDE](https://img.shields.io/badge/Remix_IDE-6D7C5F?style=for-the-badge&logo=remix&logoColor=white) 🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ (30%)
 </details>
 
-<details><summary><strong>💻 Shell Languages</strong></summary>
+<details><summary><strong>🔃 Development - Versioning</strong></summary>
+
+- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜ (55%)
+- ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ (60%)
+</details>
+
+<details><summary><strong>👨‍💻 Programming - Programming Languages</strong></summary>
+
+- ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ (60%)
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜ (55%)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ (45%)
+- ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) 🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ (30%)
+</details>
+
+<details><summary><strong>💻 Programming - Shell Languages</strong></summary>
 
 - ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ (60%)
 - ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) 🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ (35%)
 </details>
 
-<details><summary><strong>🌐 Other Languages</strong></summary>
+<details><summary><strong>🌐 Programming - Other Languages</strong></summary>
 
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ (65%)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ (25%)
 - ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ (70%)
 </details>
 
-<details><summary><strong>📚 Library and Frameworks</strong></summary>
+<details><summary><strong>📚 Programming - Library and Frameworks</strong></summary>
 
 - ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ (65%)
 - ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ (65%)
@@ -122,7 +119,23 @@
 - ![Ganache](https://img.shields.io/badge/Ganache-1B1F1C?style=for-the-badge&logo=ganache&logoColor=white) 🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ (40%)
 </details>
 
-<details><summary><strong>☁️ AWS Services</strong></summary>
+<details><summary><strong>🧰 System Administration - Configuration Management (CM)</strong></summary>
+
+- ![Terraform](https://img.shields.io/badge/Terraform-7F5AB6?style=for-the-badge&logo=terraform&logoColor=white) 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ (70%)
+</details>
+
+<details><summary><strong>🖥️ System Administration - Operating Systems (OS)</strong></summary>
+
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ (60%)
+- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ (65%)
+- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ (60%)
+- ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜ (50%)
+</details>
+
+
+
+
+<details><summary><strong>☁️ Cloud Computing - AWS Services</strong></summary>
 
 - ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ (95%)
 - ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white) 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (80%)
@@ -157,17 +170,7 @@
 - ![AWS Certificate Manager](https://img.shields.io/badge/Certificate_Manager-1A202C?style=for-the-badge&logo=amazon-aws&logoColor=white) 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ (65%) 
 </details>
 
-<details><summary><strong>💻 Integrated Development Environment (IDE)</strong></summary>
-
-- ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ (90%)  
-- ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ (60%)
-- ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ (65%)
-- ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) 🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ (35%)
-- ![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white) 🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ (30%)
-- ![Remix IDE](https://img.shields.io/badge/Remix_IDE-6D7C5F?style=for-the-badge&logo=remix&logoColor=white) 🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ (30%)
-</details>
-
-<details><summary><strong>🔐 Blockchain Tools</strong></summary>
+<details><summary><strong>🔗 Blockchain - Blockchain Tools</strong></summary>
 
 - ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white) 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ (90%)
 - ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜ (55%)
