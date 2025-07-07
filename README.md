@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="45px"> Principal
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Evergreen%20Tree.png" alt="Root" width="45px"> Raiz do Repositório
 
 <table align="center" width="100%" style="border: 0px solid transparent; background-color: transparent;">
   <tr style="border: none; width: 100%; background-color: transparent;">
