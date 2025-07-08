@@ -1,6 +1,32 @@
 
 0_outros/*
 index.html
+technologies/tech.html
+
+
 
 credentials/lkd_selos/*
-technologies/tech.html
+credentials/certificates/0_others/*
+credentials/certificates/bootcamps/ai/mat/*
+credentials/certificates/bootcamps/ai/mod/*
+credentials/certificates/bootcamps/blockchain/mat/*
+credentials/certificates/bootcamps/blockchain/mod/*
+credentials/certificates/bootcamps/cloud/mat/*
+credentials/certificates/bootcamps/cloud/mod/*
+
+credentials/certificates/bootcamps/data/mat/*
+credentials/certificates/bootcamps/data/mod/*
+credentials/certificates/bootcamps/development/container/docker/mat/*
+credentials/certificates/bootcamps/development/container/docker/mod/*
+credentials/certificates/bootcamps/development/container/kubernetes/mat/*
+credentials/certificates/bootcamps/development/container/kubernetes/mod/*
+credentials/certificates/bootcamps/development/devops/mat/*
+credentials/certificates/bootcamps/development/devops/mod/*
+
+credentials/certificates/bootcamps/programming/html/mat/*
+credentials/certificates/bootcamps/programming/html/mod/*
+credentials/certificates/bootcamps/programming/java/mat/*
+credentials/certificates/bootcamps/programming/java/mod/*
+
+credentials/certificates/bootcamps/sys_adm/os/linux/mat/*
+credentials/certificates/bootcamps/sys_adm/os/linux/mod/*
