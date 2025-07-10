@@ -132,7 +132,7 @@
     </ul>
 </details>
 
-<details><summary>Blockchain e Web3</summary>
+<details><summary>🔗 Blockchain</summary>
     <ul>
         <li><details><summary>Introdução à Blockchain</summary>
             <ul>
@@ -335,7 +335,7 @@
     </ul>
 </details>
 
-<details><summary>Cloud - AWS</summary>
+<details><summary>☁️ Cloud - AWS</summary>
     <ul>
         <li><details><summary>Primeiros Passos com AWS</summary>
             <ul>
