@@ -826,117 +826,224 @@
     </ul>
 </details>
 
-<details><summary>Container - Docker</summary>
-    <ul>
-        <li><details><summary>Docker: Utilização Prática no Cenário de Microsserviços</summary>
-            <ul>
-                <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-07-31)_Docker...Cenario...Microsservicos_PH_DIO.pdf">Certificado (PDF)</a></li>
-                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/03-servidor_linux#item3.5">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
-                <li><strong>Carga Horária:</strong> 2 Horas</li>
-                <li><strong>Concluído em:</strong> 31/07/2023</li>
-            </ul>
-        </details></li>
-        <li><details><summary>Introdução e Laboratório Virtual</summary>
-            <ul>
-                <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-17)_Introducao...Laboratorio_Virtual_PH_DIO.pdf">Certificado (PDF)</a></li>
-                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/01-introducao_docker#item1.1">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
-                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                <li><strong>Concluído em:</strong> 17/08/2023</li>
-            </ul>
-        </details></li>
-        <li><details><summary>Primeiros Passos com o Docker</summary>
-            <ul>
-                <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-18)_Primeiros_Passos...Docker_PH_DIO.pdf">Certificado (PDF)</a></li>
-                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/01-introducao_docker#item1.2">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
-                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                <li><strong>Concluído em:</strong> 18/08/2023</li>
-            </ul>
-        </details></li>
-        <li><details><summary>Armazenamento de Dados com Docker</summary>
-            <ul>
-                <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-18)_Armazenamento...Dados...Docker_PH_DIO.pdf">Certificado (PDF)</a></li>
-                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/01-introducao_docker#item1.3">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
-                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                <li><strong>Concluído em:</strong> 18/08/2023</li>
-            </ul>
-        </details></li>
-        <li><details><summary>Processamento, Logs e Rede com Docker</summary>
-            <ul>
-                <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-19)_Processamento...Logs...Rede...Docker_PH_DIO.pdf">Certificado (PDF)</a></li>
-                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/01-introducao_docker#item1.4">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
-                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                <li><strong>Concluído em:</strong> 19/08/2023</li>
-            </ul>
-        </details></li>
-        <li><details><summary>Definição e Criação de um Docker File</summary>
-            <ul>
-                <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-19)_Definicao...Criacao...Docker_File_PH_DIO.pdf">Certificado (PDF)</a></li>
-                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/02-dockerfile_compose#item2.1">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
-                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                <li><strong>Concluído em:</strong> 19/08/2023</li>
-            </ul>
-        </details></li>
-        <li><details><summary>Docker Compose</summary>
-            <ul>
-                <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-21)_Docker_Compose_PH_DIO.pdf">Certificado (PDF)</a></li>
-                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/02-dockerfile_compose#item2.2">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
-                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                <li><strong>Concluído em:</strong> 21/08/2023</li>
-            </ul>
-        </details></li>
-        <li><details><summary>Criando um Container de uma Aplicação WEB</summary>
-            <ul>
-                <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-21)_Criando...Container...Aplicacao_WEB_PH_DIO.pdf">Certificado (PDF)</a></li>
-                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/02-dockerfile_compose#item2.3">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
-                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                <li><strong>Concluído em:</strong> 21/08/2023</li>
-            </ul>
-        </details></li>
-        <li><details><summary>Criando um Cluster com o Docker Swarm</summary>
-            <ul>
-                <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-22)_Criando...Cluster...Docker_Swarm_PH_DIO.pdf">Certificado (PDF)</a></li>
-                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/03-docker_swarm#item3.1">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
-                <li><strong>Carga Horária:</strong> 2 Horas</li>
-                <li><strong>Concluído em:</strong> 22/08/2023</li>
-            </ul>
-        </details></li>
-        <li><details><summary>Load Balancer</summary>
-            <ul>
-                <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-21)_Load_Balancer_PH_DIO.pdf">Certificado (PDF)</a></li>
-                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/03-docker_swarm#item3.2">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
-                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                <li><strong>Concluído em:</strong> 21/08/2023</li>
-            </ul>
-        </details></li>
-        <li><details><summary>Definição de um Cluster Swarm Local com o Vagrant</summary>
-            <ul>
-                <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-22)_Definicao...Cluster_Swarm_Local...Vagrant_PH_DIO.pdf">Certificado (PDF)</a></li>
-                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/03-docker_swarm#item3.3">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
-                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                <li><strong>Concluído em:</strong> 22/08/2023</li>
-            </ul>
-        </details></li>
-        <li><details><summary>538 - Containers Fundamentals</summary>
-            <ul>
-                <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-11-09)_Containers_Fundamentals_PH_4.Linux.pdf">Certificado (PDF)</a></li>
-                <li><a href="https://github.com/PedroHeeger/course/tree/main/4.linux/docker/curso_084">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> 4.Linux</li>
-                <li><strong>Carga Horária:</strong> 20 Horas</li>
-                <li><strong>Concluído em:</strong> 09/11/2023</li>
-            </ul>
-        </details></li>
-    </ul>
+<details><summary>🐳 Development - Container</summary>
+  <ul>
+    <li><details><summary>Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" style="height:25px; width:auto;"></summary>
+        <ul>
+            <li><details><summary>Docker: Utilização Prática no Cenário de Microsserviços</summary>
+                <ul>
+                    <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-07-31)_Docker...Cenario...Microsservicos_PH_DIO.pdf">Certificado (PDF)</a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/03-servidor_linux#item3.5">Pasta do Projeto</a></li>
+                    <li><strong>Plataforma:</strong> DIO</li>
+                    <li><strong>Carga Horária:</strong> 2 Horas</li>
+                    <li><strong>Concluído em:</strong> 31/07/2023</li>
+                </ul>
+            </details></li>
+            <li><details><summary>Introdução e Laboratório Virtual</summary>
+                <ul>
+                    <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-17)_Introducao...Laboratorio_Virtual_PH_DIO.pdf">Certificado (PDF)</a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/01-introducao_docker#item1.1">Pasta do Projeto</a></li>
+                    <li><strong>Plataforma:</strong> DIO</li>
+                    <li><strong>Carga Horária:</strong> 1 Hora</li>
+                    <li><strong>Concluído em:</strong> 17/08/2023</li>
+                </ul>
+            </details></li>
+            <li><details><summary>Primeiros Passos com o Docker</summary>
+                <ul>
+                    <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-18)_Primeiros_Passos...Docker_PH_DIO.pdf">Certificado (PDF)</a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/01-introducao_docker#item1.2">Pasta do Projeto</a></li>
+                    <li><strong>Plataforma:</strong> DIO</li>
+                    <li><strong>Carga Horária:</strong> 1 Hora</li>
+                    <li><strong>Concluído em:</strong> 18/08/2023</li>
+                </ul>
+            </details></li>
+            <li><details><summary>Armazenamento de Dados com Docker</summary>
+                <ul>
+                    <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-18)_Armazenamento...Dados...Docker_PH_DIO.pdf">Certificado (PDF)</a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/01-introducao_docker#item1.3">Pasta do Projeto</a></li>
+                    <li><strong>Plataforma:</strong> DIO</li>
+                    <li><strong>Carga Horária:</strong> 1 Hora</li>
+                    <li><strong>Concluído em:</strong> 18/08/2023</li>
+                </ul>
+            </details></li>
+            <li><details><summary>Processamento, Logs e Rede com Docker</summary>
+                <ul>
+                    <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-19)_Processamento...Logs...Rede...Docker_PH_DIO.pdf">Certificado (PDF)</a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/01-introducao_docker#item1.4">Pasta do Projeto</a></li>
+                    <li><strong>Plataforma:</strong> DIO</li>
+                    <li><strong>Carga Horária:</strong> 1 Hora</li>
+                    <li><strong>Concluído em:</strong> 19/08/2023</li>
+                </ul>
+            </details></li>
+            <li><details><summary>Definição e Criação de um Docker File</summary>
+                <ul>
+                    <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-19)_Definicao...Criacao...Docker_File_PH_DIO.pdf">Certificado (PDF)</a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/02-dockerfile_compose#item2.1">Pasta do Projeto</a></li>
+                    <li><strong>Plataforma:</strong> DIO</li>
+                    <li><strong>Carga Horária:</strong> 1 Hora</li>
+                    <li><strong>Concluído em:</strong> 19/08/2023</li>
+                </ul>
+            </details></li>
+            <li><details><summary>Docker Compose</summary>
+                <ul>
+                    <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-21)_Docker_Compose_PH_DIO.pdf">Certificado (PDF)</a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/02-dockerfile_compose#item2.2">Pasta do Projeto</a></li>
+                    <li><strong>Plataforma:</strong> DIO</li>
+                    <li><strong>Carga Horária:</strong> 1 Hora</li>
+                    <li><strong>Concluído em:</strong> 21/08/2023</li>
+                </ul>
+            </details></li>
+            <li><details><summary>Criando um Container de uma Aplicação WEB</summary>
+                <ul>
+                    <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-21)_Criando...Container...Aplicacao_WEB_PH_DIO.pdf">Certificado (PDF)</a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/02-dockerfile_compose#item2.3">Pasta do Projeto</a></li>
+                    <li><strong>Plataforma:</strong> DIO</li>
+                    <li><strong>Carga Horária:</strong> 1 Hora</li>
+                    <li><strong>Concluído em:</strong> 21/08/2023</li>
+                </ul>
+            </details></li>
+            <li><details><summary>Criando um Cluster com o Docker Swarm</summary>
+                <ul>
+                    <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-22)_Criando...Cluster...Docker_Swarm_PH_DIO.pdf">Certificado (PDF)</a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/03-docker_swarm#item3.1">Pasta do Projeto</a></li>
+                    <li><strong>Plataforma:</strong> DIO</li>
+                    <li><strong>Carga Horária:</strong> 2 Horas</li>
+                    <li><strong>Concluído em:</strong> 22/08/2023</li>
+                </ul>
+            </details></li>
+            <li><details><summary>Load Balancer</summary>
+                <ul>
+                    <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-21)_Load_Balancer_PH_DIO.pdf">Certificado (PDF)</a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/03-docker_swarm#item3.2">Pasta do Projeto</a></li>
+                    <li><strong>Plataforma:</strong> DIO</li>
+                    <li><strong>Carga Horária:</strong> 1 Hora</li>
+                    <li><strong>Concluído em:</strong> 21/08/2023</li>
+                </ul>
+            </details></li>
+            <li><details><summary>Definição de um Cluster Swarm Local com o Vagrant</summary>
+                <ul>
+                    <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-22)_Definicao...Cluster_Swarm_Local...Vagrant_PH_DIO.pdf">Certificado (PDF)</a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/03-docker_swarm#item3.3">Pasta do Projeto</a></li>
+                    <li><strong>Plataforma:</strong> DIO</li>
+                    <li><strong>Carga Horária:</strong> 1 Hora</li>
+                    <li><strong>Concluído em:</strong> 22/08/2023</li>
+                </ul>
+            </details></li>
+            <li><details><summary>538 - Containers Fundamentals</summary>
+                <ul>
+                    <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-11-09)_Containers_Fundamentals_PH_4.Linux.pdf">Certificado (PDF)</a></li>
+                    <li><a href="https://github.com/PedroHeeger/course/tree/main/4.linux/docker/curso_084">Pasta do Projeto</a></li>
+                    <li><strong>Plataforma:</strong> 4.Linux</li>
+                    <li><strong>Carga Horária:</strong> 20 Horas</li>
+                    <li><strong>Concluído em:</strong> 09/11/2023</li>
+                </ul>
+            </details></li>
+        </ul>
+    </details></li>
+    <li><details><summary>Kubernetes <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" style="height:25px; width:auto;"></summary>
+        <ul>
+            <li><details><summary>Kubernetes Overview</summary>
+                <ul>
+                    <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-15)_Kubernetes_Overview_PH_DIO.pdf">Certificado (PDF)</a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/01-introducao_kubernetes#item1.1">Pasta do Projeto</a></li>
+                    <li><strong>Plataforma:</strong> DIO</li>
+                    <li><strong>Carga Horária:</strong> 1 Hora</li>
+                    <li><strong>Concluído em:</strong> 15/02/2024</li>
+                </ul>
+            </details></li>
+            <li><details><summary>Ambiente de Desenvolvimento Kubernetes</summary>
+                <ul>
+                    <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-15)_Ambiente...Kubernetes_PH_DIO.pdf">Certificado (PDF)</a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/01-introducao_kubernetes#item1.2">Pasta do Projeto</a></li>
+                    <li><strong>Plataforma:</strong> DIO</li>
+                    <li><strong>Carga Horária:</strong> 1 Hora</li>
+                    <li><strong>Concluído em:</strong> 15/02/2024</li>
+                </ul>
+            </details></li>
+            <li><details><summary>Cluster Kubernetes em Nuvem</summary>
+                <ul>
+                    <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-16)_Cluster_Kubernetes..._PH_DIO.pdf">Certificado (PDF)</a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/01-introducao_kubernetes#item1.3">Pasta do Projeto</a></li>
+                    <li><strong>Plataforma:</strong> DIO</li>
+                    <li><strong>Carga Horária:</strong> 2 Horas</li>
+                    <li><strong>Concluído em:</strong> 16/02/2024</li>
+                </ul>
+            </details></li>
+            <li><details><summary>Conceitos Básicos Sobre Pods em Kubernetes</summary>
+                <ul>
+                    <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-17)_Conceitos...Pods...Kubernetes_PH_DIO.pdf">Certificado (PDF)</a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/02-primeiros_passos#item2.1">Pasta do Projeto</a></li>
+                    <li><strong>Plataforma:</strong> DIO</li>
+                    <li><strong>Carga Horária:</strong> 1 Hora</li>
+                    <li><strong>Concluído em:</strong> 17/02/2024</li>
+                </ul>
+            </details></li>
+            <li><details><summary>Criando Imagens Personalizadas com o Docker</summary>
+                <ul>
+                    <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-17)_Criando_Imagens...Docker_PH_DIO.pdf">Certificado (PDF)</a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/02-primeiros_passos#item2.2">Pasta do Projeto</a></li>
+                    <li><strong>Plataforma:</strong> DIO</li>
+                    <li><strong>Carga Horária:</strong> 1 Hora</li>
+                    <li><strong>Concluído em:</strong> 17/02/2024</li>
+                </ul>
+            </details></li>
+            <li><details><summary>Serviços de Acesso para Kubernetes Pods</summary>
+                <ul>
+                    <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-19)_Servicos...Kubernetes_Pod_PH_DIO.pdf">Certificado (PDF)</a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/03-expondo_conectando#item3.1">Pasta do Projeto</a></li>
+                    <li><strong>Plataforma:</strong> DIO</li>
+                    <li><strong>Carga Horária:</strong> 2 Horas</li>
+                    <li><strong>Concluído em:</strong> 19/02/2024</li>
+                </ul>
+            </details></li>
+            <li><details><summary>Persistência de Dados em Clusters Kubernetes</summary>
+                <ul>
+                    <li><a href="../cert_ti/04-curso/distributed_computing//kubernetes/(24-02-19)_Persistencia...Dados...Kubernetes_Pod_PH_DIO.pdf">Certificado (PDF)</a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/03-expondo_conectando#item3.2">Pasta do Projeto</a></li>
+                    <li><strong>Plataforma:</strong> DIO</li>
+                    <li><strong>Carga Horária:</strong> 2 Horas</li>
+                    <li><strong>Concluído em:</strong> 19/02/2024</li>
+                </ul>
+            </details></li>
+            <li><details><summary>Criando um Deploy de uma Aplicação</summary>
+                <ul>
+                    <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-20)_Criando...Deploy...Aplicacao_PH_DIO.pdf">Certificado (PDF)</a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/03-expondo_conectando#item3.3">Pasta do Projeto</a></li>
+                    <li><strong>Plataforma:</strong> DIO</li>
+                    <li><strong>Carga Horária:</strong> 1 Hora</li>
+                    <li><strong>Concluído em:</strong> 20/02/2024</li>
+                </ul>
+            </details></li>
+            <li><details><summary>Deployment e Roolback em Clusters Kubernetes</summary>
+                <ul>
+                    <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-19)_Deployment...Roolback_PH_DIO.pdf">Certificado (PDF)</a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/04-automatizando#item4.1">Pasta do Projeto</a></li>
+                    <li><strong>Plataforma:</strong> DIO</li>
+                    <li><strong>Carga Horária:</strong> 1 Hora</li>
+                    <li><strong>Concluído em:</strong> 19/02/2024</li>
+                </ul>
+            </details></li>
+            <li><details><summary>CI-CD Utilizando Kubernetes</summary>
+                <ul>
+                    <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-20)_CI-CD...Kubernetes_PH_DIO.pdf">Certificado (PDF)</a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/04-automatizando#item4.2">Pasta do Projeto</a></li>
+                    <li><strong>Plataforma:</strong> DIO</li>
+                    <li><strong>Carga Horária:</strong> 2 Horas</li>
+                    <li><strong>Concluído em:</strong> 20/02/2024</li>
+                </ul>
+            </details></li>
+            <li><details><summary>Criando um Pipeline de Deploy com GitLab e Kubernetes</summary>
+                <ul>
+                    <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-20)...Pipeline...Git_Lab...Kubernetes_PH_DIO.pdf">Certificado (PDF)</a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/04-automatizando#item4.3">Pasta do Projeto</a></li>
+                    <li><strong>Plataforma:</strong> DIO</li>
+                    <li><strong>Carga Horária:</strong> 1 Hora</li>
+                    <li><strong>Concluído em:</strong> 20/02/2024</li>
+                </ul>
+            </details></li>
+        </ul>
+    </details></li>
+   </ul>
 </details>
 
 <details><summary>Container - Kubernetes</summary>
