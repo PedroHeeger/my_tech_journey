@@ -1046,111 +1046,7 @@
    </ul>
 </details>
 
-<details><summary>Container - Kubernetes</summary>
-    <ul>
-        <li><details><summary>Kubernetes Overview</summary>
-            <ul>
-                <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-15)_Kubernetes_Overview_PH_DIO.pdf">Certificado (PDF)</a></li>
-                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/01-introducao_kubernetes#item1.1">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
-                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                <li><strong>Concluído em:</strong> 15/02/2024</li>
-            </ul>
-        </details></li>
-        <li><details><summary>Ambiente de Desenvolvimento Kubernetes</summary>
-            <ul>
-                <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-15)_Ambiente...Kubernetes_PH_DIO.pdf">Certificado (PDF)</a></li>
-                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/01-introducao_kubernetes#item1.2">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
-                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                <li><strong>Concluído em:</strong> 15/02/2024</li>
-            </ul>
-        </details></li>
-        <li><details><summary>Cluster Kubernetes em Nuvem</summary>
-            <ul>
-                <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-16)_Cluster_Kubernetes..._PH_DIO.pdf">Certificado (PDF)</a></li>
-                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/01-introducao_kubernetes#item1.3">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
-                <li><strong>Carga Horária:</strong> 2 Horas</li>
-                <li><strong>Concluído em:</strong> 16/02/2024</li>
-            </ul>
-        </details></li>
-        <li><details><summary>Conceitos Básicos Sobre Pods em Kubernetes</summary>
-            <ul>
-                <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-17)_Conceitos...Pods...Kubernetes_PH_DIO.pdf">Certificado (PDF)</a></li>
-                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/02-primeiros_passos#item2.1">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
-                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                <li><strong>Concluído em:</strong> 17/02/2024</li>
-            </ul>
-        </details></li>
-        <li><details><summary>Criando Imagens Personalizadas com o Docker</summary>
-            <ul>
-                <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-17)_Criando_Imagens...Docker_PH_DIO.pdf">Certificado (PDF)</a></li>
-                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/02-primeiros_passos#item2.2">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
-                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                <li><strong>Concluído em:</strong> 17/02/2024</li>
-            </ul>
-        </details></li>
-        <li><details><summary>Serviços de Acesso para Kubernetes Pods</summary>
-            <ul>
-                <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-19)_Servicos...Kubernetes_Pod_PH_DIO.pdf">Certificado (PDF)</a></li>
-                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/03-expondo_conectando#item3.1">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
-                <li><strong>Carga Horária:</strong> 2 Horas</li>
-                <li><strong>Concluído em:</strong> 19/02/2024</li>
-            </ul>
-        </details></li>
-        <li><details><summary>Persistência de Dados em Clusters Kubernetes</summary>
-            <ul>
-                <li><a href="../cert_ti/04-curso/distributed_computing//kubernetes/(24-02-19)_Persistencia...Dados...Kubernetes_Pod_PH_DIO.pdf">Certificado (PDF)</a></li>
-                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/03-expondo_conectando#item3.2">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
-                <li><strong>Carga Horária:</strong> 2 Horas</li>
-                <li><strong>Concluído em:</strong> 19/02/2024</li>
-            </ul>
-        </details></li>
-        <li><details><summary>Criando um Deploy de uma Aplicação</summary>
-            <ul>
-                <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-20)_Criando...Deploy...Aplicacao_PH_DIO.pdf">Certificado (PDF)</a></li>
-                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/03-expondo_conectando#item3.3">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
-                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                <li><strong>Concluído em:</strong> 20/02/2024</li>
-            </ul>
-        </details></li>
-        <li><details><summary>Deployment e Roolback em Clusters Kubernetes</summary>
-            <ul>
-                <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-19)_Deployment...Roolback_PH_DIO.pdf">Certificado (PDF)</a></li>
-                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/04-automatizando#item4.1">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
-                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                <li><strong>Concluído em:</strong> 19/02/2024</li>
-            </ul>
-        </details></li>
-        <li><details><summary>CI-CD Utilizando Kubernetes</summary>
-            <ul>
-                <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-20)_CI-CD...Kubernetes_PH_DIO.pdf">Certificado (PDF)</a></li>
-                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/04-automatizando#item4.2">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
-                <li><strong>Carga Horária:</strong> 2 Horas</li>
-                <li><strong>Concluído em:</strong> 20/02/2024</li>
-            </ul>
-        </details></li>
-        <li><details><summary>Criando um Pipeline de Deploy com GitLab e Kubernetes</summary>
-            <ul>
-                <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-20)...Pipeline...Git_Lab...Kubernetes_PH_DIO.pdf">Certificado (PDF)</a></li>
-                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/04-automatizando#item4.3">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
-                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                <li><strong>Concluído em:</strong> 20/02/2024</li>
-            </ul>
-        </details></li>
-    </ul>
-</details>
-
-<details><summary> Data - Excel</summary>
+<details><summary>💾 Data - Excel</summary>
     <ul>
         <li><details><summary>Excel 2010 - Básico</summary>
             <ul>
@@ -1164,7 +1060,7 @@
     </ul>
 </details>
 
-<details><summary>Development</summary>
+<details><summary>💻 Development</summary>
     <ul>
         <li><details><summary>Introdução ao Desenvolvimento Moderno de Software</summary>
             <ul>
@@ -1196,7 +1092,7 @@
     </ul>
 </details>
 
-<details><summary>Development - Devops</summary>
+<details><summary>🛠️ Development - Devops</summary>
     <ul>
         <li><details><summary>DevOps: Tudo o que você precisa saber</summary>
             <ul>
