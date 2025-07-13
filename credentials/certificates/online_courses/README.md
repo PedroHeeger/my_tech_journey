@@ -1205,7 +1205,7 @@
     </ul>
 </details>
 
-<details><summary>Development - Versioning - Git e GitHub</summary>
+<details><summary>🔃 Development - Versioning - Git e GitHub</summary>
     <ul>
         <li><details><summary>Git e GitHub</summary>
             <ul>
