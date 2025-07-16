@@ -5,7 +5,7 @@
     <ul>
         <li><details><summary>Algoritmos e Aprendizado de Máquina</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/ai/(24-08-07)_Algoritmos...Aprendizado...Maquina_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./ai/240807_Algoritmos...Aprendizado...Maquina_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_023/01-fundamentos_ml_ia_gen#item1.2">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -14,7 +14,7 @@
         </details></li>
         <li><details><summary>Processamento de Linguagem Natural</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/ai/(24-08-07)_Processamento...Linguagem_Natural_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./ai/240807_Processamento...Linguagem_Natural_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_023/01-fundamentos_ml_ia_gen#item1.3">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -23,7 +23,7 @@
         </details></li>
         <li><details><summary>O que são IAs Generativas</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/ai/(24-08-07)...IAs_Generativas_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./ai/240807...IAs_Generativas_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_023/01-fundamentos_ml_ia_gen#item1.4">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 1 Hora</li>
