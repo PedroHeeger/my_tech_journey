@@ -32,7 +32,7 @@
         </details></li>
         <li><details><summary>Introdução ao SageMaker Canvas: IA Generativas Sem Código</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/ai/(24-08-09)_Introducao...SageMaker_Canvas...PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./ai/240809_Introducao...SageMaker_Canvas...PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_023/02-nlp#item2.2">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 3 Horas</li>
@@ -41,7 +41,7 @@
         </details></li>
         <li><details><summary>Transformando Dados em Insights com SageMaker Canvas</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/ai/(24-08-09)_Transformando...Insights...SageMaker_Cavans_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./ai/240809_Transformando...Insights...SageMaker_Cavans_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_023/02-nlp#item2.3">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -50,7 +50,7 @@
         </details></li>
         <li><details><summary>Desafios de Projetos: Previsão de Estoque Inteligente na AWS com Sagemaker Canvas</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/ai/">Certificado (PDF)</a></li>
+                <li><a href="./ai/">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_023/02-nlp#item2.7">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -59,7 +59,7 @@
         </details></li>
         <li><details><summary>Introdução à Inteligência Artificial</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/ai/(24-08-09)_Introducao...IA_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./ai/240809_Introducao...IA_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_024#item1.1">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -68,7 +68,7 @@
         </details></li>
         <li><details><summary>Aplicações e Impacto da IA no Mundo Atual</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/ai/(24-08-09)_Aplicacoes...IA...Mundo_Atual_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./ai/240809_Aplicacoes...IA...Mundo_Atual_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_024#item1.2">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 1 Hora</li>
