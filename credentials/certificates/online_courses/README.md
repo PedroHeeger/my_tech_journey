@@ -77,7 +77,7 @@
         </details></li>
         <li><details><summary>Aplicações Práticas da Inteligência Artificial</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/ai/(24-08-10)_Aplicacoes_Pratica...IA_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./ai/240810_Aplicacoes_Pratica...IA_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_024#item2.1">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -86,7 +86,7 @@
         </details></li>
         <li><details><summary>Desafio de Projeto: Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/ai/(24-08-12)_DP-Natural...Fake_Natty...IAs_Generativas_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./ai/240812_DP-Natural...Fake_Natty...IAs_Generativas_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_024#item2.2">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -95,7 +95,7 @@
         </details></li>
         <li><details><summary>Visão Computacional</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/ai/(24-08-12)_Visao_Computacional_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./ai/240812_Visao_Computacional_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_024#item3.3">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -104,7 +104,7 @@
         </details></li>
         <li><details><summary>Mentoria: Amazon Bedrock – A Nova Era da Inteligência Artificial Generativa</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/ai/(24-09-06)_Ment_Amazon_Bedrock...IA_Generativa_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./ai/240906_Ment_Amazon_Bedrock...IA_Generativa_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_028#item2.1">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -113,7 +113,7 @@
         </details></li>
         <li><details><summary>Mentoria: Dominando IA Generativa com Claude 3 no Amazon Bedrock</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/ai/(24-09-08)_Ment...IA_Generativa...Claude_3...Amazon_Bedrock_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./ai/240908_Ment...IA_Generativa...Claude_3...Amazon_Bedrock_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_028#item2.2">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -122,7 +122,7 @@
         </details></li>
         <li><details><summary>Mentoria: Amazon Q – IA Generativa como Copiloto de Programação Python</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/ai/(24-09-08)_Ment_Amazon%20Q_IA_Generativa...Copiloto...PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./ai/240908_Ment_Amazon Q_IA_Generativa...Copiloto...PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_028#item2.3">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 2 Horas</li>
