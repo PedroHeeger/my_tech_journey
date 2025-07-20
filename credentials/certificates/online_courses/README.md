@@ -163,7 +163,7 @@
         </details></li>
         <li><details><summary>Cryptocurrencies com Blockchain</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/blockchain/(24-08-16)_Cryptocurrencies...Blockchain_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./blockchain/240816_Cryptocurrencies...Blockchain_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_025/02-crypto_blockchain#item2.1">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -172,7 +172,7 @@
         </details></li>
         <li><details><summary>Blockchain e Smart Contracts: ETHEREUM</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/blockchain/(24-08-16)_Blockchain...Smart_Contracts_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./blockchain/240816_Blockchain...Smart_Contracts_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_025/02-crypto_blockchain#item2.2">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -181,7 +181,7 @@
         </details></li>
         <li><details><summary>Introdução à Linguagem Solidity para Blockchain</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/blockchain/(24-08-18)_Introducao...Solidity_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./blockchain/240818_Introducao...Solidity_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_025/03-solidity_blockchain#item3.1">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 3 Horas</li>
@@ -190,7 +190,7 @@
         </details></li>
         <li><details><summary>Desenvolvimento de Smart Contracts para Blockchain</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/blockchain/(24-08-20)...Smart_Contracts...Blockchain_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./blockchain/240820...Smart_Contracts...Blockchain_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_025/03-solidity_blockchain#item3.2">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 2 Horas</li>
