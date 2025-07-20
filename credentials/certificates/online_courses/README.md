@@ -136,7 +136,7 @@
     <ul>
         <li><details><summary>Introdução à Blockchain</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/blockchain/(24-08-14)_Introducao...Blockchain_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./blockchain/240814_Introducao...Blockchain_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_025/01-fundamentos_blockchain#item1.1">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -145,7 +145,7 @@
         </details></li>
         <li><details><summary>Criando e Utilizando a Sua Carteira de Criptomoedas</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/blockchain/">Certificado (PDF)</a></li>
+                <li><a href="./blockchain/">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_025/01-fundamentos_blockchain#item1.2">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -154,7 +154,7 @@
         </details></li>
         <li><details><summary>Operações da Blockchain</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/blockchain/(24-08-15)_Operacoes...Blockchain_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./blockchain/240815_Operacoes...Blockchain_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_025/01-fundamentos_blockchain#item1.3">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 2 Horas</li>
