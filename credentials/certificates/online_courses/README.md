@@ -199,7 +199,7 @@
         </details></li>
         <li><details><summary>Criando a Sua Primeira Criptomoeda da Rede Ethereum</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/blockchain">Certificado (PDF)</a></li>
+                <li><a href="./blockchain/">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_025/03-solidity_blockchain#item3.3">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -208,7 +208,7 @@
         </details></li>
         <li><details><summary>O Mercado de Blockchain e Criptomoedas</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/blockchain/(24-08-20)...Mercado...Blockchain...Criptomoedas_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./blockchain/240820...Mercado...Blockchain...Criptomoedas_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_025/03-solidity_blockchain#item3.4">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -217,7 +217,7 @@
         </details></li>
         <li><details><summary>Crie o seu NFT de Pokémon com Blockchain</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/blockchain/">Certificado (PDF)</a></li>
+                <li><a href="./blockchain/">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_025/03-solidity_blockchain#item3.5">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -226,7 +226,7 @@
         </details></li>
         <li><details><summary>Entendendo Conceitos de Web3</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/blockchain/(24-08-21)_Entendendo...Web3_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./blockchain/240821_Entendendo...Web3_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_026/01-introducao_web3#item1.1">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -235,7 +235,7 @@
         </details></li>
         <li><details><summary>Entendendo Conceitos de Blockchain</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/blockchain/(24-08-29)_Entendendo...Blockchain_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./blockchain/240829_Entendendo...Blockchain_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_026/02-blockchain_tokens#item2.1">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 5 Horas</li>
