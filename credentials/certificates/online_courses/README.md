@@ -244,7 +244,7 @@
         </details></li>
         <li><details><summary>Como Token Fungíveis Funcionam</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/blockchain/(24-08-31)...Token_Fungiveis_Funcionam_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./blockchain/240831...Token_Fungiveis_Funcionam_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_026/02-blockchain_tokens#item2.3">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 3 Horas</li>
@@ -253,7 +253,7 @@
         </details></li>
         <li><details><summary>Criando o Seu Primeiro Token do Zero nos Padrões Web3</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/blockchain/(24-08-31)_DP_Criando...Token...Web3_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./blockchain/240831_DP_Criando...Token...Web3_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_026/02-blockchain_tokens#item2.4">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -262,7 +262,7 @@
         </details></li>
         <li><details><summary>Introdução ao NFT: Funcionamento e Marketplaces</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/blockchain/(24-08-31)_Introducao...NFT_Funcionamento...PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./blockchain/240831_Introducao...NFT_Funcionamento...PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_026/02-blockchain_tokens#item2.5">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 3 Horas</li>
@@ -271,7 +271,7 @@
         </details></li>
         <li><details><summary>Criando um NFT na Prática</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/blockchain/(24-09-03)_DP_Criando...NFT...Pratica_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./blockchain/240903_DP_Criando...NFT...Pratica_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_026/02-blockchain_tokens#item2.6">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 1 Hora</li>
