@@ -280,7 +280,7 @@
         </details></li>
         <li><details><summary>Decentralized Autonomous Organizations (DAO)</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/blockchain/(24-09-03)_DAO_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./blockchain/240903_DAO_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_026/03-web3_descentralizacao#item3.1">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -289,7 +289,7 @@
         </details></li>
         <li><details><summary>Decentralized Finance (DeFi)</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/blockchain/(24-09-03)_DeFi_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./blockchain/240903_DeFi_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_026/03-web3_descentralizacao#item3.2">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 3 Horas</li>
@@ -298,7 +298,7 @@
         </details></li>
         <li><details><summary>Criando uma Organização Autônoma Descentralizada nos Padrões Web3</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/blockchain/(24-09-02)_DP_Criando...DAO...Web3_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./blockchain/240902_DP_Criando...DAO...Web3_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_026/03-web3_descentralizacao#item3.3">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 1 Hora</li>
