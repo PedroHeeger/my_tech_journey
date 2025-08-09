@@ -307,7 +307,7 @@
         </details></li>
         <li><details><summary>Introdução ao Metaverso</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/blockchain/(24-09-03)_Introducao...Metaverso_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./blockchain/240903_Introducao...Metaverso_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_026/04-metaverso_web3#item4.1">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -316,7 +316,7 @@
         </details></li>
         <li><details><summary>Conhecendo o Mercado e Oportunidades Web3</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/blockchain/(24-09-03)...Mercado...Oportunidades_Web3_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./blockchain/240903...Mercado...Oportunidades_Web3_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_026/04-metaverso_web3#item4.2">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -325,7 +325,7 @@
         </details></li>
         <li><details><summary>Introdução à Experiencia Blockchain e Web3</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/blockchain/">Certificado (PDF)</a></li>
+                <li><a href="./blockchain/">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_027#item1.1">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -341,7 +341,7 @@
             <ul>
                 <li><details><summary>Primeiros Passos com AWS</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(22-11-22)_Primeiros_Passos...AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/221122_Primeiros_Passos...AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/03-aws_foundation#item3.1">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -350,7 +350,7 @@
                 </details></li>
                 <li><details><summary>AWS Official Content - Introdução à Amazon Web Services (AWS)</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-09-09)_AWS_Official_Content-Introducao...AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/230909_AWS_Official_Content-Introducao...AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/03-aws_foundation#item3.2">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -359,7 +359,7 @@
                 </details></li>
                 <li><details><summary>Introdução ao Conceito de Cloud</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-09-11)_Introducao...Conceito...Cloud_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/230911_Introducao...Conceito...Cloud_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/03-aws_foundation#item3.3">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -368,7 +368,7 @@
                 </details></li>
                 <li><details><summary>Infraestrutura Global AWS</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-09-11)_Infraestrutura_Global_AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/230911_Infraestrutura_Global_AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/03-aws_foundation#item3.4">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -377,7 +377,7 @@
                 </details></li>
                 <li><details><summary>Computação em AWS</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-09-12)_Computacao...AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/230912...Computacao...Nuvem_Usando_AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/03-aws_foundation#item3.5">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -386,7 +386,7 @@
                 </details></li>
                 <li><details><summary>Introdução Prática a Computação em Nuvem Usando AWS</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-09-12)...Computacao...Nuvem_Usando_AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/230912...Computacao...Nuvem_Usando_AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/03-aws_foundation#item3.6">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -395,7 +395,7 @@
                 </details></li>
                 <li><details><summary>AWS Official Content - Introdução à Computação em Nuvem com AWS</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-09-12)_AWS_Official_Content...Nuvem...AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/230912_AWS_Official_Content...Nuvem...AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/03-aws_foundation#item3.7">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -404,7 +404,7 @@
                 </details></li>
                 <li><details><summary>Redes em AWS</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-09-13)_Redes...AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/230913_Redes...AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/03-aws_foundation#item3.8">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -413,7 +413,7 @@
                 </details></li>
                 <li><details><summary>Armazenamento e Banco de Dados AWS</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-09-13)_Armazenamento...Banco...Dados_AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/230913_Armazenamento...Banco...Dados_AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/03-aws_foundation#item3.9">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -422,7 +422,7 @@
                 </details></li>
                 <li><details><summary>Imersão ao Ecossistema Cloud Data AWS</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(22-12-25)...Ecossistema_Cloud_Data_AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/221225...Ecossistema_Cloud_Data_AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/03-aws_foundation#item3.10">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -431,7 +431,7 @@
                 </details></li>
                 <li><details><summary>AWS Official Content - Armazenamento e Banco de Dados na AWS</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-09-15)_AWS_Official_Content-Armazenamento_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/230915_AWS_Official_Content-Armazenamento_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/03-aws_foundation#item3.11">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -440,7 +440,7 @@
                 </details></li>
                 <li><details><summary>Infraestrutura Como Código com Serverless Framework na AWS</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-09-27)_IAC...Serverless_Framework...AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/230927_IAC...Serverless_Framework...AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/03-aws_foundation#item3.12">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -449,7 +449,7 @@
                 </details></li>
                 <li><details><summary>Segurança na Nuvem com AWS</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-09-15)_Seguranca...Nuvem...AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/230915_Seguranca...Nuvem...AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/04-seguranca#item4.1">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -458,7 +458,7 @@
                 </details></li>
                 <li><details><summary>Monitoramento e Análise na AWS</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-09-15)_Monitoramento...AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/230915_Monitoramento...AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/04-seguranca#item4.2">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -467,7 +467,7 @@
                 </details></li>
                 <li><details><summary>Preços e Planos de Suporte na AWS</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-09-15)_Precos...Planos...AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/230915_Precos...Planos...AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/04-seguranca#item4.3">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -476,7 +476,7 @@
                 </details></li>
                 <li><details><summary>AWS Official Content - Segurança, Monitoramento e Suporte na AWS</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-09-15)_AWS_Official_Content-Seguranca_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/230915_AWS_Official_Content-Seguranca_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/04-seguranca#item4.4">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -485,7 +485,7 @@
                 </details></li>
                 <li><details><summary>Adicionando Segurança em APIs na AWS com Amazon Cognito</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-10-05)_Adicionando...AWS...Amazon_Cognito_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/231005_Adicionando...AWS...Amazon_Cognito_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/04-seguranca#item4.5">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -494,7 +494,7 @@
                 </details></li>
                 <li><details><summary>Introdução ao Exame de Certificação AWS Cloud Practitioner</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-09-15)...Exame...Certificacao_AWS_CFL-C01_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/230915...Exame...Certificacao_AWS_CFL-C01_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/05-certificacao_aws#item5.1">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -503,7 +503,7 @@
                 </details></li>
                 <li><details><summary>AWS Official Content - Preparatório para Certificação AWS Cloud Practitioner</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-09-15)_AWS_Official_Content...Certificacao_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/230915_AWS_Official_Content...Certificacao_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/05-certificacao_aws#item5.2">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 11 Horas</li>
@@ -512,7 +512,7 @@
                 </details></li>
                 <li><details><summary>Assuntos Complementares para o Exame AWS Cloud Practitioner</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-09-15)_Assuntos...AWS_Cloud_Practitioner_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/230915_Assuntos...AWS_Cloud_Practitioner_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/05-certificacao_aws#item5.3">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -521,7 +521,7 @@
                 </details></li>
                 <li><details><summary>Desafio de Projeto AWS - Redução de Custos</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-10-05)_DP_AWS-Reducao_Custos_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/231005_DP_AWS-Reducao_Custos_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_012#item2.4">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -530,7 +530,7 @@
                 </details></li>
                 <li><details><summary>Desafio de Projeto AWS - A Importância da Segurança</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-10-06)_DP...Importancia...Seguraca_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/231006_DP...Importancia...Seguraca_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_012#item3.4">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -539,290 +539,308 @@
                 </details></li>
                 <li><details><summary>Dicas de Estudo para o Exame AWS Cloud Practitioner</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-10-05)_Dicas...AWS...Cloud_Practitioner_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/231005_Dicas...AWS...Cloud_Practitioner_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_012#item4.2">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 1 Hora</li>
                         <li><strong>Concluído em:</strong> 05/10/2023</li>
-                        <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_012#item4.2">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>Simulados Preparatórios para a Certificação AWS Cloud Practitioner</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-10-06)_Simulados...Certificacao_AWS_Cloud_Practitioner_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/231006_Simulados...Certificacao_AWS...Practitioner_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_012#item5.1">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 8 Horas</li>
                         <li><strong>Concluído em:</strong> 06/10/2023</li>
-                        <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_012#item5.1">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>Descubra a Nuvem</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-09-14)_Descubra...Nuvem_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/230914_Descubra...Nuvem_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_013#item1.1">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 2 Horas</li>
                         <li><strong>Concluído em:</strong> 14/09/2023</li>
-                        <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_013#item1.1">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>Conhecendo os Serviços da AWS</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-09-14)_Conhecendo...Servicos...AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/230914_Conhecendo...Servicos...AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_013#item1.2">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 1 Hora</li>
                         <li><strong>Concluído em:</strong> 14/09/2023</li>
-                        <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_013#item1.2">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>Criando sua Conta na AWS</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-09-14)_Criando...Conta...AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/230914_Criando...Conta...AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_013#item1.6">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 1 Hora</li>
                         <li><strong>Concluído em:</strong> 14/09/2023</li>
-                        <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_013#item1.6">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>Introduction to Amazon Elastic Compute Cloud (EC2)</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-11-14)_Introduction...(EC2)_PH_AWSSB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/231114_Introduction...EC2_PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_092">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Carga Horária:</strong> - Horas</li>
                         <li><strong>Concluído em:</strong> 14/11/2023</li>
-                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_092">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>AWS Compute Services Overview</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-11-18)_AWS_Compute_Services..._PH_AWSSB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/231118_AWS_Compute_Services..._PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_093">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Carga Horária:</strong> - Horas</li>
                         <li><strong>Concluído em:</strong> 18/11/2023</li>
-                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_093">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>Elementos essenciais do AWS Cloud Practitioner</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-11-22)_Elementos_essenciais_do_AWS_Cloud_Practitioner_PH_AWSSB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/231122_Elementos_essenciais...AWS...Practitioner_PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_094">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Carga Horária:</strong> 4 Horas</li>
                         <li><strong>Concluído em:</strong> 22/11/2023</li>
-                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_094">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>Introduction to AWS Command Line Interface (CLI)</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-11-23)_Introduction...(CLI)_PH_AWSSB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/231123_Introduction...CLI_PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_096">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Carga Horária:</strong> - Horas</li>
                         <li><strong>Concluído em:</strong> 23/11/2023</li>
-                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_096">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>Introduction to Amazon EC2 Systems Manager</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-12-06)_Introduction...Systems_Manager_PH_AWSSB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/231206_Introduction...Systems_Manager_PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_097">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Carga Horária:</strong> - Horas</li>
                         <li><strong>Concluído em:</strong> 06/12/2023</li>
-                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_097">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>AWS Identity and Access Management - Basics</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-12-06)_AWS_IAM_Basics_PH_AWSSB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/231206_AWS_IAM_Basics_PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_098">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Carga Horária:</strong> - Horas</li>
                         <li><strong>Concluído em:</strong> 06/12/2023</li>
-                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_098">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>Introduction to AWS Identity and Access Management (IAM)</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-12-11)_Introduction_to_AWS_IAM_PH_AWSSB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/231211_Introduction...AWS_IAM_PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_099">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Carga Horária:</strong> - Horas</li>
                         <li><strong>Concluído em:</strong> 11/12/2023</li>
-                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_099">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>AWS Identity and Access Management - Architecture and Terminology</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-12-11)_AWS_IAM_Architecture_and_Terminology_PH_AWSSB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/231211_AWS_IAM_Architecture...Terminology_PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_100">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Carga Horária:</strong> - Horas</li>
                         <li><strong>Concluído em:</strong> 11/12/2023</li>
-                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_100">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>Authentication and Authorization with AWS Identity and Access Management</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-12-12)_Authentication_and_Authorization..._PH_AWSSB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/231212_Authentication...Authorization..._PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_101">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Carga Horária:</strong> - Horas</li>
                         <li><strong>Concluído em:</strong> 12/12/2023</li>
-                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_101">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>Introduction to Amazon Elastic Container Service</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-12-13)_Introduction...(ECS)_PH_AWSSB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/231213_Introduction...ECS_PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_102">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Carga Horária:</strong> - Horas</li>
                         <li><strong>Concluído em:</strong> 12/12/2023</li>
-                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_102">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>Introduction to Amazon Elastic Container Registry</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-12-17)_Introduction...(ECR)_PH_AWSSB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/231217_Introduction...ECR_PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_103">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Carga Horária:</strong> - Horas</li>
                         <li><strong>Concluído em:</strong> 17/12/2023</li>
-                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_103">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>Introduction to AWS Fargate</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-12-15)_Introduction...Fargate_PH_AWSSB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/231215_Introduction...Fargate_PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_104">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Carga Horária:</strong> - Horas</li>
                         <li><strong>Concluído em:</strong> 15/12/2023</li>
-                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_104">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>Amazon Elastic Container Service (ECS) Primer</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-12-17)_Amazon...(ECS)_Primer_PH_AWSSB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/231217_Amazon...ECS_Primer_PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_105">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Carga Horária:</strong> - Horas</li>
                         <li><strong>Concluído em:</strong> 17/12/2023</li>
-                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_105">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>Introduction to Containers</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-12-31)_Introduction_to_Containers_PH_AWSSB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/231231_Introduction...Containers_PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_106">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Carga Horária:</strong> - Horas</li>
                         <li><strong>Concluído em:</strong> 31/12/2023</li>
-                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_106">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>Deep Dive on AWS Fargate: Building Serverless Containers at Scale</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(24-01-31)_Deep_Dive...AWS_Fargate_PH_AWSSB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/240131_Deep_Dive...AWS_Fargate_PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_107">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Carga Horária:</strong> - Horas</li>
                         <li><strong>Concluído em:</strong> 31/01/2024</li>
-                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_107">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>Deep Dive on Container Security (Portuguese)</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(24-02-05)_Deep_Dive_on_Container_Security_PH_AWSSB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/240205_Deep_Dive...Container_Security_PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_108">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Carga Horária:</strong> - Horas</li>
                         <li><strong>Concluído em:</strong> 05/02/2024</li>
-                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_108">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>Introduction to AWS Auto Scaling</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(24-01-11)_Introduction_to_AWS_Auto_Scaling_PH_AWSSB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/240111_Introduction...AWS_Auto_Scaling_PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_109">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Carga Horária:</strong> - Horas</li>
                         <li><strong>Concluído em:</strong> 11/01/2024</li>
-                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_109">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>Introduction to Amazon Elastic Load Balancer - Application</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(24-01-02)_Introduction_to_Amazon_ELB_PH_AWSSB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/240102_Introduction...Amazon_ELB_PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_110">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Carga Horária:</strong> - Horas</li>
                         <li><strong>Concluído em:</strong> 02/01/2024</li>
-                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_110">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>Introdução ao Amazon Bedrock</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-12-28)_Introducao_ao_Amazon_Bedrock_PH_AWSSB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/231228_Introducao...Amazon_Bedrock_PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_111">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Carga Horária:</strong> - Horas</li>
                         <li><strong>Concluído em:</strong> 28/12/2023</li>
-                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_111">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>Amazon CodeWhisperer: Introdução</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-12-28)_Amazon_CodeWhisperer..._PH_AWSSB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/231228_Amazon_CodeWhisperer..._PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_112">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Carga Horária:</strong> - Horas</li>
                         <li><strong>Concluído em:</strong> 28/12/2023</li>
-                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_112">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>Introduction to Amazon SageMaker</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(23-12-29)_Introduction_to_Amazon_SageMaker_PH_AWSSB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/231229_Introduction...Amazon_SageMaker_PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_113">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Carga Horária:</strong> - Horas</li>
                         <li><strong>Concluído em:</strong> 29/12/2023</li>
-                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_113">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>Amazon EKS Primer</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(24-01-10)_Amazon_EKS_Primer_PH_AWSSB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/240110_Amazon_EKS_Primer_PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_114">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Carga Horária:</strong> - Horas</li>
                         <li><strong>Concluído em:</strong> 10/01/2024</li>
-                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_114">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>Getting Started with Amazon Simple Storage Service</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/(24-10-14)_Getting_Started...Amazon_S3_PH_AWSSB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/241014_Getting_Started...Amazon_S3_PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_125">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Carga Horária:</strong> 1 Hora</li>
                         <li><strong>Concluído em:</strong> 14/10/2024</li>
-                        <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_125">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
-                <li><details><summary>AWS Partner: Cloud Economics</summary>
+                <li><details><summary>AWS Partner: Cloud Economics Essentials</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/250505_AWS_Partner_Cloud_Economics_PH_AWSSB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/250505_APN_Cloud_Economics_PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/aws_partner/curso_apn_001">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Carga Horária:</strong> 2,5 Horas</li>
                         <li><strong>Concluído em:</strong> 05/05/2025</li>
-                        <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/aws_partner/curso_apn_001">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>AWS Partner: Accreditation (Technical)</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/250529_AWS_Partner_Accreditation_(Technical)_PH_AWSSB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/250529_APN_Accreditation_Technical_PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/aws_partner/curso_apn_002">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Carga Horária:</strong> 5 Horas</li>
                         <li><strong>Concluído em:</strong> 29/05/2025</li>
-                        <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/aws_partner/curso_apn_002">Pasta do Projeto</a></li>
+                    </ul>
+                </details></li>
+                <li><details><summary>AWS Partner: Sales Accreditation (Business)</summary>
+                    <ul>
+                        <li><a href="./cloud/aws/">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/aws_partner/curso_apn_003">Pasta do Projeto</a></li>
+                        <li><strong>Plataforma:</strong> AWS Skill Builder</li>
+                        <li><strong>Carga Horária:</strong> - Horas</li>
+                        <li><strong>Concluído em:</strong> 09/08/2025</li>
                     </ul>
                 </details></li>
                 <li><details><summary>AWS Partner: Cloud Concepts and AWS</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/250626_AWS_Partner...Cloud_Concepts...AWS_PH_AWSSB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/250626_APN...Cloud_Concepts...AWS_PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/aws_partner/curso_apn_004">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Carga Horária:</strong> - Horas</li>
                         <li><strong>Concluído em:</strong> 26/06/2025</li>
-                        <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/aws_partner/curso_apn_004">Pasta do Projeto</a></li>
                     </ul>
                 </details></li>
                 <li><details><summary>AWS Partner: Cloud Business Value</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/cloud/aws/250626_AWS_Partner...Cloud_Business_Value_PH_AWSSB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/250626_APN...Cloud_Business_Value_PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/aws_partner/curso_apn_005">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Carga Horária:</strong> - Horas</li>
                         <li><strong>Concluído em:</strong> 26/06/2025</li>
-                        <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/aws_partner/curso_apn_005">Pasta do Projeto</a></li>
+                    </ul>
+                </details></li>
+                <li><details><summary>AWS Partner: Cloud Objection Handling</summary>
+                    <ul>
+                        <li><a href="./cloud/aws/250809_APN...Cloud_Objection_Handling_PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/aws_partner/curso_apn_006">Pasta do Projeto</a></li>
+                        <li><strong>Plataforma:</strong> AWS Skill Builder</li>
+                        <li><strong>Carga Horária:</strong> - Horas</li>
+                        <li><strong>Concluído em:</strong> 09/08/2025</li>
                     </ul>
                 </details></li>
             </ul>
