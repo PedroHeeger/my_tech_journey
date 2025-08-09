@@ -377,7 +377,7 @@
                 </details></li>
                 <li><details><summary>Computação em AWS</summary>
                     <ul>
-                        <li><a href="./cloud/aws/230912...Computacao...Nuvem_Usando_AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/230912_Computacao...AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/03-aws_foundation#item3.5">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -669,7 +669,7 @@
                         <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_102">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Carga Horária:</strong> - Horas</li>
-                        <li><strong>Concluído em:</strong> 12/12/2023</li>
+                        <li><strong>Concluído em:</strong> 13/12/2023</li>
                     </ul>
                 </details></li>
                 <li><details><summary>Introduction to Amazon Elastic Container Registry</summary>
@@ -789,7 +789,7 @@
                         <li><strong>Concluído em:</strong> 14/10/2024</li>
                     </ul>
                 </details></li>
-                <li><details><summary>AWS Partner: Cloud Economics Essentials</summary>
+                <li><details><summary>AWS Partner: Cloud Economics</summary>
                     <ul>
                         <li><a href="./cloud/aws/250505_APN_Cloud_Economics_PH_ASB.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/aws_partner/curso_apn_001">Pasta do Projeto</a></li>
