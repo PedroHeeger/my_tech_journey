@@ -848,13 +848,15 @@
     </ul>
 </details>
 
-<details><summary>💾 Data</summary>
-    <ul>
+<details><summary><b>💾 Data</b></summary>
+  <ul>
+    <li><details><summary><b>📊 Business Intelligence (BI)</b></summary>
+      <ul>
         <li><details><summary>Excel   <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/software/microsoft_excel.png" alt="excel" width="auto" height="25"></summary>
             <ul>
                 <li><details><summary>Excel 2010 - Básico</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/data/excel/(20-08-14)_Cert_Excel_Basic_PH_UIATEC.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./data/bi/excel/200814_Cert_Excel_Basic_PH_UIATEC.pdf">Certificado (PDF)</a></li>
                         <li>Sem Pasta</li>
                         <li><strong>Plataforma:</strong> UAITEC</li>
                         <li><strong>Carga Horária:</strong> 40 Horas</li>
@@ -863,18 +865,65 @@
                 </details></li>
             </ul>
         </details></li>
-    </ul>
+        <li><details><summary>Power BI <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/software/microsoft_powerbi.png" alt="powerbi" style="height:25px; width:auto;"></summary>
+          <ul>
+          </ul>
+        </details></li>
+      </ul>
+    </details></li>
+    <li><details><summary><b>🗄️ Databases</b></summary>
+      <ul>
+        <li><details><summary>MySQL Server <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql_server" style="height:25px; width:auto;"></summary>
+          <ul>
+            <li>boot_<a href="">a <img src="" alt="" style="height:25px; width:auto;"></a></li>
+          </ul>
+        </details></li>
+      </ul>
+    </details></li>
+    <li><details><summary><b>🟠 Big Data</b></summary>
+        <ul>
+            <li><details><summary>Apache Kafka <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="apache_kafka" style="height:25px; width:auto;"></summary>
+                <ul>
+                <li>boot_<a href="">a <img src="" alt="" style="height:25px; width:auto;"></a></li>
+                </ul>
+            </details></li>
+            <li><details><summary>Apache Spark <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/software/apache_spark.png" alt="apache_spark" style="height:25px; width:auto;"></summary>
+                <ul>
+                <li>boot_<a href="">a <img src="" alt="" style="height:25px; width:auto;"></a></li>
+                </ul>
+            </details></li>
+            <li><details><summary>Databricks <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/sites/databricks.png" alt="databricks" style="height:25px; width:auto;"></summary>
+                <ul>
+                <li>boot_<a href="">a <img src="" alt="" style="height:25px; width:auto;"></a></li>
+                </ul>
+            </details></li>
+            <li><details><summary>Apache Airflow   <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/software/apache_airflow.png" alt="apache_airflow" style="height:25px; width:auto;"></summary>
+                <ul>
+                    <li>boot_<a href="">a   <img src="" alt="" style="height:25px; width:auto;"></a></li>
+                </ul>
+            </details></li>
+        </ul>
+    </details>
+  </ul>
 </details>
 
 <details><summary>💻 Development</summary>
     <ul>
+        <li><details><summary>🚀 CI/CD</summary>
+            <ul>
+                <details><summary>GitHub Actions <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/software/github_actions.png" alt="github_actions" style="height:25px; width:auto;"></summary>
+                    <ul>
+                    </ul>
+                </details></li>
+            </ul>
+        </details></li>
         <li><details><summary>🐳 Container</summary>
             <ul>
                 <li><details><summary>Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" style="height:25px; width:auto;"></summary>
                     <ul>
                         <li><details><summary>Docker: Utilização Prática no Cenário de Microsserviços</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-07-31)_Docker...Cenario...Microsservicos_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./development/container/docker/230731_Docker...Cenario...Microsservicos_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/03-servidor_linux#item3.5">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -883,7 +932,7 @@
                         </details></li>
                         <li><details><summary>Introdução e Laboratório Virtual</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-17)_Introducao...Laboratorio_Virtual_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./development/container/docker/230817_Introducao...Laboratorio_Virtual_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/01-introducao_docker#item1.1">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -892,7 +941,7 @@
                         </details></li>
                         <li><details><summary>Primeiros Passos com o Docker</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-18)_Primeiros_Passos...Docker_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./development/container/docker/230818_Primeiros_Passos...Docker_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/01-introducao_docker#item1.2">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -901,7 +950,7 @@
                         </details></li>
                         <li><details><summary>Armazenamento de Dados com Docker</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-18)_Armazenamento...Dados...Docker_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./development/container/docker/230818_Armazenamento...Dados...Docker_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/01-introducao_docker#item1.3">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -910,7 +959,7 @@
                         </details></li>
                         <li><details><summary>Processamento, Logs e Rede com Docker</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-19)_Processamento...Logs...Rede...Docker_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./development/container/docker/230819_Processamento...Logs...Rede...Docker_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/01-introducao_docker#item1.4">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -919,7 +968,7 @@
                         </details></li>
                         <li><details><summary>Definição e Criação de um Docker File</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-19)_Definicao...Criacao...Docker_File_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./development/container/docker/230819_Definicao...Criacao...Docker_File_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/02-dockerfile_compose#item2.1">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -928,7 +977,7 @@
                         </details></li>
                         <li><details><summary>Docker Compose</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-21)_Docker_Compose_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./development/container/docker/230821_Docker_Compose_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/02-dockerfile_compose#item2.2">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -937,7 +986,7 @@
                         </details></li>
                         <li><details><summary>Criando um Container de uma Aplicação WEB</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-21)_Criando...Container...Aplicacao_WEB_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./development/container/docker/230821_Criando...Container...Aplicacao_WEB_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/02-dockerfile_compose#item2.3">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -946,7 +995,7 @@
                         </details></li>
                         <li><details><summary>Criando um Cluster com o Docker Swarm</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-22)_Criando...Cluster...Docker_Swarm_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./development/container/docker/230822_Criando...Cluster...Docker_Swarm_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/03-docker_swarm#item3.1">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -955,7 +1004,7 @@
                         </details></li>
                         <li><details><summary>Load Balancer</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-21)_Load_Balancer_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./development/container/docker/230821_Load_Balancer_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/03-docker_swarm#item3.2">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -964,7 +1013,7 @@
                         </details></li>
                         <li><details><summary>Definição de um Cluster Swarm Local com o Vagrant</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-08-22)_Definicao...Cluster_Swarm_Local...Vagrant_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./development/container/docker/230822...Cluster_Swarm_Local...Vagrant_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/03-docker_swarm#item3.3">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -973,7 +1022,7 @@
                         </details></li>
                         <li><details><summary>538 - Containers Fundamentals</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/distributed_computing/docker/(23-11-09)_Containers_Fundamentals_PH_4.Linux.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./development/container/docker/231109_Containers_Fundamentals_PH_4.Linux.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/course/tree/main/4.linux/docker/curso_084">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> 4.Linux</li>
                                 <li><strong>Carga Horária:</strong> 20 Horas</li>
@@ -986,7 +1035,7 @@
                     <ul>
                         <li><details><summary>Kubernetes Overview</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-15)_Kubernetes_Overview_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./development/container/kubernetes/240215_Kubernetes_Overview_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/01-introducao_kubernetes#item1.1">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -995,7 +1044,7 @@
                         </details></li>
                         <li><details><summary>Ambiente de Desenvolvimento Kubernetes</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-15)_Ambiente...Kubernetes_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./development/container/kubernetes/240215_Ambiente...Kubernetes_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/01-introducao_kubernetes#item1.2">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1004,7 +1053,7 @@
                         </details></li>
                         <li><details><summary>Cluster Kubernetes em Nuvem</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-16)_Cluster_Kubernetes..._PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./development/container/kubernetes/240216_Cluster_Kubernetes...PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/01-introducao_kubernetes#item1.3">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1013,7 +1062,7 @@
                         </details></li>
                         <li><details><summary>Conceitos Básicos Sobre Pods em Kubernetes</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-17)_Conceitos...Pods...Kubernetes_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./development/container/kubernetes/240217_Conceitos...Pods...Kubernetes_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/02-primeiros_passos#item2.1">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1022,7 +1071,7 @@
                         </details></li>
                         <li><details><summary>Criando Imagens Personalizadas com o Docker</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-17)_Criando_Imagens...Docker_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./development/container/kubernetes/240217_Criando_Imagens...Docker_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/02-primeiros_passos#item2.2">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1031,7 +1080,7 @@
                         </details></li>
                         <li><details><summary>Serviços de Acesso para Kubernetes Pods</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-19)_Servicos...Kubernetes_Pod_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./development/container/kubernetes/240219_Servicos...Kubernetes_Pod_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/03-expondo_conectando#item3.1">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1040,7 +1089,7 @@
                         </details></li>
                         <li><details><summary>Persistência de Dados em Clusters Kubernetes</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/distributed_computing//kubernetes/(24-02-19)_Persistencia...Dados...Kubernetes_Pod_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./development/container/kubernetes/240219_Persistencia...Dados...Kubernetes_Pod_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/03-expondo_conectando#item3.2">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1049,7 +1098,7 @@
                         </details></li>
                         <li><details><summary>Criando um Deploy de uma Aplicação</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-20)_Criando...Deploy...Aplicacao_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./development/container/kubernetes/240220_Criando...Deploy...Aplicacao_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/03-expondo_conectando#item3.3">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1058,7 +1107,7 @@
                         </details></li>
                         <li><details><summary>Deployment e Roolback em Clusters Kubernetes</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-19)_Deployment...Roolback_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./development/container/kubernetes/240219_Deployment...Roolback_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/04-automatizando#item4.1">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1067,7 +1116,7 @@
                         </details></li>
                         <li><details><summary>CI-CD Utilizando Kubernetes</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-20)_CI-CD...Kubernetes_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./development/container/kubernetes/240220_CICD...Kubernetes_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/04-automatizando#item4.2">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1076,7 +1125,7 @@
                         </details></li>
                         <li><details><summary>Criando um Pipeline de Deploy com GitLab e Kubernetes</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/distributed_computing/kubernetes/(24-02-20)...Pipeline...Git_Lab...Kubernetes_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./development/container/kubernetes/240220...Pipeline...Git_Lab...Kubernetes_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015/04-automatizando#item4.3">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1091,7 +1140,7 @@
             <ul>
                 <li><details><summary>Introdução ao Desenvolvimento Moderno de Software</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/development/(23-07-03)...Desenvolvimento_Moderno...Software_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./development/development/230703...Desenvolvimento_Moderno...Software_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li>Sem Pasta</li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1100,7 +1149,7 @@
                 </details></li>
                 <li><details><summary>Trabalhando em Equipes Ágeis</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/development/(23-07-03)_Trabalhando...Equipes_Ageis_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./development/development/230703_Trabalhando...Equipes_Ageis_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li>Sem Pasta</li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 3 Horas</li>
@@ -1109,7 +1158,7 @@
                 </details></li>
                 <li><details><summary>Introdução ao Desenvolvimento Low-Code</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/development/(24-08-08)_Introducao...Low-Code_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./development/development/240808_Introducao...Low-Code_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_023/02-nlp#item2.1">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1122,7 +1171,7 @@
             <ul>
                 <li><details><summary>DevOps: Tudo o que você precisa saber</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/development/devops/(23-08-03)_DevOps_Tudo...PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./development/devops/230803_DevOps_Tudo...PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/03-servidor_linux#item3.6">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1131,7 +1180,7 @@
                 </details></li>
                 <li><details><summary>523 - DevOps Essentials</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/development/devops/(23-11-12)_DevOps_Essentials_PH_4.Linux.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./development/devops/231112_DevOps_Essentials_PH_4.Linux.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/course/tree/main/4.linux/devops/curso_085">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> 4.Linux</li>
                         <li><strong>Carga Horária:</strong> 20 Horas</li>
@@ -1140,7 +1189,7 @@
                 </details></li>
                 <li><details><summary>Entendendo O Que é DevOps</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/development/devops/(24-02-19)_Entendendo...DevOps_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./development/devops/240219_Entendendo...DevOps_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_017/02-primeiros_passos#item2.1">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1149,7 +1198,7 @@
                 </details></li>
                 <li><details><summary>Introdução ao DevSecOps</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/development/devops/(24-02-20)_Introducao...DevSecOps_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./development/devops/240220_Introducao...DevSecOps_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_017/02-primeiros_passos#item2.2">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1158,7 +1207,7 @@
                 </details></li>
                 <li><details><summary>Qual é a diferença entre SRE e DevOps</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/development/devops/(24-02-20)_Ment_Qual...diferenca...SRE...DevOps_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./development/devops/240220_Ment_Qual...diferenca...SRE...DevOps_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_017/02-primeiros_passos#item2.3">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1167,7 +1216,7 @@
                 </details></li>
                 <li><details><summary>DevOps e Processos de Desenvolvimento de Software</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/development/devops/(24-02-22)_DevOps...Desenvolvimento...Software_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./development/devops/240222_DevOps...Desenvolvimento...Software_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_017/03-aplicando_devops#item3.1">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1176,7 +1225,7 @@
                 </details></li>
                 <li><details><summary>Introdução ao DevOps com CI/CD</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/development/devops/(24-02-22)_Introducao...DevOps...CI-CD_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./development/devops/240222_Introducao...DevOps...CICD_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_017/03-aplicando_devops#item3.2">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1185,7 +1234,7 @@
                 </details></li>
                 <li><details><summary>Criando seu Primeiro Projeto de DevOps com GitLab</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/development/devops/(24-02-23)_DP_Criando...Projeto...DevOps...GitLab_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./development/devops/240223_DP_Criando...Projeto...DevOps...GitLab_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_017/03-aplicando_devops#item3.3">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1194,7 +1243,7 @@
                 </details></li>
                 <li><details><summary>Cloud Computing e o DevOps</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/development/devops/(24-02-22)_Cloud_Computing...DevOps_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./development/devops/240222_Cloud_Computing...DevOps_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_017/04-fundamentos_cloud#item4.1">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1203,7 +1252,7 @@
                 </details></li>
                 <li><details><summary>Infraestrutura como Código no DevOps</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/development/devops/(24-02-22)_Infraestrutura...Codigo...DevOps_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./development/devops/240222_Infraestrutura...Codigo...DevOps_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_017/04-fundamentos_cloud#item4.2">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1212,7 +1261,7 @@
                 </details></li>
                 <li><details><summary>Conhecendo a Plataforma Azure Cloud e Azure DevOps</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/development/devops/(24-02-23)...Plataforma_Azure_Cloud...Azure_DevOps_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./development/devops/240223...Plataforma_Azure_Cloud...Azure_DevOps_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_017/04-fundamentos_cloud#item4.3">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 4 Horas</li>
@@ -1221,7 +1270,7 @@
                 </details></li>
                 <li><details><summary>Entendendo na Prática a Cultura DevOps com Azure DevOps</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/development/devops/(24-02-23)_DP_Entendendo...Cultura_DevOps...Azure_DevOps_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./development/devops/240223_DP_Entendendo...Cultura_DevOps...Azure_DevOps_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_017/04-fundamentos_cloud#item4.4">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1236,7 +1285,7 @@
                     <ul>
                         <li><details><summary>Git e GitHub</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/development/versioning/git_github/(22-06-04)_Cert_Git...GitHub_PH_CEV.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./development/versioning/git_github/220604_Cert_Git...GitHub_PH_CEV.pdf">Certificado (PDF)</a></li>
                                 <li>Sem Pasta</li>
                                 <li><strong>Plataforma:</strong> Curso em Vídeo</li>
                                 <li><strong>Carga Horária:</strong> 20 Horas</li>
@@ -1245,7 +1294,7 @@
                         </details></li>
                         <li><details><summary>Introdução ao Git e ao GitHub</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/development/versioning/git_github/(22-10-31)_Introducao...Git...GitHub_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./development/versioning/git_github/221031_Introducao...Git...GitHub_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li>Sem Pasta</li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 5 Horas</li>
@@ -1254,7 +1303,7 @@
                         </details></li>
                         <li><details><summary>Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/development/versioning/git_github/(22-11-08)_Criando...Primeiro_Repositorio_GitHub...PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./development/versioning/git_github/221108_Criando...Repositorio_GitHub...PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/01.07-github">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1263,7 +1312,7 @@
                         </details></li>
                         <li><details><summary>Versionamento de Código com Git e GitHub</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/development/versioning/git_github/">Certificado (PDF)</a></li>
+                                <li><a href="./development/versioning/git_github/">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_027#item1.4">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1272,7 +1321,7 @@
                         </details></li>
                         <li><details><summary>Desafio de Projeto: Contribuindo em um Projeto Open Source no GitHub</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/development/versioning/git_github/">Certificado (PDF)</a></li>
+                                <li><a href="./development/versioning/git_github/">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_027#item1.6">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1290,168 +1339,11 @@
     <ul>
         <li><details><summary>Redes de Computadores (Certificado PDF)</summary>
             <ul>
-                <li><a href="../cert_ti/04-curso/network/(22-10-12)_Cert_Network_PH_CEV.pdf">Certificado (PDF)</a></li>
+                <li><a href="./network/221012_Cert_Network_PH_CEV.pdf">Certificado (PDF)</a></li>
                 <li><strong>Pasta do Projeto:</strong> Não disponível</li>
                 <li><strong>Plataforma:</strong> Curso em Video</li>
                 <li><strong>Carga Horária:</strong> 20 horas</li>
                 <li><strong>Concluído em:</strong> 12/10/2022</li>
-            </ul>
-        </details></li>
-    </ul>
-</details>
-
-<details><summary>🖥️ System Administration</summary>
-    <ul>
-        <li><details><summary>🖥️ Operating System (OS)</summary>
-            <ul>
-                <li><details><summary>Linux <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" style="height:25px; width:auto;"></summary>
-                    <ul>
-                        <li><details><summary>Introdução ao Sistema Operacional Linux</summary>
-                            <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-11)_Introducao...Sistema_Operacional_Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/02-linux#item2.1">Pasta do Projeto</a></li>
-                                <li><strong>Plataforma:</strong> DIO</li>
-                                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                                <li><strong>Concluído em:</strong> 11/07/2023</li>
-                            </ul>
-                        </details></li>
-                        <li><details><summary>Instalando o Linux</summary>
-                            <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-12)_Instalando...Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/02-linux#item2.2">Pasta do Projeto</a></li>
-                                <li><strong>Plataforma:</strong> DIO</li>
-                                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                                <li><strong>Concluído em:</strong> 12/07/2023</li>
-                            </ul>
-                        </details></li>
-                        <li><details><summary>Acesso Remoto a Maquinas Linux</summary>
-                            <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-12)_Acesso_Remoto...Maquinas_Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/02-linux#item2.3">Pasta do Projeto</a></li>
-                                <li><strong>Plataforma:</strong> DIO</li>
-                                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                                <li><strong>Concluído em:</strong> 12/07/2023</li>
-                            </ul>
-                        </details></li>
-                        <li><details><summary>Manipulando Arquivos no Linux</summary>
-                            <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-13)_Manipulando_Arquivos...Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/02-linux#item2.4">Pasta do Projeto</a></li>
-                                <li><strong>Plataforma:</strong> DIO</li>
-                                <li><strong>Carga Horária:</strong> 3 Horas</li>
-                                <li><strong>Concluído em:</strong> 13/07/2023</li>
-                            </ul>
-                        </details></li>
-                        <li><details><summary>Gerenciando Usuários no Linux</summary>
-                            <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-27)_Gerenciando_Usuarios...Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/02-linux#item2.5">Pasta do Projeto</a></li>
-                                <li><strong>Plataforma:</strong> DIO</li>
-                                <li><strong>Carga Horária:</strong> 2 Horas</li>
-                                <li><strong>Concluído em:</strong> 27/07/2023</li>
-                            </ul>
-                        </details></li>
-                        <li><details><summary>Gerenciamento de Pacotes Linux</summary>
-                            <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-27)_Gerenciamento...Pacotes_Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/02-linux#item2.6">Pasta do Projeto</a></li>
-                                <li><strong>Plataforma:</strong> DIO</li>
-                                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                                <li><strong>Concluído em:</strong> 27/07/2023</li>
-                            </ul>
-                        </details></li>
-                        <li><details><summary>Gerenciamento de Discos Linux</summary>
-                            <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-27)_Gerenciamento...Discos_Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/02-linux#item2.7">Pasta do Projeto</a></li>
-                                <li><strong>Plataforma:</strong> DIO</li>
-                                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                                <li><strong>Concluído em:</strong> 27/07/2023</li>
-                            </ul>
-                        </details></li>
-                        <li><details><summary>Copiando Arquivos e Manipulando Processos</summary>
-                            <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-28)_Copiando_Arquivos...Manipulando_Processos_PH_DIO.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/02-linux#item2.8">Pasta do Projeto</a></li>
-                                <li><strong>Plataforma:</strong> DIO</li>
-                                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                                <li><strong>Concluído em:</strong> 28/07/2023</li>
-                            </ul>
-                        </details></li>
-                        <li><details><summary>Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões</summary>
-                            <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-31)_Iac...Criacao...Usuarios...Diretorios...Permissoes_PH_DIO.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/02-linux#item2.9">Pasta do Projeto</a></li>
-                                <li><strong>Plataforma:</strong> DIO</li>
-                                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                                <li><strong>Concluído em:</strong> 31/07/2023</li>
-                            </ul>
-                        </details></li>
-                        <li><details><summary>Servidores de Arquivos com Linux</summary>
-                            <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-28)_Servidores...Arquivos....Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/03-servidor_linux#item3.1">Pasta do Projeto</a></li>
-                                <li><strong>Plataforma:</strong> DIO</li>
-                                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                                <li><strong>Concluído em:</strong> 28/07/2023</li>
-                            </ul>
-                        </details></li>
-                        <li><details><summary>Criando um Servidor Web com Linux</summary>
-                            <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-28)_Criando...Servidor_Web...Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/03-servidor_linux#item3.2">Pasta do Projeto</a></li>
-                                <li><strong>Plataforma:</strong> DIO</li>
-                                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                                <li><strong>Concluído em:</strong> 28/07/2023</li>
-                            </ul>
-                        </details></li>
-                        <li><details><summary>Servidor de Banco de Dados com Linux</summary>
-                            <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-28)_Servidor...Banco...Dados...Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/03-servidor_linux#item3.3">Pasta do Projeto</a></li>
-                                <li><strong>Plataforma:</strong> DIO</li>
-                                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                                <li><strong>Concluído em:</strong> 28/07/2023</li>
-                            </ul>
-                        </details></li>
-                        <li><details><summary>Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)</summary>
-                            <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-31)_Iac...Servidor_Web_(Apache)_PH_DIO.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/03-servidor_linux#item3.4">Pasta do Projeto</a></li>
-                                <li><strong>Plataforma:</strong> DIO</li>
-                                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                                <li><strong>Concluído em:</strong> 31/07/2023</li>
-                            </ul>
-                        </details></li>
-                        <li><details><summary>Conhecendo o Linux Desktop</summary>
-                            <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-08-03)_Conhecendo...Linux_Desktop_PH_DIO.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_005#item5.1">Pasta do Projeto</a></li>
-                                <li><strong>Plataforma:</strong> DIO</li>
-                                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                                <li><strong>Concluído em:</strong> 03/08/2023</li>
-                            </ul>
-                        </details></li>
-                        <li><details><summary>701 - Linux Fundamentals</summary>
-                            <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-08-22)_Linux_Fundamentals_PH_4.Linux.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/course/tree/main/4.linux/linux/curso_077">Pasta do Projeto</a></li>
-                                <li><strong>Plataforma:</strong> 4.Linux</li>
-                                <li><strong>Carga Horária:</strong> 20 Horas</li>
-                                <li><strong>Concluído em:</strong> 22/08/2023</li>
-                            </ul>
-                        </details></li>
-                        <li><details><summary>702 - Linux Essentials</summary>
-                            <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-11-05)_Linux_Essentials_PH_4.Linux.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/course/tree/main/4.linux/linux/curso_083">Pasta do Projeto</a></li>
-                                <li><strong>Plataforma:</strong> 4.Linux</li>
-                                <li><strong>Carga Horária:</strong> 20 Horas</li>
-                                <li><strong>Concluído em:</strong> 05/11/2023</li>
-                            </ul>
-                        </details></li>
-                    <ul>
-                </details></li>
             </ul>
         </details></li>
     </ul>
@@ -2013,3 +1905,161 @@
         </details></li>
     </ul>
 </details>
+
+<details><summary>🖥️ System Administration</summary>
+    <ul>
+        <li><details><summary>🖥️ Operating System (OS)</summary>
+            <ul>
+                <li><details><summary>Linux <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" style="height:25px; width:auto;"></summary>
+                    <ul>
+                        <li><details><summary>Introdução ao Sistema Operacional Linux</summary>
+                            <ul>
+                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-11)_Introducao...Sistema_Operacional_Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/02-linux#item2.1">Pasta do Projeto</a></li>
+                                <li><strong>Plataforma:</strong> DIO</li>
+                                <li><strong>Carga Horária:</strong> 1 Hora</li>
+                                <li><strong>Concluído em:</strong> 11/07/2023</li>
+                            </ul>
+                        </details></li>
+                        <li><details><summary>Instalando o Linux</summary>
+                            <ul>
+                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-12)_Instalando...Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/02-linux#item2.2">Pasta do Projeto</a></li>
+                                <li><strong>Plataforma:</strong> DIO</li>
+                                <li><strong>Carga Horária:</strong> 1 Hora</li>
+                                <li><strong>Concluído em:</strong> 12/07/2023</li>
+                            </ul>
+                        </details></li>
+                        <li><details><summary>Acesso Remoto a Maquinas Linux</summary>
+                            <ul>
+                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-12)_Acesso_Remoto...Maquinas_Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/02-linux#item2.3">Pasta do Projeto</a></li>
+                                <li><strong>Plataforma:</strong> DIO</li>
+                                <li><strong>Carga Horária:</strong> 1 Hora</li>
+                                <li><strong>Concluído em:</strong> 12/07/2023</li>
+                            </ul>
+                        </details></li>
+                        <li><details><summary>Manipulando Arquivos no Linux</summary>
+                            <ul>
+                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-13)_Manipulando_Arquivos...Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/02-linux#item2.4">Pasta do Projeto</a></li>
+                                <li><strong>Plataforma:</strong> DIO</li>
+                                <li><strong>Carga Horária:</strong> 3 Horas</li>
+                                <li><strong>Concluído em:</strong> 13/07/2023</li>
+                            </ul>
+                        </details></li>
+                        <li><details><summary>Gerenciando Usuários no Linux</summary>
+                            <ul>
+                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-27)_Gerenciando_Usuarios...Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/02-linux#item2.5">Pasta do Projeto</a></li>
+                                <li><strong>Plataforma:</strong> DIO</li>
+                                <li><strong>Carga Horária:</strong> 2 Horas</li>
+                                <li><strong>Concluído em:</strong> 27/07/2023</li>
+                            </ul>
+                        </details></li>
+                        <li><details><summary>Gerenciamento de Pacotes Linux</summary>
+                            <ul>
+                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-27)_Gerenciamento...Pacotes_Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/02-linux#item2.6">Pasta do Projeto</a></li>
+                                <li><strong>Plataforma:</strong> DIO</li>
+                                <li><strong>Carga Horária:</strong> 1 Hora</li>
+                                <li><strong>Concluído em:</strong> 27/07/2023</li>
+                            </ul>
+                        </details></li>
+                        <li><details><summary>Gerenciamento de Discos Linux</summary>
+                            <ul>
+                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-27)_Gerenciamento...Discos_Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/02-linux#item2.7">Pasta do Projeto</a></li>
+                                <li><strong>Plataforma:</strong> DIO</li>
+                                <li><strong>Carga Horária:</strong> 1 Hora</li>
+                                <li><strong>Concluído em:</strong> 27/07/2023</li>
+                            </ul>
+                        </details></li>
+                        <li><details><summary>Copiando Arquivos e Manipulando Processos</summary>
+                            <ul>
+                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-28)_Copiando_Arquivos...Manipulando_Processos_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/02-linux#item2.8">Pasta do Projeto</a></li>
+                                <li><strong>Plataforma:</strong> DIO</li>
+                                <li><strong>Carga Horária:</strong> 1 Hora</li>
+                                <li><strong>Concluído em:</strong> 28/07/2023</li>
+                            </ul>
+                        </details></li>
+                        <li><details><summary>Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões</summary>
+                            <ul>
+                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-31)_Iac...Criacao...Usuarios...Diretorios...Permissoes_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/02-linux#item2.9">Pasta do Projeto</a></li>
+                                <li><strong>Plataforma:</strong> DIO</li>
+                                <li><strong>Carga Horária:</strong> 1 Hora</li>
+                                <li><strong>Concluído em:</strong> 31/07/2023</li>
+                            </ul>
+                        </details></li>
+                        <li><details><summary>Servidores de Arquivos com Linux</summary>
+                            <ul>
+                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-28)_Servidores...Arquivos....Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/03-servidor_linux#item3.1">Pasta do Projeto</a></li>
+                                <li><strong>Plataforma:</strong> DIO</li>
+                                <li><strong>Carga Horária:</strong> 1 Hora</li>
+                                <li><strong>Concluído em:</strong> 28/07/2023</li>
+                            </ul>
+                        </details></li>
+                        <li><details><summary>Criando um Servidor Web com Linux</summary>
+                            <ul>
+                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-28)_Criando...Servidor_Web...Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/03-servidor_linux#item3.2">Pasta do Projeto</a></li>
+                                <li><strong>Plataforma:</strong> DIO</li>
+                                <li><strong>Carga Horária:</strong> 1 Hora</li>
+                                <li><strong>Concluído em:</strong> 28/07/2023</li>
+                            </ul>
+                        </details></li>
+                        <li><details><summary>Servidor de Banco de Dados com Linux</summary>
+                            <ul>
+                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-28)_Servidor...Banco...Dados...Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/03-servidor_linux#item3.3">Pasta do Projeto</a></li>
+                                <li><strong>Plataforma:</strong> DIO</li>
+                                <li><strong>Carga Horária:</strong> 1 Hora</li>
+                                <li><strong>Concluído em:</strong> 28/07/2023</li>
+                            </ul>
+                        </details></li>
+                        <li><details><summary>Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)</summary>
+                            <ul>
+                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-31)_Iac...Servidor_Web_(Apache)_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/03-servidor_linux#item3.4">Pasta do Projeto</a></li>
+                                <li><strong>Plataforma:</strong> DIO</li>
+                                <li><strong>Carga Horária:</strong> 1 Hora</li>
+                                <li><strong>Concluído em:</strong> 31/07/2023</li>
+                            </ul>
+                        </details></li>
+                        <li><details><summary>Conhecendo o Linux Desktop</summary>
+                            <ul>
+                                <li><a href="../cert_ti/04-curso/os/linux/(23-08-03)_Conhecendo...Linux_Desktop_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_005#item5.1">Pasta do Projeto</a></li>
+                                <li><strong>Plataforma:</strong> DIO</li>
+                                <li><strong>Carga Horária:</strong> 1 Hora</li>
+                                <li><strong>Concluído em:</strong> 03/08/2023</li>
+                            </ul>
+                        </details></li>
+                        <li><details><summary>701 - Linux Fundamentals</summary>
+                            <ul>
+                                <li><a href="../cert_ti/04-curso/os/linux/(23-08-22)_Linux_Fundamentals_PH_4.Linux.pdf">Certificado (PDF)</a></li>
+                                <li><a href="https://github.com/PedroHeeger/course/tree/main/4.linux/linux/curso_077">Pasta do Projeto</a></li>
+                                <li><strong>Plataforma:</strong> 4.Linux</li>
+                                <li><strong>Carga Horária:</strong> 20 Horas</li>
+                                <li><strong>Concluído em:</strong> 22/08/2023</li>
+                            </ul>
+                        </details></li>
+                        <li><details><summary>702 - Linux Essentials</summary>
+                            <ul>
+                                <li><a href="../cert_ti/04-curso/os/linux/(23-11-05)_Linux_Essentials_PH_4.Linux.pdf">Certificado (PDF)</a></li>
+                                <li><a href="https://github.com/PedroHeeger/course/tree/main/4.linux/linux/curso_083">Pasta do Projeto</a></li>
+                                <li><strong>Plataforma:</strong> 4.Linux</li>
+                                <li><strong>Carga Horária:</strong> 20 Horas</li>
+                                <li><strong>Concluído em:</strong> 05/11/2023</li>
+                            </ul>
+                        </details></li>
+                    <ul>
+                </details></li>
+            </ul>
+        </details></li>
+    </ul>
+</details>
+
