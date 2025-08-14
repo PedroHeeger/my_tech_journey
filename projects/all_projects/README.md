@@ -56,8 +56,36 @@
 
 <details><summary><b>💾 Data</b></summary>
   <ul>
+    <li><details><summary><b>🟠 Big Data</b></summary>
+        <ul>
+            <li><details><summary>Apache Airflow   <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/software/apache_airflow.png" alt="apache_airflow" style="height:25px; width:auto;"></summary>
+                <ul>
+                    <li>boot_<a href="">a   <img src="" alt="" style="height:25px; width:auto;"></a></li>
+                </ul>
+            </details></li>
+            <li><details><summary>Apache Kafka <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="apache_kafka" style="height:25px; width:auto;"></summary>
+                <ul>
+                <li>boot_<a href="">a <img src="" alt="" style="height:25px; width:auto;"></a></li>
+                </ul>
+            </details></li>
+            <li><details><summary>Apache Spark <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/software/apache_spark.png" alt="apache_spark" style="height:25px; width:auto;"></summary>
+                <ul>
+                <li>boot_<a href="">a <img src="" alt="" style="height:25px; width:auto;"></a></li>
+                </ul>
+            </details></li>
+            <li><details><summary>Databricks <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/sites/databricks.png" alt="databricks" style="height:25px; width:auto;"></summary>
+                <ul>
+                <li>boot_<a href="">a <img src="" alt="" style="height:25px; width:auto;"></a></li>
+                </ul>
+            </details></li>
+        </ul>
+    </details>
     <li><details><summary><b>📊 Business Intelligence (BI)</b></summary>
       <ul>
+        <li><details><summary>Excel   <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/software/microsoft_excel.png" alt="excel" width="auto" height="25"></summary>
+            <ul>
+            </ul>
+        </details></li>
         <li><details><summary>Power BI <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/software/microsoft_powerbi.png" alt="powerbi" style="height:25px; width:auto;"></summary>
           <ul>
             <li>curso_041: <a href="https://github.com/PedroHeeger/course/tree/main/hashtag/power_bi/curso_041">Intensivão de Power BI 2023 <img src="https://github.com/PedroHeeger/course/blob/main/hashtag/power_bi/curso_041/0-aux/logo_course.png" alt="curso_041" style="height:25px; width:auto;"></a></li>
@@ -80,35 +108,20 @@
         </details></li>
       </ul>
     </details></li>
-    <li><details><summary><b>🟠 Big Data</b></summary>
-        <ul>
-            <li><details><summary>Apache Kafka <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="apache_kafka" style="height:25px; width:auto;"></summary>
-                <ul>
-                <li>boot_<a href="">a <img src="" alt="" style="height:25px; width:auto;"></a></li>
-                </ul>
-            </details></li>
-            <li><details><summary>Apache Spark <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/software/apache_spark.png" alt="apache_spark" style="height:25px; width:auto;"></summary>
-                <ul>
-                <li>boot_<a href="">a <img src="" alt="" style="height:25px; width:auto;"></a></li>
-                </ul>
-            </details></li>
-            <li><details><summary>Databricks <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/sites/databricks.png" alt="databricks" style="height:25px; width:auto;"></summary>
-                <ul>
-                <li>boot_<a href="">a <img src="" alt="" style="height:25px; width:auto;"></a></li>
-                </ul>
-            </details></li>
-            <li><details><summary>Apache Airflow   <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/software/apache_airflow.png" alt="apache_airflow" style="height:25px; width:auto;"></summary>
-                <ul>
-                    <li>boot_<a href="">a   <img src="" alt="" style="height:25px; width:auto;"></a></li>
-                </ul>
-            </details></li>
-        </ul>
-    </details>
   </ul>
 </details>
 
 <details><summary><b>💻 Development</b></summary>
   <ul>
+    <li><details><summary><b>🚀 CI/CD</b></summary>
+      <ul>
+        <li><details><summary>GitHub Actions <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/software/github_actions.png" alt="github_actions" style="height:25px; width:auto;"></summary>
+          <ul>
+            <li>boot_<a href="">a <img src="" alt="" style="height:25px; width:auto;"></a></li>
+          </ul>
+        </details></li>
+      </ul>
+    </details></li>
     <li><details><summary><b>🐳 Container</b></summary>
       <ul>
         <li><details><summary>Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" style="height:25px; width:auto;"></summary>
@@ -120,15 +133,6 @@
         <li><details><summary>Kubernetes <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" style="height:25px; width:auto;"></summary>
           <ul>
             <li>boot_015: <a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015">Formação Kubernetes Fundamentals <img src="https://github.com/PedroHeeger/boot/blob/main/dio/kubernetes/boot_015/0-aux/logo_boot.png" alt="boot_015" style="height:25px; width:auto;"></a></li>
-          </ul>
-        </details></li>
-      </ul>
-    </details></li>
-    <li><details><summary><b>🚀 CI/CD</b></summary>
-      <ul>
-        <li><details><summary>GitHub Actions <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/software/github_actions.png" alt="github_actions" style="height:25px; width:auto;"></summary>
-          <ul>
-            <li>boot_<a href="">a <img src="" alt="" style="height:25px; width:auto;"></a></li>
           </ul>
         </details></li>
       </ul>
@@ -154,6 +158,11 @@
   </ul>
 </details>
 
+<details><summary><b>📡 Network</b></summary>
+  <ul>
+  </ul>
+</details>
+
 <details><summary><b>👨‍💻 Programming</b></summary>
   <ul>
     <li><details><summary><b>👨‍💻 Programming Languages</b></summary>
@@ -163,6 +172,12 @@
             <li>boot_010: <a href="https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010">Formação Java Developer <img src="https://github.com/PedroHeeger/boot/blob/main/dio/java/boot_010/0-aux/logo_boot.png" alt="boot_010" style="height:25px; width:auto;"></a></li>
           </ul>
         </details></li>
+        <details><summary>JavaScript   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="auto" height="25"></summary>
+            <ul>
+                <li><details><summary>JavaScript</summary>
+                </details></li>
+            </ul>
+        </details>
         <li><details><summary>Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" style="height:25px; width:auto;"></summary>
           <ul>
             <li>curso_066: <a href="https://github.com/PedroHeeger/course/tree/main/dio/python/curso_066">Dev Week - Ifood Ciência de Dados com Python <img src="https://github.com/PedroHeeger/course/blob/main/dio/python/curso_066/0-aux/dev_week.png" alt="curso_066" style="height:25px; width:auto;"></a></li>
@@ -212,9 +227,9 @@
           <li>
             <details>
               <summary>Terraform <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" style="height:25px; width:auto;"></summary>
-              <ul>
-                <li>boot_<a href="">a <img src="" alt="" style="height:25px; width:auto;"></a></li>
-              </ul>
+                <ul>
+                  <li>boot_<a href="">a <img src="" alt="" style="height:25px; width:auto;"></a></li>
+                </ul>
             </details>
           </li>
         </ul>
@@ -223,13 +238,13 @@
     <li><details><summary><b>🖥️ Operating System (OS)</b></summary>
         <ul>
             <li><details><summary>Linux <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" style="height:25px; width:auto;"></summary>
-            <ul>
-                <li>boot_003: <a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003">Linux do Zero <img src="https://github.com/PedroHeeger/boot/blob/main/dio/linux/boot_003/0-aux/logo_boot.png" alt="boot_003" style="height:25px; width:auto;"></a></li>
-                <li>boot_004: <a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_004">Linux Experience <img src="https://github.com/PedroHeeger/boot/blob/main/dio/linux/boot_004/0-aux/logo_boot.png" alt="boot_004" style="height:25px; width:auto;"></a></li>
-                <li>boot_005: <a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_005">Formação Linux Fundamentals <img src="https://github.com/PedroHeeger/boot/blob/main/dio/linux/boot_005/0-aux/logo_boot.png" alt="boot_005" style="height:25px; width:auto;"></a></li>
-                <li>curso_077: <a href="https://github.com/PedroHeeger/course/tree/main/4.linux/linux/curso_077">Linux Fundamentals <img src="https://github.com/PedroHeeger/course/blob/main/4.linux/linux/curso_077/0-aux/logo_course.jpg" alt="curso_077" style="height:25px; width:auto;"></a></li>
-                <li>curso_083: <a href="https://github.com/PedroHeeger/course/tree/main/4.linux/linux/curso_083">Linux Essentials <img src="https://github.com/PedroHeeger/course/blob/main/4.linux/linux/curso_083/0-aux/logo_course.jpg" alt="curso_083" style="height:25px; width:auto;"></a></li>
-            </ul>
+              <ul>
+                  <li>boot_003: <a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003">Linux do Zero <img src="https://github.com/PedroHeeger/boot/blob/main/dio/linux/boot_003/0-aux/logo_boot.png" alt="boot_003" style="height:25px; width:auto;"></a></li>
+                  <li>boot_004: <a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_004">Linux Experience <img src="https://github.com/PedroHeeger/boot/blob/main/dio/linux/boot_004/0-aux/logo_boot.png" alt="boot_004" style="height:25px; width:auto;"></a></li>
+                  <li>boot_005: <a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_005">Formação Linux Fundamentals <img src="https://github.com/PedroHeeger/boot/blob/main/dio/linux/boot_005/0-aux/logo_boot.png" alt="boot_005" style="height:25px; width:auto;"></a></li>
+                  <li>curso_077: <a href="https://github.com/PedroHeeger/course/tree/main/4.linux/linux/curso_077">Linux Fundamentals <img src="https://github.com/PedroHeeger/course/blob/main/4.linux/linux/curso_077/0-aux/logo_course.jpg" alt="curso_077" style="height:25px; width:auto;"></a></li>
+                  <li>curso_083: <a href="https://github.com/PedroHeeger/course/tree/main/4.linux/linux/curso_083">Linux Essentials <img src="https://github.com/PedroHeeger/course/blob/main/4.linux/linux/curso_083/0-aux/logo_course.jpg" alt="curso_083" style="height:25px; width:auto;"></a></li>
+              </ul>
             </details></li>
         </ul>
     </details></li>
