@@ -1423,8 +1423,8 @@
                                 <li><a href="./programming/java/230828...Validacao...Processo_Seletivo_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010/02-escopo_estruturas#item2.5">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
-                                <li><strong>Carga Horária:</strong> 2 Horas</li>
-                                <li><strong>Concluído em:</strong> 27/08/2023</li>
+                                <li><strong>Carga Horária:</strong> 1 Hora</li>
+                                <li><strong>Concluído em:</strong> 28/08/2023</li>
                             </ul>
                         </details></li>
                         <li><details><summary>Fundamentos da Programação Orientada a Objetos com Java</summary>
@@ -1486,7 +1486,7 @@
                                 <li><a href="./programming/java/230830_Estruturas...Dados...Listas_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010/04-estruturas_dados#item4.3">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
-                                <li><strong>Carga Horária:</strong> 2 Horas</li>
+                                <li><strong>Carga Horária:</strong> 3 Horas</li>
                                 <li><strong>Concluído em:</strong> 30/08/2023</li>
                             </ul>
                         </details></li>
@@ -1668,7 +1668,7 @@
                         <li><details><summary>JavaScript</summary>
                             <ul>
                                 <li><a href="./programming/java_script/220820_Cert_JavaScript_PH_CEV.pdf">Certificado (PDF)</a></li>
-                                <li><a href="#">Pasta do Projeto</a></li>
+                                <li><strong>Pasta do Projeto:</strong> Não disponível</li>
                                 <li><strong>Plataforma:</strong> Curso em Vídeo</li>
                                 <li><strong>Carga Horária:</strong> 40 Horas</li>
                                 <li><strong>Concluído em:</strong> 20/08/2022</li>
@@ -1677,6 +1677,7 @@
                         <li><details><summary>Fundamentos de Codificação</summary>
                             <ul>
                                 <li><a href="./programming/java_script/210619_Cert_JS_1_PH_GrassH.png">Certificado (Imagem)</a></li>
+                                <li><strong>Pasta do Projeto:</strong> Não disponível</li>
                                 <li><strong>Plataforma:</strong> Grasshoper</li>
                                 <li><strong>Carga Horária:</strong> -</li>
                                 <li><strong>Concluído em:</strong> 19/06/2021</li>
@@ -1685,6 +1686,7 @@
                         <li><details><summary>Fundamentos de Programação II</summary>
                             <ul>
                                 <li><a href="./programming/java_script/220822_Cert_JS_2_PH_GrassH.png">Certificado (Imagem)</a></li>
+                                <li><strong>Pasta do Projeto:</strong> Não disponível</li>
                                 <li><strong>Plataforma:</strong> Grasshoper</li>
                                 <li><strong>Carga Horária:</strong> -</li>
                                 <li><strong>Concluído em:</strong> 22/08/2022</li>
@@ -1693,6 +1695,7 @@
                         <li><details><summary>Introdução à Entrevista</summary>
                             <ul>
                                 <li><a href="./programming/java_script/220922_Cert_JS_3_PH_GrassH.png">Certificado (Imagem)</a></li>
+                                <li><strong>Pasta do Projeto:</strong> Não disponível</li>
                                 <li><strong>Plataforma:</strong> Grasshoper</li>
                                 <li><strong>Carga Horária:</strong> -</li>
                                 <li><strong>Concluído em:</strong> 22/09/2022</li>
@@ -1701,6 +1704,7 @@
                         <li><details><summary>Métodos de Array</summary>
                             <ul>
                                 <li><a href="./programming/java_script/221024_Cert_JS_4_PH_GrassH.png">Certificado (Imagem)</a></li>
+                                <li><strong>Pasta do Projeto:</strong> Não disponível</li>
                                 <li><strong>Plataforma:</strong> Grasshoper</li>
                                 <li><strong>Carga Horária:</strong> -</li>
                                 <li><strong>Concluído em:</strong> 24/10/2022</li>
@@ -1709,6 +1713,7 @@
                         <li><details><summary>Animações</summary>
                             <ul>
                                 <li><a href="./programming/java_script/221024_Cert_JS_5_PH_GrassH.png">Certificado (Imagem)</a></li>
+                                <li><strong>Pasta do Projeto:</strong> Não disponível</li>
                                 <li><strong>Plataforma:</strong> Grasshoper</li>
                                 <li><strong>Carga Horária:</strong> -</li>
                                 <li><strong>Concluído em:</strong> 24/10/2022</li>
@@ -1891,7 +1896,7 @@
                 <li><details><summary>Lógica 18+</summary>
                     <ul>
                         <li><a href="./programming/logica_algoritmo/220429_Cert_Logica_18+_PH_SCA.pdf">Certificado (PDF)</a></li>
-                        <li><a href="#">Pasta do Projeto</a></li>
+                        <li><strong>Pasta do Projeto:</strong> Não disponível</li>
                         <li><strong>Plataforma:</strong> SoulCode Academy</li>
                         <li><strong>Carga Horária:</strong> 40 Horas</li>
                         <li><strong>Concluído em:</strong> 29/04/2022</li>
