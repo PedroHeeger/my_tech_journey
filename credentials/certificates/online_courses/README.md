@@ -1,7 +1,7 @@
 <!-- # Cursos Online -->
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Online Courses" width="45px"> Certificados de Cursos Online
 
-<details><summary>🧠 Artificial Intelligence (AI)</summary>
+<details><summary><b>🧠 Artificial Intelligence (AI)</b></summary>
     <ul>
         <li><details><summary>Algoritmos e Aprendizado de Máquina</summary>
             <ul>
@@ -132,7 +132,7 @@
     </ul>
 </details>
 
-<details><summary>🔗 Blockchain</summary>
+<details><summary><b>🔗 Blockchain</b></summary>
     <ul>
         <li><details><summary>Introdução à Blockchain</summary>
             <ul>
@@ -335,7 +335,7 @@
     </ul>
 </details>
 
-<details><summary>☁️ Cloud Computing</summary>
+<details><summary><b>☁️ Cloud Computing</b></summary>
     <ul>
         <li><details><summary>AWS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" style="height:25px; width:auto;"></summary>
             <ul>
@@ -850,6 +850,30 @@
 
 <details><summary><b>💾 Data</b></summary>
   <ul>
+    <li><details><summary><b>🟠 Big Data</b></summary>
+        <ul>
+            <li><details><summary>Apache Airflow   <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/software/apache_airflow.png" alt="apache_airflow" style="height:25px; width:auto;"></summary>
+                <ul>
+                    <li>boot_<a href="">a   <img src="" alt="" style="height:25px; width:auto;"></a></li>
+                </ul>
+            </details></li>
+            <li><details><summary>Apache Kafka <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="apache_kafka" style="height:25px; width:auto;"></summary>
+                <ul>
+                <li>boot_<a href="">a <img src="" alt="" style="height:25px; width:auto;"></a></li>
+                </ul>
+            </details></li>
+            <li><details><summary>Apache Spark <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/software/apache_spark.png" alt="apache_spark" style="height:25px; width:auto;"></summary>
+                <ul>
+                <li>boot_<a href="">a <img src="" alt="" style="height:25px; width:auto;"></a></li>
+                </ul>
+            </details></li>
+            <li><details><summary>Databricks <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/sites/databricks.png" alt="databricks" style="height:25px; width:auto;"></summary>
+                <ul>
+                <li>boot_<a href="">a <img src="" alt="" style="height:25px; width:auto;"></a></li>
+                </ul>
+            </details></li>
+        </ul>
+    </details>
     <li><details><summary><b>📊 Business Intelligence (BI)</b></summary>
       <ul>
         <li><details><summary>Excel   <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/software/microsoft_excel.png" alt="excel" width="auto" height="25"></summary>
@@ -857,7 +881,7 @@
                 <li><details><summary>Excel 2010 - Básico</summary>
                     <ul>
                         <li><a href="./data/bi/excel/200814_Cert_Excel_Basic_PH_UIATEC.pdf">Certificado (PDF)</a></li>
-                        <li>Sem Pasta</li>
+                        <li><strong>Pasta do Projeto:</strong> Não disponível</li>
                         <li><strong>Plataforma:</strong> UAITEC</li>
                         <li><strong>Carga Horária:</strong> 40 Horas</li>
                         <li><strong>Concluído em:</strong> 14/08/2020</li>
@@ -880,36 +904,12 @@
         </details></li>
       </ul>
     </details></li>
-    <li><details><summary><b>🟠 Big Data</b></summary>
-        <ul>
-            <li><details><summary>Apache Kafka <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="apache_kafka" style="height:25px; width:auto;"></summary>
-                <ul>
-                <li>boot_<a href="">a <img src="" alt="" style="height:25px; width:auto;"></a></li>
-                </ul>
-            </details></li>
-            <li><details><summary>Apache Spark <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/software/apache_spark.png" alt="apache_spark" style="height:25px; width:auto;"></summary>
-                <ul>
-                <li>boot_<a href="">a <img src="" alt="" style="height:25px; width:auto;"></a></li>
-                </ul>
-            </details></li>
-            <li><details><summary>Databricks <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/sites/databricks.png" alt="databricks" style="height:25px; width:auto;"></summary>
-                <ul>
-                <li>boot_<a href="">a <img src="" alt="" style="height:25px; width:auto;"></a></li>
-                </ul>
-            </details></li>
-            <li><details><summary>Apache Airflow   <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/software/apache_airflow.png" alt="apache_airflow" style="height:25px; width:auto;"></summary>
-                <ul>
-                    <li>boot_<a href="">a   <img src="" alt="" style="height:25px; width:auto;"></a></li>
-                </ul>
-            </details></li>
-        </ul>
-    </details>
   </ul>
 </details>
 
-<details><summary>💻 Development</summary>
+<details><summary><b>💻 Development</b></summary>
     <ul>
-        <li><details><summary>🚀 CI/CD</summary>
+        <li><details><summary><b>🚀 CI/CD</b></summary>
             <ul>
                 <details><summary>GitHub Actions <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/software/github_actions.png" alt="github_actions" style="height:25px; width:auto;"></summary>
                     <ul>
@@ -917,7 +917,7 @@
                 </details></li>
             </ul>
         </details></li>
-        <li><details><summary>🐳 Container</summary>
+        <li><details><summary><b>🐳 Container</b></summary>
             <ul>
                 <li><details><summary>Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" style="height:25px; width:auto;"></summary>
                     <ul>
@@ -1136,12 +1136,12 @@
                 </details></li>
             </ul>
         </details></li>
-        <li><details><summary>💻 Development</summary>
+        <li><details><summary><b>💻 Development</b></summary>
             <ul>
                 <li><details><summary>Introdução ao Desenvolvimento Moderno de Software</summary>
                     <ul>
                         <li><a href="./development/development/230703...Desenvolvimento_Moderno...Software_PH_DIO.pdf">Certificado (PDF)</a></li>
-                        <li>Sem Pasta</li>
+                        <li><strong>Pasta do Projeto:</strong> Não disponível</li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 2 Horas</li>
                         <li><strong>Concluído em:</strong> 03/07/2023</li>
@@ -1150,7 +1150,7 @@
                 <li><details><summary>Trabalhando em Equipes Ágeis</summary>
                     <ul>
                         <li><a href="./development/development/230703_Trabalhando...Equipes_Ageis_PH_DIO.pdf">Certificado (PDF)</a></li>
-                        <li>Sem Pasta</li>
+                        <li><strong>Pasta do Projeto:</strong> Não disponível</li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 3 Horas</li>
                         <li><strong>Concluído em:</strong> 03/07/2023</li>
@@ -1167,7 +1167,7 @@
                 </details></li>
             </ul>
         </details></li>
-        <li><details><summary>🛠️ Devops</summary>
+        <li><details><summary><b>🛠️ Devops</b></summary>
             <ul>
                 <li><details><summary>DevOps: Tudo o que você precisa saber</summary>
                     <ul>
@@ -1279,14 +1279,14 @@
                 </details></li>
             </ul>
         </details></li>
-        <li><details><summary>🔃 Versioning</summary>
+        <li><details><summary><b>🔃 Versioning</b></summary>
             <ul>
                 <li><details><summary>GitHub <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/software/github_actions.png" alt="github" style="height:25px; width:auto;"></summary>
                     <ul>
                         <li><details><summary>Git e GitHub</summary>
                             <ul>
                                 <li><a href="./development/versioning/git_github/220604_Cert_Git...GitHub_PH_CEV.pdf">Certificado (PDF)</a></li>
-                                <li>Sem Pasta</li>
+                                <li><strong>Pasta do Projeto:</strong> Não disponível</li>
                                 <li><strong>Plataforma:</strong> Curso em Vídeo</li>
                                 <li><strong>Carga Horária:</strong> 20 Horas</li>
                                 <li><strong>Concluído em:</strong> 04/06/2022</li>
@@ -1295,7 +1295,7 @@
                         <li><details><summary>Introdução ao Git e ao GitHub</summary>
                             <ul>
                                 <li><a href="./development/versioning/git_github/221031_Introducao...Git...GitHub_PH_DIO.pdf">Certificado (PDF)</a></li>
-                                <li>Sem Pasta</li>
+                                <li><strong>Pasta do Projeto:</strong> Não disponível</li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 5 Horas</li>
                                 <li><strong>Concluído em:</strong> 31/10/2022</li>
@@ -1335,7 +1335,7 @@
     </ul>
 </details>
 
-<details><summary>📡 Network</summary>
+<details><summary><b>📡 Network</b></summary>
     <ul>
         <li><details><summary>Redes de Computadores (Certificado PDF)</summary>
             <ul>
@@ -1349,15 +1349,15 @@
     </ul>
 </details>
 
-<details><summary>👨‍💻 Programming</summary>
+<details><summary><b>👨‍💻 Programming</b></summary>
     <ul>
-        <li><details><summary>👨‍💻 Programming Languages</summary>
+        <li><details><summary><b>👨‍💻 Programming Languages</b></summary>
             <ul>
                 <details><summary>Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" style="height:25px; width:auto;"></summary>
                     <ul>
                         <li><details><summary>Introdução à Plataforma Java</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java/(23-08-26)_Introducao...Plataforma_Java_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/230826_Introducao...Plataforma_Java_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010/01-fundamentos#item1.1">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1366,7 +1366,7 @@
                         </details></li>
                         <li><details><summary>Ambiente de Desenvolvimento Java</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java/(23-08-26)_Ambiente...Desenvolvimento_Java_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/230826_Ambiente...Desenvolvimento_Java_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010/01-fundamentos#item1.2">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1375,7 +1375,7 @@
                         </details></li>
                         <li><details><summary>Aprendendo a Sintaxe Java</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java/(23-08-27)_Aprendendo...Sintaxe_Java_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/230827_Aprendendo...Sintaxe_Java_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010/01-fundamentos#item1.3">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 5 Horas</li>
@@ -1384,7 +1384,7 @@
                         </details></li>
                         <li><details><summary>Simulando Uma Conta Bancária Através do Terminal/Console</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java/(23-08-27)_Simulando...Conta_Bancaria...PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/230827_Simulando...Conta_Bancaria...PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010/01-fundamentos#item1.5">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1393,7 +1393,7 @@
                         </details></li>
                         <li><details><summary>Introdução e Estruturas Condicionais com Java</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java/(23-08-27)_Introducao...Condicionais...Java_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/230827_Introducao...Condicionais...Java_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010/02-escopo_estruturas#item2.1">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1402,7 +1402,7 @@
                         </details></li>
                         <li><details><summary>Estruturas de Repetição em Java</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java/(23-08-27)_Estruturas...Repeticao...Java_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/230827_Estruturas...Repeticao...Java_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010/02-escopo_estruturas#item2.2">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1411,7 +1411,7 @@
                         </details></li>
                         <li><details><summary>Java e Tratamento de Exceções</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java/(23-08-27)_Java...Tratamento...Excecoes_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/230827_Java...Tratamento...Excecoes_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010/02-escopo_estruturas#item2.3">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1420,7 +1420,7 @@
                         </details></li>
                         <li><details><summary>Criando Um Pequeno Sistema Para Validação de Processo Seletivo</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java/(23-08-28)_Criando...Validacao...Processo_Seletivo_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/230828...Validacao...Processo_Seletivo_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010/02-escopo_estruturas#item2.5">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1429,7 +1429,7 @@
                         </details></li>
                         <li><details><summary>Fundamentos da Programação Orientada a Objetos com Java</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java/(23-08-28)_Fundamentos...POO...Java_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/230828_Fundamentos...POO...Java_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010/03-poo#item3.1">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 3 Horas</li>
@@ -1438,7 +1438,7 @@
                         </details></li>
                         <li><details><summary>Pilares da Programação Orientada a Objetos em Java</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java/(23-08-28)_Pilares...POO...Java_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/230828_Pilares...POO...Java_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010/03-poo#item3.2">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1447,7 +1447,7 @@
                         </details></li>
                         <li><details><summary>Orientação a Objetos e UML: Diagramação de Classes do iPhone</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java/(23-08-28)_OO...UML...PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/230828_OO...UML...PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010/03-poo#item3.3">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1456,7 +1456,7 @@
                         </details></li>
                         <li><details><summary>Criando um Banco Digital com Java e Orientação a Objetos</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java/(23-08-29)_Criando_Banco_Digital...PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/230829_Criando_Banco_Digital...PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010/03-poo#item3.4">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1465,7 +1465,7 @@
                         </details></li>
                         <li><details><summary>Estruturas de Dados em Java: Introdução</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java/(23-08-29)_Estruturas...Dados...Introducao_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/230829_Estruturas...Dados...Introducao_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010/04-estruturas_dados#item4.1">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1474,7 +1474,7 @@
                         </details></li>
                         <li><details><summary>Estruturas de Dados em Java: Pilhas e Filas</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java/(23-08-30)_Estruturas...Dados...Pilhas...Filas_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/230830_Estruturas...Dados...Pilhas...Filas_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010/04-estruturas_dados#item4.2">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1483,7 +1483,7 @@
                         </details></li>
                         <li><details><summary>Estruturas de Dados em Java: Listas</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java/(23-08-30)_Estruturas...Dados..Listas_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/230830_Estruturas...Dados...Listas_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010/04-estruturas_dados#item4.3">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1492,7 +1492,7 @@
                         </details></li>
                         <li><details><summary>Estruturas de Dados em Java: Árvores</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java/(23-09-02)_Estruturas...Dados..Arvores_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/230902_Estruturas...Dados..Arvores_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010/04-estruturas_dados#item4.4">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1501,7 +1501,7 @@
                         </details></li>
                         <li><details><summary>Estruturas de Dados em Java: Principais Implementações</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java/(23-09-02)_Estruturas...Dados..Implementacoes_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/230902_Estruturas...Dados..Implementacoes_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010/04-estruturas_dados#item4.5">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1510,7 +1510,7 @@
                         </details></li>
                         <li><details><summary>Trabalhando com Collections Java</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java/(23-09-06)_Trabalhando...Collections_Java_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/230906_Trabalhando...Collections_Java_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010/04-estruturas_dados#item4.6">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 4 Horas</li>
@@ -1519,7 +1519,7 @@
                         </details></li>
                         <li><details><summary>Abstraindo um Bootcamp Usando Orientação a Objetos em Java</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java/(23-09-07)_Abstraindo...OO...Java_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/230907_Abstraindo...OO...Java_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010/04-estruturas_dados#item4.7">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1528,7 +1528,7 @@
                         </details></li>
                         <li><details><summary>Projetos Java com Gradle</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java/(23-09-08)_Projetos_Java...Gradle_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/230908_Projetos_Java...Gradle_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010/05-dependencias_build#item5.1">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 3 Horas</li>
@@ -1537,7 +1537,7 @@
                         </details></li>
                         <li><details><summary>Gerenciamento de Dependências e Build em Java com Maven</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java/(23-09-09)_Gerenciamento...Dependencias...Maven_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/230909...Dependencias...Maven_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010/05-dependencias_build#item5.2">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1546,7 +1546,7 @@
                         </details></li>
                         <li><details><summary>Debugging Java</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/">Certificado (PDF)</a></li>
                                 <li><a href="#">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1555,7 +1555,7 @@
                         </details></li>
                         <li><details><summary>Tratamento de Exceções em Java</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/">Certificado (PDF)</a></li>
                                 <li><a href="#">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1564,7 +1564,7 @@
                         </details></li>
                         <li><details><summary>Entrada e Saída de Arquivos (I/O) em Java</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/">Certificado (PDF)</a></li>
                                 <li><a href="#">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1573,7 +1573,7 @@
                         </details></li>
                         <li><details><summary>Aprenda sobre S.O.L.I.D. com Java</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/">Certificado (PDF)</a></li>
                                 <li><a href="#">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1582,7 +1582,7 @@
                         </details></li>
                         <li><details><summary>Introdução a Testes de Software</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/">Certificado (PDF)</a></li>
                                 <li><a href="#">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1591,7 +1591,7 @@
                         </details></li>
                         <li><details><summary>Testes Unitários com jUnit</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/">Certificado (PDF)</a></li>
                                 <li><a href="#">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1600,7 +1600,7 @@
                         </details></li>
                         <li><details><summary>Desenvolvendo Testes Utilizando Mockito</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/">Certificado (PDF)</a></li>
                                 <li><a href="#">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1609,7 +1609,7 @@
                         </details></li>
                         <li><details><summary>Principais Protocolos de Comunicação da Internet</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/">Certificado (PDF)</a></li>
                                 <li><a href="#">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1618,7 +1618,7 @@
                         </details></li>
                         <li><details><summary>Imersão no Spring Framework com Spring Boot</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/">Certificado (PDF)</a></li>
                                 <li><a href="#">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1627,7 +1627,7 @@
                         </details></li>
                         <li><details><summary>Criando uma API REST Documentada com Spring Web e Swagger</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/">Certificado (PDF)</a></li>
                                 <li><a href="#">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1636,7 +1636,7 @@
                         </details></li>
                         <li><details><summary>Adicionando Segurança a uma API REST com Spring Security</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/">Certificado (PDF)</a></li>
                                 <li><a href="#">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1645,7 +1645,7 @@
                         </details></li>
                         <li><details><summary>Explorando Padrões de Projetos na Prática com Java</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/">Certificado (PDF)</a></li>
                                 <li><a href="#">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1654,7 +1654,7 @@
                         </details></li>
                         <li><details><summary>Conhecendo Spring Data JPA na prática com Java</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java/">Certificado (PDF)</a></li>
                                 <li><a href="#">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1667,7 +1667,7 @@
                     <ul>
                         <li><details><summary>JavaScript</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java_script/(22-08-20)_Cert_JavaScript_PH_CEV.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/java_script/220820_Cert_JavaScript_PH_CEV.pdf">Certificado (PDF)</a></li>
                                 <li><a href="#">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> Curso em Vídeo</li>
                                 <li><strong>Carga Horária:</strong> 40 Horas</li>
@@ -1676,7 +1676,7 @@
                         </details></li>
                         <li><details><summary>Fundamentos de Codificação</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java_script/(21-06-19)_Cert_JS_1_PH_GrassH.png">Certificado (Imagem)</a></li>
+                                <li><a href="./programming/java_script/210619_Cert_JS_1_PH_GrassH.png">Certificado (Imagem)</a></li>
                                 <li><strong>Plataforma:</strong> Grasshoper</li>
                                 <li><strong>Carga Horária:</strong> -</li>
                                 <li><strong>Concluído em:</strong> 19/06/2021</li>
@@ -1684,7 +1684,7 @@
                         </details></li>
                         <li><details><summary>Fundamentos de Programação II</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java_script/(22-08-22)_Cert_JS_2_PH_GrassH.png">Certificado (Imagem)</a></li>
+                                <li><a href="./programming/java_script/220822_Cert_JS_2_PH_GrassH.png">Certificado (Imagem)</a></li>
                                 <li><strong>Plataforma:</strong> Grasshoper</li>
                                 <li><strong>Carga Horária:</strong> -</li>
                                 <li><strong>Concluído em:</strong> 22/08/2022</li>
@@ -1692,7 +1692,7 @@
                         </details></li>
                         <li><details><summary>Introdução à Entrevista</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java_script/(22-09-22)_Cert_JS_3_PH_GrassH.png">Certificado (Imagem)</a></li>
+                                <li><a href="./programming/java_script/220922_Cert_JS_3_PH_GrassH.png">Certificado (Imagem)</a></li>
                                 <li><strong>Plataforma:</strong> Grasshoper</li>
                                 <li><strong>Carga Horária:</strong> -</li>
                                 <li><strong>Concluído em:</strong> 22/09/2022</li>
@@ -1700,7 +1700,7 @@
                         </details></li>
                         <li><details><summary>Métodos de Array</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java_script/(22-10-24)_Cert_JS_4_PH_GrassH.png">Certificado (Imagem)</a></li>
+                                <li><a href="./programming/java_script/221024_Cert_JS_4_PH_GrassH.png">Certificado (Imagem)</a></li>
                                 <li><strong>Plataforma:</strong> Grasshoper</li>
                                 <li><strong>Carga Horária:</strong> -</li>
                                 <li><strong>Concluído em:</strong> 24/10/2022</li>
@@ -1708,7 +1708,7 @@
                         </details></li>
                         <li><details><summary>Animações</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java_script/(22-10-24)_Cert_JS_5_PH_GrassH.png">Certificado (Imagem)</a></li>
+                                <li><a href="./programming/java_script/221024_Cert_JS_5_PH_GrassH.png">Certificado (Imagem)</a></li>
                                 <li><strong>Plataforma:</strong> Grasshoper</li>
                                 <li><strong>Carga Horária:</strong> -</li>
                                 <li><strong>Concluído em:</strong> 24/10/2022</li>
@@ -1716,7 +1716,7 @@
                         </details></li>
                         <li><details><summary>Animações II</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/java_script/(23-02-20)_Cert_JS_6_PH_GrassH.png">Certificado (Imagem)</a></li>
+                                <li><a href="./programming/java_script/230220_Cert_JS_6_PH_GrassH.png">Certificado (Imagem)</a></li>
                                 <li><strong>Plataforma:</strong> Grasshoper</li>
                                 <li><strong>Carga Horária:</strong> -</li>
                                 <li><strong>Concluído em:</strong> 20/02/2023</li>
@@ -1728,7 +1728,8 @@
                     <ul>
                         <li><details><summary>SoulOn - Python 1</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/python/(21-11-28)_Cert_Mod-1_Python_PH_SCA_(R1).pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/python/211128_Cert_Mod1_Python_PH SCA.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/python/211128_Cert_Mod1_Python_PH_SCA_R1.pdf">Certificado Atualizado (PDF)</a></li>
                                 <li><a href="#">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> SoulCode Academy</li>
                                 <li><strong>Carga Horária:</strong> 40 Horas</li>
@@ -1737,7 +1738,7 @@
                         </details></li>
                         <li><details><summary>SoulOn - Python 2</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/python/(22-04-25)_Cert_Mod-2_Python_PH_SCA.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/python/220425_Cert_Mod2_Python_PH_SCA.pdf">Certificado (PDF)</a></li>
                                 <li><a href="#">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> SoulCode Academy</li>
                                 <li><strong>Carga Horária:</strong> 40 Horas</li>
@@ -1746,7 +1747,7 @@
                         </details></li>
                         <li><details><summary>SoulOn - Python 3</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/python/(22-04-27)_Cert_Mod-3_Python_PH_SCA.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/python/220427_Cert_Mod3_Python_PH_SCA.pdf">Certificado (PDF)</a></li>
                                 <li><a href="#">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> SoulCode Academy</li>
                                 <li><strong>Carga Horária:</strong> 40 Horas</li>
@@ -1755,15 +1756,19 @@
                         </details></li>
                     </ul>
                 </details>
+                <li><details><summary>Spring <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" style="height:25px; width:auto;"></summary>
+                    <ul>
+                    </ul>
+                </details></li>
             </ul>
         </details></li>
-        <li><details><summary>💻 Shell Languages</summary>
+        <li><details><summary><b>💻 Shell Languages</b></summary>
             <ul>
                 <details><summary>Windows PowerShell <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/software/windows_power_shell.png" alt="windows_power_shell" style="height:25px; width:auto;"></summary>
                     <ul>
                         <li><details><summary>Aprenda PowerShell do zero</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/power_shell/(24-03-20)_Cert_PowerShell_PH_UDM.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/power_shell/240320_Cert_PowerShell_PH_UDM.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/course/tree/main/udemy/powershell/curso_119">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> Udemy</li>
                                 <li><strong>Carga Horária:</strong> 4 Horas</li>
@@ -1774,13 +1779,13 @@
                 </details>
             </ul>
         </details></li>
-        <li><details><summary>🌐 Others Languages</summary>
+        <li><details><summary><b>🌐 Others Languages</b></summary>
             <ul>
                 <li><details><summary>HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" style="height:25px; width:auto;"></summary>
                     <ul>
                         <li><details><summary>Entendendo Comunicação Client x Server</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/html/(23-08-23)_Entendendo_Comunicacao_Client...Server_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/html/230823...Comunicacao_Client...Server_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/01-primeiros_passos#item1.1">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1789,7 +1794,7 @@
                         </details></li>
                         <li><details><summary>Introdução ao HTML na Prática</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/html/(23-08-23)_Introducao...HTML_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/html/230823_Introducao...HTML_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/01-primeiros_passos#item1.2">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1798,7 +1803,7 @@
                         </details></li>
                         <li><details><summary>Criar Uma Página Web Utilizando as Tags Aprendidas</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/html/(23-08-23)_Criar...Pagina_Web...PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/html/230823_Criar...Pagina_Web...PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/01-primeiros_passos#item1.4">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1807,7 +1812,7 @@
                         </details></li>
                         <li><details><summary>Trabalhando com Formulários em HTML</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/html/(23-08-24)_Trabalhando....Formularios...HTML_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/html/230824_Trabalhando...Formularios...HTML_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/02-conceitos_basicos#item2.1">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1816,7 +1821,7 @@
                         </details></li>
                         <li><details><summary>Estruturando seu HTML + Formatações</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/html/(23-08-24)_Estruturando...HTML...Formatacoes_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/html/230824_Estruturando...HTML...PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/02-conceitos_basicos#item2.2">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1825,7 +1830,7 @@
                         </details></li>
                         <li><details><summary>Trabalhando com Mídias utilizando HTML</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/html/(23-08-24)_Trabalhando...Midias_utilizando_HTML_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/html/230824_Trabalhando...Midias...HTML_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/02-conceitos_basicos#item2.3">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1834,7 +1839,7 @@
                         </details></li>
                         <li><details><summary>Criando Tabelas com HTML</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/html/(23-08-24)_Criando_Tabelas...HTML_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/html/230824_Criando_Tabelas...HTML_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/02-conceitos_basicos#item2.4">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1843,7 +1848,7 @@
                         </details></li>
                         <li><details><summary>Criando seu Primeiro Site Completo com HTML</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/html/(23-08-25)_Criando...Site_Completo...HTML_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/html/230825_Criando...Site_Completo...HTML_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/02-conceitos_basicos#item2.5">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1852,7 +1857,7 @@
                         </details></li>
                         <li><details><summary>Entendendo HTML Semântico</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/html/(23-08-25)_Entendendo_HTML_Semantico_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/html/230825_Entendendo_HTML_Semantico_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/03-ampliando_conhecimento#item3.1">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1861,7 +1866,7 @@
                         </details></li>
                         <li><details><summary>HTML: Recursos Especiais</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/html/(23-08-25)_HTML_Recursos_Especiais_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/html/230825_HTML_Recursos_Especiais_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/03-ampliando_conhecimento#item3.2">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1870,7 +1875,7 @@
                         </details></li>
                         <li><details><summary>Recriando o Wikipedia com Layout Moderno</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/programming/html/(23-08-25)_Recriando...Wikipedia...PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./programming/html/230825_Recriando...Wikipedia...PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/03-ampliando_conhecimento#item3.3">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1881,11 +1886,11 @@
                 </details></li>
             </ul>
         </details></li>
-        <li><details><summary>🧩 Programming Logic</summary>
+        <li><details><summary><b>🧩 Programming Logic</b></summary>
             <ul>
                 <li><details><summary>Lógica 18+</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/programming/logica_algoritmo/(22-04-29)_Cert_Logica_18+_PH_SCA.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./programming/logica_algoritmo/220429_Cert_Logica_18+_PH_SCA.pdf">Certificado (PDF)</a></li>
                         <li><a href="#">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> SoulCode Academy</li>
                         <li><strong>Carga Horária:</strong> 40 Horas</li>
@@ -1894,7 +1899,7 @@
                 </details></li>
                 <li><details><summary>Introdução à Programação e Pensamento Computacional</summary>
                     <ul>
-                        <li><a href="../cert_ti/04-curso/programming/logica_algoritmo/(22-10-09)...Programacao...Pensamento_Computacional_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./programming/logica_algoritmo/221009...Pensamento_Computacional_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/01.05-logica_programacao">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 5 Horas</li>
@@ -1906,15 +1911,23 @@
     </ul>
 </details>
 
-<details><summary>🖥️ System Administration</summary>
+<details><summary><b>🖥️ System Administration</b></summary>
     <ul>
-        <li><details><summary>🖥️ Operating System (OS)</summary>
+        <li><details><summary><b>🧰 Configuration Management (CM)</b></summary>
+            <ul>
+                <li><details><summary>Terraform <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" style="height:25px; width:auto;"></summary>
+                    <ul>
+                    </ul>
+                </details></li>
+            </ul>
+        </details></li>
+        <li><details><summary><b>🖥️ Operating System (OS)</b></summary>
             <ul>
                 <li><details><summary>Linux <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" style="height:25px; width:auto;"></summary>
                     <ul>
                         <li><details><summary>Introdução ao Sistema Operacional Linux</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-11)_Introducao...Sistema_Operacional_Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./sys_adm/os/linux/230711_Introducao...Sistema_Operacional_Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/02-linux#item2.1">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1923,7 +1936,7 @@
                         </details></li>
                         <li><details><summary>Instalando o Linux</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-12)_Instalando...Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./sys_adm/os/linux/230712_Instalando...Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/02-linux#item2.2">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1932,7 +1945,7 @@
                         </details></li>
                         <li><details><summary>Acesso Remoto a Maquinas Linux</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-12)_Acesso_Remoto...Maquinas_Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./sys_adm/os/linux/230712_Acesso_Remoto...Maquinas_Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/02-linux#item2.3">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1941,7 +1954,7 @@
                         </details></li>
                         <li><details><summary>Manipulando Arquivos no Linux</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-13)_Manipulando_Arquivos...Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./sys_adm/os/linux/230713_Manipulando_Arquivos...Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/02-linux#item2.4">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 3 Horas</li>
@@ -1950,7 +1963,7 @@
                         </details></li>
                         <li><details><summary>Gerenciando Usuários no Linux</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-27)_Gerenciando_Usuarios...Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./sys_adm/os/linux/230727_Gerenciando_Usuarios...Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/02-linux#item2.5">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
@@ -1959,7 +1972,7 @@
                         </details></li>
                         <li><details><summary>Gerenciamento de Pacotes Linux</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-27)_Gerenciamento...Pacotes_Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./sys_adm/os/linux/230727_Gerenciamento...Pacotes_Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/02-linux#item2.6">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1968,7 +1981,7 @@
                         </details></li>
                         <li><details><summary>Gerenciamento de Discos Linux</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-27)_Gerenciamento...Discos_Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./sys_adm/os/linux/230727_Gerenciamento...Discos_Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/02-linux#item2.7">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1977,7 +1990,7 @@
                         </details></li>
                         <li><details><summary>Copiando Arquivos e Manipulando Processos</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-28)_Copiando_Arquivos...Manipulando_Processos_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./sys_adm/os/linux/230728_Copiando_Arquivos...Processos_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/02-linux#item2.8">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1986,7 +1999,7 @@
                         </details></li>
                         <li><details><summary>Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-31)_Iac...Criacao...Usuarios...Diretorios...Permissoes_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./sys_adm/os/linux/230731_Iac...Usuarios...Diretorios...Permissoes_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/02-linux#item2.9">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -1995,7 +2008,7 @@
                         </details></li>
                         <li><details><summary>Servidores de Arquivos com Linux</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-28)_Servidores...Arquivos....Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./sys_adm/os/linux/230728_Servidores...Arquivos....Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/03-servidor_linux#item3.1">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -2004,7 +2017,7 @@
                         </details></li>
                         <li><details><summary>Criando um Servidor Web com Linux</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-28)_Criando...Servidor_Web...Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./sys_adm/os/linux/230728_Criando...Servidor_Web...Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/03-servidor_linux#item3.2">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -2013,7 +2026,7 @@
                         </details></li>
                         <li><details><summary>Servidor de Banco de Dados com Linux</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-28)_Servidor...Banco...Dados...Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./sys_adm/os/linux/230728_Servidor...Banco...Dados...Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/03-servidor_linux#item3.3">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -2022,7 +2035,7 @@
                         </details></li>
                         <li><details><summary>Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-07-31)_Iac...Servidor_Web_(Apache)_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./sys_adm/os/linux/230731_Iac...Servidor_Web_Apache_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/03-servidor_linux#item3.4">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -2031,7 +2044,7 @@
                         </details></li>
                         <li><details><summary>Conhecendo o Linux Desktop</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-08-03)_Conhecendo...Linux_Desktop_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./sys_adm/os/linux/230803_Conhecendo...Linux_Desktop_PH_DIO.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_005#item5.1">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> DIO</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
@@ -2040,7 +2053,7 @@
                         </details></li>
                         <li><details><summary>701 - Linux Fundamentals</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-08-22)_Linux_Fundamentals_PH_4.Linux.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./sys_adm/os/linux/230822_Linux_Fundamentals_PH_4.Linux.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/course/tree/main/4.linux/linux/curso_077">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> 4.Linux</li>
                                 <li><strong>Carga Horária:</strong> 20 Horas</li>
@@ -2049,7 +2062,7 @@
                         </details></li>
                         <li><details><summary>702 - Linux Essentials</summary>
                             <ul>
-                                <li><a href="../cert_ti/04-curso/os/linux/(23-11-05)_Linux_Essentials_PH_4.Linux.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./sys_adm/os/linux/231105_Linux_Essentials_PH_4.Linux.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/course/tree/main/4.linux/linux/curso_083">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> 4.Linux</li>
                                 <li><strong>Carga Horária:</strong> 20 Horas</li>
