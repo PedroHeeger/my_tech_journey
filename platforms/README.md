@@ -16,6 +16,8 @@
         <img alt="aws_educate" src="./img/aws_educate.jpg"style="height:85px; width:auto;"/>
         <img alt="aws_partner" src="./img/apn.png"style="height:85px; width:auto;"/>
         <img alt="msft_learn" src="./img/msft_learn.jpg" style="height:85px; width:auto;"/>
+        <img alt="cisco" src="./img/cisco.png" style="height:85px; width:auto;"/>
+        <img alt="cna" src="./img/cna.png" style="height:85px; width:auto;"/>
     </div>
 </div>
 
