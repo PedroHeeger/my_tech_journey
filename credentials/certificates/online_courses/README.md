@@ -843,6 +843,29 @@
                         <li><strong>Concluído em:</strong> 09/08/2025</li>
                     </ul>
                 </details></li>
+                <li><details><summary> AWS Partner: Digital Sovereignty Essentials</summary>
+                    <ul>
+                        <li><a href="./cloud/aws/250924_APN...Digital_Sovereignty...PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/aws_partner/curso_apn_008">Pasta do Projeto</a></li>
+                        <li><strong>Plataforma:</strong> AWS Skill Builder</li>
+                        <li><strong>Carga Horária:</strong> - Horas</li>
+                        <li><strong>Concluído em:</strong> 24/09/2025</li>
+                    </ul>
+                </details></li>
+            </ul>
+        </details></li>
+    </ul>
+</details>
+
+<details><summary><b>🕵️‍♂️ Cybersecurity</b></summary>
+    <ul>
+        <li><details><summary>Cyber Threat Management</summary>
+            <ul>
+                <li><a href="./cybersecurity/2590922_Cyber_Threat_Management_PH_CNA.pdf">Certificado (PDF)</a></li>
+                <li><strong>Pasta do Projeto:</strong> https://github.com/PedroHeeger/cisco/tree/main/self_paced/sfp_001</li>
+                <li><strong>Plataforma:</strong> Cisco Networking Academy (CNA)</li>
+                <li><strong>Carga Horária:</strong> - horas</li>
+                <li><strong>Concluído em:</strong> 22/09/2025</li>
             </ul>
         </details></li>
     </ul>
@@ -1344,6 +1367,15 @@
                 <li><strong>Plataforma:</strong> Curso em Video</li>
                 <li><strong>Carga Horária:</strong> 20 horas</li>
                 <li><strong>Concluído em:</strong> 12/10/2022</li>
+            </ul>
+        </details></li>
+        <li><details><summary>Network Technician</summary>
+            <ul>
+                <li><a href="./network/cisco/250930_Network_Technician...PH_CNA.pdf">Certificado (PDF)</a></li>
+                <li><strong>Pasta do Projeto:</strong> https://github.com/PedroHeeger/cisco/tree/main/self_paced/sfp_002</li>
+                <li><strong>Plataforma:</strong> Cisco Networking Academy (CNA)</li>
+                <li><strong>Carga Horária:</strong> - horas</li>
+                <li><strong>Concluído em:</strong> 30/09/2025</li>
             </ul>
         </details></li>
     </ul>
