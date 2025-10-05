@@ -11,3 +11,9 @@
         <img src="./devops/220807_Prometheus...Grafana_PH_Iniciativa_Devops.png" alt="iniciativa_devops-prometheus_grafana" style="height:180px; width:auto;">
     </div>
 </details>
+
+<details><summary>Network</summary>
+    <div>
+        <img src="./network/250926_Networking_Academy_PH_CNA.png" alt="cna_participant" style="height:180px; width:auto;">
+    </div>
+</details>
