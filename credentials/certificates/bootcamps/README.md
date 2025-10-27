@@ -98,6 +98,20 @@
     </ul>
 </details>
 
+<details><summary><b>🕵️‍♂️ Cybersecurity</b></summary>
+    <ul>
+        <li><details><summary>Formação Cybersec Módulo 1 – Fundamentos de Cibersegurança e Redes</summary>
+            <ul>
+                <li><a href="./cybersecurity/mod/251022_Cert_Mod1_Formacao_Cybersec_PH_VNW.pdf">Certificado (PDF)</a></li>
+                <li><strong>Pasta do Projeto:</strong> https://github.com/PedroHeeger/boot/tree/main/vnw/cybersecurity/boot_035/01-fund_cibersec</li>
+                <li><strong>Plataforma:</strong> Vai na Web (VNW)</li>
+                <li><strong>Carga Horária:</strong> 48.5 horas</li>
+                <li><strong>Concluído em:</strong> 22/10/2025</li>
+            </ul>
+        </details></li>
+    </ul>
+</details>
+
 <details><summary>💾 Data</summary>
     <ul>
         <li><details><summary>Ciência de Dados</summary>
