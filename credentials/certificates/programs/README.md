@@ -2,7 +2,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Programs" width="45px"> Certificados de Programas
 [Retornar para a pasta Certificados](../)
 
-<details><summary>☁️ Cloud - AWS</summary>
+<details><summary><b>☁️ Cloud - AWS</b></summary>
     <ul>
         <li><details><summary>Programa AWS re/Start</summary>
             <ul>

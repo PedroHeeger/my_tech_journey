@@ -862,11 +862,128 @@
     <ul>
         <li><details><summary>Cyber Threat Management</summary>
             <ul>
-                <li><a href="./cybersecurity/2590922_Cyber_Threat_Management_PH_CNA.pdf">Certificado (PDF)</a></li>
+                <li><a href="./cybersecurity/250922_Cyber_Threat_Management_PH_CNA.pdf">Certificado (PDF)</a></li>
                 <li><strong>Pasta do Projeto:</strong> https://github.com/PedroHeeger/cisco/tree/main/self_paced/sfp_001</li>
                 <li><strong>Plataforma:</strong> Cisco Networking Academy (CNA)</li>
                 <li><strong>Carga Horária:</strong> - horas</li>
                 <li><strong>Concluído em:</strong> 22/09/2025</li>
+            </ul>
+        </details></li>
+        <li><details><summary>Conhecendo a Formação de Cibersegurança</summary>
+            <ul>
+                <li><a href="./cybersecurity/251007_Conhecendo...Ciberseguranca_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><strong>Pasta do Projeto:</strong> ??</li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
+                <li><strong>Carga Horária:</strong> 1 hora</li>
+                <li><strong>Concluído em:</strong> 07/10/2025</li>
+            </ul>
+        </details></li>
+        <li><details><summary>Príncipios da Cibersegurança</summary>
+            <ul>
+                <li><a href="./cybersecurity/251014_Principios...Ciberseguranca_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><strong>Pasta do Projeto:</strong> https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_036/02-fund_cyber#item2.1</li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
+                <li><strong>Carga Horária:</strong> 2 horas</li>
+                <li><strong>Concluído em:</strong> 14/10/2025</li>
+            </ul>
+        </details></li>
+        <li><details><summary>Introdução à Deep Web e Anonimato</summary>
+            <ul>
+                <li><a href="./cybersecurity/251017...Deep_Web...Anonimato_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><strong>Pasta do Projeto:</strong> https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_036/02-fund_cyber#item2.4</li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
+                <li><strong>Carga Horária:</strong> 1 hora</li>
+                <li><strong>Concluído em:</strong> 17/10/2025</li>
+            </ul>
+        </details></li>
+        <li><details><summary>Fundamentos de Testes de Invasão (Pentest)</summary>
+            <ul>
+                <li><a href="./cybersecurity/251017...Testes...Invasao_(Pentest)_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><strong>Pasta do Projeto:</strong> https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_036/03-testes_invasao#item3.1</li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
+                <li><strong>Carga Horária:</strong> 1 hora</li>
+                <li><strong>Concluído em:</strong> 17/10/2025</li>
+            </ul>
+        </details></li>
+        <li><details><summary>Introdução à Coleta e Análise de Segurança Cibernética</summary>
+            <ul>
+                <li><a href="./cybersecurity/251017...Coleta...Analise...Cibernética_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><strong>Pasta do Projeto:</strong> https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_036/03-testes_invasao#item3.2</li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
+                <li><strong>Carga Horária:</strong> 2 horas</li>
+                <li><strong>Concluído em:</strong> 17/10/2025</li>
+            </ul>
+        </details></li>
+        <li><details><summary>Tópicos em Engenharia Social</summary>
+            <ul>
+                <li><a href="./cybersecurity/251018...Engenharia_Social_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><strong>Pasta do Projeto:</strong> https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_036/03-testes_invasao#item3.3</li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
+                <li><strong>Carga Horária:</strong> 1 hora</li>
+                <li><strong>Concluído em:</strong> 18/10/2025</li>
+            </ul>
+        </details></li>
+        <li><details><summary>Conceitos e Técnicas de Varredura de Rede</summary>
+            <ul>
+                <li><a href="./cybersecurity/251018...Tecnicas_Varredura...Rede_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><strong>Pasta do Projeto:</strong> https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_036/03-testes_invasao#item3.4</li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
+                <li><strong>Carga Horária:</strong> 1 hora</li>
+                <li><strong>Concluído em:</strong> 18/10/2025</li>
+            </ul>
+        </details></li>
+        <li><details><summary>Princípios de Enumeração e Exploração de Vulnerabilidades</summary>
+            <ul>
+                <li><a href="./cybersecurity/251018...Enumercao...Exploracao_Vulnerabilidades_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><strong>Pasta do Projeto:</strong> https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_036/03-testes_invasao#item3.5</li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
+                <li><strong>Carga Horária:</strong> 1 hora</li>
+                <li><strong>Concluído em:</strong> 18/10/2025</li>
+            </ul>
+        </details></li>
+        <li><details><summary>Desafio de projeto: Criação de um Phishing com o Kali Linux</summary>
+            <ul>
+                <li><a href="./cybersecurity/">Certificado (PDF)</a></li>
+                <li><strong>Pasta do Projeto:</strong> https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_036/03-testes_invasao#item3.6</li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
+                <li><strong>Carga Horária:</strong> - horas</li>
+                <li><strong>Concluído em:</strong> /10/2025</li>
+            </ul>
+        </details></li>
+        <li><details><summary>Técnicas de Exploração de Vulnerabilidades</summary>
+            <ul>
+                <li><a href="./cybersecurity/251018...Tecnicas...Exploracao_Vulnerabilidades_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><strong>Pasta do Projeto:</strong> https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_036/04-explor_vulnerabilidade#item4.1</li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
+                <li><strong>Carga Horária:</strong> 1 hora</li>
+                <li><strong>Concluído em:</strong> 18/10/2025</li>
+            </ul>
+        </details></li>
+        <li><details><summary>Pós-Exploração em Sistemas Comprometidos</summary>
+            <ul>
+                <li><a href="./cybersecurity/">Certificado (PDF)</a></li>
+                <li><strong>Pasta do Projeto:</strong> https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_036/04-explor_vulnerabilidade#item4.2</li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
+                <li><strong>Carga Horária:</strong> - horas</li>
+                <li><strong>Concluído em:</strong> /10/2025</li>
+            </ul>
+        </details></li>
+        <li><details><summary>Man in the Middle: Ataques e Mitigações</summary>
+            <ul>
+                <li><a href="./cybersecurity/">Certificado (PDF)</a></li>
+                <li><strong>Pasta do Projeto:</strong> https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_036/04-explor_vulnerabilidade#item4.3</li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
+                <li><strong>Carga Horária:</strong> - horas</li>
+                <li><strong>Concluído em:</strong> /10/2025</li>
+            </ul>
+        </details></li>
+        <li><details><summary>Desafio de projeto: Entendendo um Ransomware na Prática com Python</summary>
+            <ul>
+                <li><a href="./cybersecurity/">Certificado (PDF)</a></li>
+                <li><strong>Pasta do Projeto:</strong> https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_036/04-explor_vulnerabilidade#item4.4</li>
+                <li><strong>Plataforma:</strong> Vai na Web (VNW)</li>
+                <li><strong>Carga Horária:</strong> - horas</li>
+                <li><strong>Concluído em:</strong> /10/2025</li>
             </ul>
         </details></li>
     </ul>
@@ -1377,6 +1494,15 @@
                 <li><strong>Plataforma:</strong> Cisco Networking Academy (CNA)</li>
                 <li><strong>Carga Horária:</strong> - horas</li>
                 <li><strong>Concluído em:</strong> 30/09/2025</li>
+            </ul>
+        </details></li>
+        <li><details><summary>Fundamentos de Redes de Computadores</summary>
+            <ul>
+                <li><a href="./network/251016...Redes...Computadores_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><strong>Pasta do Projeto:</strong> https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_036/02-fund_cyber#item2.3</li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
+                <li><strong>Carga Horária:</strong> 1 hora</li>
+                <li><strong>Concluído em:</strong> 16/10/2025</li>
             </ul>
         </details></li>
     </ul>
@@ -2108,6 +2234,15 @@
                             </ul>
                         </details></li>
                     <ul>
+                </details></li>
+                <li><details><summary>Conceitos e Práticas de Sistemas Operacionais e Máquinas Virtuais</summary>
+                    <ul>
+                        <li><a href="./sys_adm/os/251015...Sistemas_Operacionais...VMs_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><strong>Pasta do Projeto:</strong> https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_036/02-fund_cyber#item2.2</li>
+                        <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
+                        <li><strong>Carga Horária:</strong> 2 horas</li>
+                        <li><strong>Concluído em:</strong> 15/10/2025</li>
+                    </ul>
                 </details></li>
             </ul>
         </details></li>
