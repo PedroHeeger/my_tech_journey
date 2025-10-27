@@ -14,6 +14,8 @@ credentials/certificates/bootcamps/blockchain/mod/*
 credentials/certificates/bootcamps/cloud/mat/*
 credentials/certificates/bootcamps/cloud/mod/*
 
+credentials/certificates/bootcamps/cybersecurity/mat/*
+
 credentials/certificates/bootcamps/data/mat/*
 credentials/certificates/bootcamps/data/mod/*
 credentials/certificates/bootcamps/development/container/docker/mat/*

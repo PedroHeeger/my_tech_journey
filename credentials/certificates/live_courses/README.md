@@ -2,7 +2,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Teacher.png" alt="Live Courses" width="45px"> Certificados de Cursos ao Vivo
 [Retornar para a pasta Certificados](../)
 
-<details><summary>☁️ Cloud - AWS</summary>
+<details><summary><b>☁️ Cloud - AWS</b></summary>
     <ul>
         <li><details><summary>Programa Desenvolvimento Profissional para Carreiras em Nuvem (DPCN) – Formação para Arquiteto de Soluções AWS</summary>
             <ul>
@@ -23,8 +23,17 @@
     </ul>
 </details>
 
-<details><summary>🕵️‍♂️ Cybersecurity</summary>
+<details><summary><b>🕵️‍♂️ Cybersecurity</b></summary>
     <ul>
+        <li><details><summary>Formação Cybersec Módulo 1 – Fundamentos de Cibersegurança e Redes</summary>
+            <ul>
+                <li><a href="./cybersecurity/mod/251022_Cert_Mod1_Formacao_Cybersec_PH_VNW.pdf">Certificado (PDF)</a></li>
+                <li><strong>Pasta do Projeto:</strong> https://github.com/PedroHeeger/boot/tree/main/vnw/cybersecurity/boot_035/01-fund_cibersec</li>
+                <li><strong>Plataforma:</strong> Vai na Web (VNW)</li>
+                <li><strong>Carga Horária:</strong> 48.5 horas</li>
+                <li><strong>Concluído em:</strong> 22/10/2025</li>
+            </ul>
+        </details></li>
         <li><details><summary>Cybersec Kensei</summary>
             <ul>
                 <li><a href="">Certificado (PDF)</a></li>
@@ -37,7 +46,7 @@
     </ul>
 </details>
 
-<details><summary>💾 Data</summary>
+<details><summary><b>💾 Data</b></summary>
     <ul>
         <li><details><summary>Engenharia de Dados</summary>
             <ul>

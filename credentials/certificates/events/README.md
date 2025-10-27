@@ -2,7 +2,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Admission%20Tickets.png" alt="Events" width="45px"> Certificados de Eventos
 [Retornar para a pasta Certificados](../)
 
-<details><summary>🟩 Data - Excel</summary>
+<details><summary><b>🟩 Data - Excel</b></summary>
     <ul>
         <li><details><summary>Simplifica Excel Express</summary>
             <ul>
@@ -43,7 +43,7 @@
     </ul>
 </details>
 
-<details><summary>📊 Data - Power BI</summary>
+<details><summary><b>📊 Data - Power BI</b></summary>
     <ul>
         <li><details><summary>Simplifica Power Excel</summary>
             <ul>
@@ -93,21 +93,97 @@
     </ul>
 </details>
 
-<details><summary>🛠️ Development - Devops</summary>
+<details><summary><b>💻 Development</b></summary>
     <ul>
-        <li><details><summary>Iniciativa Devops</summary>
+        <li><details><summary><b>🚀 CI/CD</b></summary>
             <ul>
-                <li><a href="./development/devops/220810_Cert_Devops_PH_Fabricio_Veronez_(Iniciativa_Devops).pdf">Certificado (PDF)</a></li>
-                <li><a href="">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> Fabrício Veronez</li>
-                <li><strong>Carga Horária:</strong> 10 Horas</li>
-                <li><strong>Concluído em:</strong> 10/08/2022</li>
+                <details><summary>GitHub Actions <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/software/github_actions.png" alt="github_actions" style="height:25px; width:auto;"></summary>
+                    <ul>
+                    </ul>
+                </details></li>
+            </ul>
+        </details></li>
+        <li><details><summary><b>🐳 Container</b></summary>
+            <ul>
+                <li><details><summary>Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" style="height:25px; width:auto;"></summary>
+                    <ul>
+                    </ul>
+                </details></li>
+                <li><details><summary>Kubernetes <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" style="height:25px; width:auto;"></summary>
+                    <ul>
+                    </ul>
+                </details></li>
+            </ul>
+        </details></li>
+        <li><details><summary><b>🎨 Design</b></summary>
+            <ul>
+                <li><details><summary>Masterclass UI/UX para Desenvolvedores e Designers</summary>
+                    <ul>
+                        <li><a href="./development/design/250902_Cert_UI_UX...Designers_PH_VNW.pdf">Certificado (PDF)</a></li>
+                        <li><strong>Pasta do Projeto:</strong> Não disponível</li>
+                        <li><strong>Plataforma:</strong> Vai na Web (VNW)</li>
+                        <li><strong>Carga Horária:</strong> 2 Horas</li>
+                        <li><strong>Concluído em:</strong> 02/09/2025</li>
+                    </ul>
+                </details></li>
+                <li><details><summary>Masterclass Muito Além do UI: Design que constrói experiências</summary>
+                    <ul>
+                        <li><a href="./development/design/250916_Cert...UI...Design...experiencias_PH_VNW.pdf">Certificado (PDF)</a></li>
+                        <li><strong>Pasta do Projeto:</strong> Não disponível</li>
+                        <li><strong>Plataforma:</strong> Vai na Web (VNW)</li>
+                        <li><strong>Carga Horária:</strong> 2 Horas</li>
+                        <li><strong>Concluído em:</strong> 16/09/2025</li>
+                    </ul>
+                </details></li>
+            </ul>
+        </details></li>
+        <li><details><summary><b>💻 Development</b></summary>
+            <ul>
+                <li><details><summary>Masterclass Escreva Menos, Entregue Mais: Os Fundamentos do Código Limpo</summary>
+                    <ul>
+                        <li><a href="./development/250805_Cert...Fundamentos...Codigo_Limpo_PH_VNW.pdf">Certificado (PDF)</a></li>
+                        <li><strong>Pasta do Projeto:</strong> Não disponível</li>
+                        <li><strong>Plataforma:</strong> Vai na Web (VNW)</li>
+                        <li><strong>Carga Horária:</strong> 2 Horas</li>
+                        <li><strong>Concluído em:</strong> 05/08/2025</li>
+                    </ul>
+                </details></li>
+            </ul>
+        </details></li>
+        <li><details><summary><b>🛠️ Devops</b></summary>
+            <ul>
+                <li><details><summary>Iniciativa Devops</summary>
+                    <ul>
+                        <li><a href="./development/devops/220810_Cert_Devops_PH_Fabricio_Veronez_(Iniciativa_Devops).pdf">Certificado (PDF)</a></li>
+                        <li><a href="">Pasta do Projeto</a></li>
+                        <li><strong>Plataforma:</strong> Fabrício Veronez</li>
+                        <li><strong>Carga Horária:</strong> 10 Horas</li>
+                        <li><strong>Concluído em:</strong> 10/08/2022</li>
+                    </ul>
+                </details></li>
+            </ul>
+        </details></li>
+        <li><details><summary><b>🔃 Versioning</b></summary>
+            <ul>
+                <li><details><summary>Git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" style="height:25px; width:auto;"></summary>
+                    <ul>
+                        <li><details><summary>Masterclass Versionamento Inteligente: Gitflow na prática</summary>
+                            <ul>
+                                <li><a href="./development/versioning/250819_Cert_Versionamento...Gitflow...PH_VNW.pdf">Certificado (PDF)</a></li>
+                                <li><strong>Pasta do Projeto:</strong> Não disponível</li>
+                                <li><strong>Plataforma:</strong> Vai na Web (VNW)</li>
+                                <li><strong>Carga Horária:</strong> 2 Horas</li>
+                                <li><strong>Concluído em:</strong> 19/08/2025</li>
+                            </ul>
+                        </details></li>
+                    </ul>
+                </details></li>
             </ul>
         </details></li>
     </ul>
 </details>
 
-<details><summary>🟨 Programming - JavaScript</summary>
+<details><summary><b>🟨 Programming - JavaScript</b></summary>
     <ul>
         <li><details><summary>Intensivão de JavaScript</summary>
             <ul>
@@ -121,7 +197,7 @@
     </ul>
 </details>
 
-<details><summary>🐍 Programming - Python</summary>
+<details><summary><b>🐍 Programming - Python</b></summary>
     <ul>
         <li><details><summary>Intensivão de Python</summary>
             <ul>

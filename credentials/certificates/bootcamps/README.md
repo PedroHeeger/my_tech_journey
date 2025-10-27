@@ -2,7 +2,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Bootcamps" width="45px"> Certificados de Bootcamps
 [Retornar para a pasta Certificados](../)
 
-<details><summary>🧠 Artificial Intelligence (AI)</summary>
+<details><summary><b>🧠 Artificial Intelligence (AI)</b></summary>
     <ul>
         <li><details><summary>Formação Fundamentos de Inteligência Artificial</summary>
             <ul>
@@ -25,7 +25,7 @@
     </ul>
 </details>
 
-<details><summary>🔗 Blockchain</summary>
+<details><summary><b>🔗 Blockchain</b></summary>
     <ul>
         <li><details><summary>Formação Blockchain Specialist</summary>
             <ul>
@@ -57,7 +57,7 @@
     </ul>
 </details>
 
-<details><summary>☁️ Cloud - AWS</summary>
+<details><summary><b>☁️ Cloud - AWS</b></summary>
     <ul>
         <li><details><summary>Bootcamp Cloud AWS</summary>
             <ul>
@@ -98,21 +98,7 @@
     </ul>
 </details>
 
-<details><summary><b>🕵️‍♂️ Cybersecurity</b></summary>
-    <ul>
-        <li><details><summary>Formação Cybersec Módulo 1 – Fundamentos de Cibersegurança e Redes</summary>
-            <ul>
-                <li><a href="./cybersecurity/mod/251022_Cert_Mod1_Formacao_Cybersec_PH_VNW.pdf">Certificado (PDF)</a></li>
-                <li><strong>Pasta do Projeto:</strong> https://github.com/PedroHeeger/boot/tree/main/vnw/cybersecurity/boot_035/01-fund_cibersec</li>
-                <li><strong>Plataforma:</strong> Vai na Web (VNW)</li>
-                <li><strong>Carga Horária:</strong> 48.5 horas</li>
-                <li><strong>Concluído em:</strong> 22/10/2025</li>
-            </ul>
-        </details></li>
-    </ul>
-</details>
-
-<details><summary>💾 Data</summary>
+<details><summary><b>💾 Data</b></summary>
     <ul>
         <li><details><summary>Ciência de Dados</summary>
             <ul>
@@ -126,7 +112,7 @@
     </ul>
 </details>
 
-<details><summary>🐳 Development - Container</summary>
+<details><summary><b>🐳 Development - Container</b></summary>
     <ul>
         <li><details><summary>Formação Docker Fundamentals</summary>
             <ul>
@@ -149,7 +135,7 @@
     </ul>
 </details>
 
-<details><summary>🛠️ Development - DevOps</summary>
+<details><summary><b>🛠️ Development - DevOps</b></summary>
     <ul>
         <li><details><summary>Formação DevOps Fundamentals</summary>
             <ul>
@@ -172,7 +158,7 @@
     </ul>
 </details>
 
-<details><summary>🌐 Programming - Others Languages</summary>
+<details><summary><b>🌐 Programming - Others Languages</b></summary>
     <ul>
         <li><details><summary>Formação HTML Web Developer</summary>
             <ul>
@@ -186,7 +172,7 @@
     </ul>
 </details>
 
-<details><summary>🖥️ Operating System (OS) - Linux</summary>
+<details><summary><b>🖥️ Operating System (OS) - Linux</b></summary>
     <ul>
         <li><details><summary>Linux do Zero</summary>
             <ul>
