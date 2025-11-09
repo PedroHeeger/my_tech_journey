@@ -100,7 +100,7 @@
 
 <details><summary><b>🕵️‍♂️ Cybersecurity</b></summary>
     <ul>
-        <li><details><summary>Conhecendo a Formação de Cibersegurança</summary>
+        <li><details><summary>Formação Cybersecurity Specialist</summary>
             <ul>
                 <li><a href="./cybersecurity/251109_Cert_Formacao_Cybersecurity_Specialist_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_036">Pasta do Projeto</a></li>
