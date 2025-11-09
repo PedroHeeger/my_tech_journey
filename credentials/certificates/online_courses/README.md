@@ -872,7 +872,7 @@
         <li><details><summary>Conhecendo a Formação de Cibersegurança</summary>
             <ul>
                 <li><a href="./cybersecurity/251007_Conhecendo...Ciberseguranca_PH_DIO.pdf">Certificado (PDF)</a></li>
-                <li><strong>Pasta do Projeto:</strong> ??</li>
+                <li><strong>Pasta do Projeto:</strong> https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_036/01-form_cyber#item1.1</li>
                 <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
                 <li><strong>Carga Horária:</strong> 1 hora</li>
                 <li><strong>Concluído em:</strong> 07/10/2025</li>
@@ -907,7 +907,7 @@
         </details></li>
         <li><details><summary>Introdução à Coleta e Análise de Segurança Cibernética</summary>
             <ul>
-                <li><a href="./cybersecurity/251017...Coleta...Analise...Cibernética_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./cybersecurity/251017...Coleta...Analise...Cibernetica_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><strong>Pasta do Projeto:</strong> https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_036/03-testes_invasao#item3.2</li>
                 <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
                 <li><strong>Carga Horária:</strong> 2 horas</li>
@@ -943,11 +943,11 @@
         </details></li>
         <li><details><summary>Desafio de projeto: Criação de um Phishing com o Kali Linux</summary>
             <ul>
-                <li><a href="./cybersecurity/">Certificado (PDF)</a></li>
+                <li><a href="./cybersecurity/251109_DP...Phishing...Kali_Linux...PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><strong>Pasta do Projeto:</strong> https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_036/03-testes_invasao#item3.6</li>
                 <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
-                <li><strong>Carga Horária:</strong> - horas</li>
-                <li><strong>Concluído em:</strong> /10/2025</li>
+                <li><strong>Carga Horária:</strong> 1 hora</li>
+                <li><strong>Concluído em:</strong> 09/11/2025</li>
             </ul>
         </details></li>
         <li><details><summary>Técnicas de Exploração de Vulnerabilidades</summary>
@@ -961,29 +961,29 @@
         </details></li>
         <li><details><summary>Pós-Exploração em Sistemas Comprometidos</summary>
             <ul>
-                <li><a href="./cybersecurity/">Certificado (PDF)</a></li>
+                <li><a href="./cybersecurity/251105_Pos-Exploracao...Comprometidos_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><strong>Pasta do Projeto:</strong> https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_036/04-explor_vulnerabilidade#item4.2</li>
                 <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
-                <li><strong>Carga Horária:</strong> - horas</li>
-                <li><strong>Concluído em:</strong> /10/2025</li>
+                <li><strong>Carga Horária:</strong> 2 horas</li>
+                <li><strong>Concluído em:</strong> 05/11/2025</li>
             </ul>
         </details></li>
         <li><details><summary>Man in the Middle: Ataques e Mitigações</summary>
             <ul>
-                <li><a href="./cybersecurity/">Certificado (PDF)</a></li>
+                <li><a href="./cybersecurity/251106_MitM...Ataques..PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><strong>Pasta do Projeto:</strong> https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_036/04-explor_vulnerabilidade#item4.3</li>
                 <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
-                <li><strong>Carga Horária:</strong> - horas</li>
-                <li><strong>Concluído em:</strong> /10/2025</li>
+                <li><strong>Carga Horária:</strong> 1 hora</li>
+                <li><strong>Concluído em:</strong> 06/11/2025</li>
             </ul>
         </details></li>
         <li><details><summary>Desafio de projeto: Entendendo um Ransomware na Prática com Python</summary>
             <ul>
-                <li><a href="./cybersecurity/">Certificado (PDF)</a></li>
+                <li><a href="./cybersecurity/251109_DP...Ransomware...Python_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><strong>Pasta do Projeto:</strong> https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_036/04-explor_vulnerabilidade#item4.4</li>
-                <li><strong>Plataforma:</strong> Vai na Web (VNW)</li>
-                <li><strong>Carga Horária:</strong> - horas</li>
-                <li><strong>Concluído em:</strong> /10/2025</li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
+                <li><strong>Carga Horária:</strong> 1 hora</li>
+                <li><strong>Concluído em:</strong> 09/11/2025</li>
             </ul>
         </details></li>
     </ul>
