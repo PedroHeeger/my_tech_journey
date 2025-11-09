@@ -98,6 +98,20 @@
     </ul>
 </details>
 
+<details><summary><b>🕵️‍♂️ Cybersecurity</b></summary>
+    <ul>
+        <li><details><summary>Conhecendo a Formação de Cibersegurança</summary>
+            <ul>
+                <li><a href="./cybersecurity/251109_Cert_Formacao_Cybersecurity_Specialist_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_036">Pasta do Projeto</a></li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
+                <li><strong>Carga Horária:</strong> 22 horas</li>
+                <li><strong>Concluído em:</strong> 09/11/2025</li>
+            </ul>
+        </details></li>
+    </ul>
+</details>
+
 <details><summary><b>💾 Data</b></summary>
     <ul>
         <li><details><summary>Ciência de Dados</summary>
