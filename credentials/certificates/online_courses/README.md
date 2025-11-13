@@ -336,6 +336,20 @@
     </ul>
 </details>
 
+<details><summary><b>🤝 Collaboration</b></summary>
+    <ul>
+        <li><details><summary>Organizando seus Estudos com os Roadmaps DIO e o Notion</summary>
+            <ul>
+                <li><a href="./collaboration/251112...Estudos...Notion_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_038#1.3">Pasta do Projeto</a></li>
+                <li><strong>Plataforma:</strong> DIO</li>
+                <li><strong>Carga Horária:</strong> 2 horas</li>
+                <li><strong>Concluído em:</strong> 12/11/2025</li>
+            </ul>
+        </details></li>
+    </ul>
+</details>
+
 <details><summary><b>☁️ Cloud Computing</b></summary>
     <ul>
         <li><details><summary>AWS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" style="height:25px; width:auto;"></summary>
@@ -2231,6 +2245,15 @@
                                 <li><strong>Plataforma:</strong> 4.Linux</li>
                                 <li><strong>Carga Horária:</strong> 20 Horas</li>
                                 <li><strong>Concluído em:</strong> 05/11/2023</li>
+                            </ul>
+                        </details></li>
+                        <li><details><summary>Mentoria: Seus Primeiros Passos no Linux</summary>
+                            <ul>
+                                <li><a href="./sys_adm/os/linux/251110_Ment...Primeiros_Passos...Linux_PH_DIO.pdf">Certificado (PDF)</a></li>
+                                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_038#4.6">Pasta do Projeto</a></li>
+                                <li><strong>Plataforma:</strong> DIO</li>
+                                <li><strong>Carga Horária:</strong> 2 Horas</li>
+                                <li><strong>Concluído em:</strong> 10/11/2025</li>
                             </ul>
                         </details></li>
                     <ul>
