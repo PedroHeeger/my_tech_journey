@@ -118,6 +118,15 @@
                 <li><strong>Concluído em:</strong> 12/11/2025</li>
             </ul>
         </details></li>
+        <li><details><summary>Bootcamp Santander - Cibersegurança #2</summary>
+            <ul>
+                <li><a href="./cybersecurity/251115_Cert_Bootcamp_Santander-Ciberseguranca_#2_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_039">Pasta do Projeto</a></li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
+                <li><strong>Carga Horária:</strong> 28 horas</li>
+                <li><strong>Concluído em:</strong> 15/11/2025</li>
+            </ul>
+        </details></li>
     </ul>
 </details>
 
