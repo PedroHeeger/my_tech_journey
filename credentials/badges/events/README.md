@@ -2,7 +2,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Admission%20Tickets.png" alt="Events" width="45px"> Badges de Eventos
 [Retornar para a pasta Badges](../)
 
-<details><summary>🛠️ Development - DevOps</summary>
+<details><summary><b>🛠️ Development - DevOps</b></summary>
     <div>
         <img src="./devops/220803_Docker_PH_Iniciativa_Devops.png" alt="iniciativa_devops-docker" style="height:180px; width:auto;">
         <img src="./devops/220805_Kubernetes_PH_Iniciativa_Devops.png" alt="iniciativa_devops-kubernetes" style="height:180px; width:auto;">
@@ -12,7 +12,7 @@
     </div>
 </details>
 
-<details><summary>📡 Network</summary>
+<details><summary><b>📡 Network</b></summary>
     <div>
         <img src="./network/250926_Networking_Academy_PH_CNA.png" alt="cna_participant" style="height:180px; width:auto;">
     </div>

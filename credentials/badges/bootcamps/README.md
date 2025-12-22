@@ -2,7 +2,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Bootcamps" width="45px"> Badges de Bootcamps
 [Retornar para a pasta Badges](../)
 
-<details><summary>🧠 Artificial Intelligence (AI)</summary>
+<details><summary><b>🧠 Artificial Intelligence (AI)</b></summary>
     <div>
         <a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_023"><img src="./ai/logo_boot_023.png" alt="logo_boot_023" style="height:150px; width:auto;"></a>
         <a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_024"><img src="./ai/logo_boot_024.png" alt="logo_boot_024" style="height:150px; width:auto;"></a>
@@ -11,7 +11,7 @@
     </div>
 </details>
 
-<details><summary>🔗 Blockchain e Web3</summary>
+<details><summary><b>🔗 Blockchain e Web3</b></summary>
     <div>
         <a href="https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_025/"><img src="./blockchain/logo_boot_025.png" alt="logo_boot_025" style="height:150px; width:auto;"></a>
         <a href="https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_026/"><img src="./blockchain/logo_boot_026.png" alt="logo_boot_026" style="height:150px; width:auto;"></a>
@@ -19,7 +19,7 @@
     </div>
 </details>
 
-<details><summary>☁️ Cloud - AWS</summary>
+<details><summary><b>☁️ Cloud - AWS</b></summary>
     <div>
         <a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011"><img src="./cloud/aws/logo_boot_011.png" alt="logo_boot_011" style="height:150px; width:auto;"></a>
         <a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_012"><img src="./cloud/aws/logo_boot_012.png" alt="logo_boot_012" style="height:150px; width:auto;"></a>
@@ -28,21 +28,21 @@
     </div>
 </details>
 
-<details><summary>🐳 Container</summary>
+<details><summary><b>🐳 Container</b></summary>
     <div>
         <a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006"><img src="./container/logo_boot_006.png" alt="logo_boot_006" style="height:150px; width:auto;"></a>
         <a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015"><img src="./container/logo_boot_015.png" alt="logo_boot_015" style="height:150px; width:auto;"></a>
     </div>
 </details>
 
-<details><summary>🛠️ Development - DevOps</summary>
+<details><summary><b>🛠️ Development - DevOps</b></summary>
     <div>
         <a href="https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_017"><img src="./devops/logo_boot_017.png" alt="logo_boot_017" style="height:150px; width:auto;"></a>
         <a href="https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_020"><img src="./devops/logo_boot_020.webp" alt="logo_boot_020" style="height:150px; width:auto;"></a>
     </div>
 </details>
 
-<details><summary>🖥️ OS - Linux</summary>
+<details><summary><b>🖥️ OS - Linux</b></summary>
     <div>
         <a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003"><img src="./os/linux/logo_boot_003.png" alt="logo_boot_003" style="height:150px; width:auto;"></a>
         <a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_004"><img src="./os/linux/logo_boot_004.png" alt="logo_boot_004" style="height:150px; width:auto;"></a>
@@ -50,13 +50,13 @@
     </div>
 </details>
 
-<details><summary>🌐 Programming - HTML</summary>
+<details><summary><b>🌐 Programming - HTML</b></summary>
     <div>
         <a href="https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007"><img src="./programming/html/logo_boot_007.png" alt="logo_boot_007" style="height:150px; width:auto;"></a>
     </div>
 </details>
 
-<details><summary>👨‍💻 Programming - Java</summary>
+<details><summary><b>👨‍💻 Programming - Java</b></summary>
     <div>
         <a href="https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010"><img src="./programming/java/logo_boot_010.png" alt="logo_boot_010" style="height:150px; width:auto;"></a>
     </div>
