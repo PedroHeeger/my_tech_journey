@@ -71,7 +71,7 @@
 
 <details><summary><b>📡 Network</b></summary>
     <ul>
-        <li><details><summary>CCNA Módulo 1: Introdução às Redes (Certificado PDF)</summary>
+        <li><details><summary>CCNA Módulo 1: Introduction to Networks (Certificado PDF)</summary>
             <ul>
                 <li><a href="./network/251218_ccna-mod1.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/cisco/tree/main/instructor_led/ild_001">Pasta do Projeto</a></li>
