@@ -34,15 +34,24 @@
                 <li><strong>Concluído em:</strong> 22/10/2025</li>
             </ul>
         </details></li>
-        <li><details><summary>Cybersec Kensei</summary>
+        <li><details><summary>Formação Cybersec Módulo 2 – Defesa e Monitoramento</summary>
             <ul>
-                <li><a href="">Certificado (PDF)</a></li>
-                <li><a href="">Pasta do Projeto</a></li>
+                <li><a href="./cybersecurity/mod/251118_Cert_Mod2_Formacao_Cybersec_PH_VNW.pdf">Certificado (PDF)</a></li>
+                <li><a href="https://github.com/PedroHeeger/boot/tree/main/vnw/cybersecurity/boot_035/02-defesa_monitoramento">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> Vai na Web</li>
-                <li><strong>Carga Horária:</strong> ?? horas</li>
-                <li><strong>Período:</strong> 01/06/25 à 30/12/25</li>
+                <li><strong>Carga Horária:</strong> 46,5 horas</li>
+                <li><strong>Concluído em:</strong> 18/11/2025</li>
             </ul>
-        </details></li>
+        </details><li>
+        <li><details><summary>Formação Cybersec Módulo 3 – Ethical Hacking</summary>
+            <ul>
+                <li><a href="./cybersecurity/mod/251118_Cert_Mod3_Formacao_Cybersec_PH_VNW.pdf">Certificado (PDF)</a></li>
+                <li><a href="https://github.com/PedroHeeger/boot/tree/main/vnw/cybersecurity/boot_035/03-ethical_hacking">Pasta do Projeto</a></li>
+                <li><strong>Plataforma:</strong> Vai na Web</li>
+                <li><strong>Carga Horária:</strong> 46,5 horas</li>
+                <li><strong>Concluído em:</strong> 22/12/2025</li>
+            </ul>
+        </details><li>
     </ul>
 </details>
 
@@ -55,6 +64,20 @@
                 <li><strong>Plataforma:</strong> SoulCode Academy</li>
                 <li><strong>Carga Horária:</strong> 480 horas</li>
                 <li><strong>Período:</strong> 25/10/21 à 28/01/22</li>
+            </ul>
+        </details></li>
+    </ul>
+</details>
+
+<details><summary><b>📡 Network</b></summary>
+    <ul>
+        <li><details><summary>CCNA Módulo 1: Introdução às Redes (Certificado PDF)</summary>
+            <ul>
+                <li><a href="./network/251218_ccna-mod1.pdf">Certificado (PDF)</a></li>
+                <li><a href="hhttps://github.com/PedroHeeger/cisco/tree/main/instructor_led/ild_001">Pasta do Projeto</a></li>
+                <li><strong>Plataforma:</strong> Cisco Networking Academy (CNA)</li>
+                <li><strong>Carga Horária:</strong> 70 horas</li>
+                <li><strong>Concluído em:</strong> 18/12/2025</li>
             </ul>
         </details></li>
     </ul>
