@@ -35,6 +35,14 @@
     </div>
 </details>
 
+<details><summary><b>🕵️‍♂️ Cybersecurity</b></summary>
+    <div>
+        <a href="https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_036"><img src="./cybersecurity/logo_boot_036.png" alt="logo_boot_015" style="height:150px; width:auto;"></a>
+        <a href="https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_038"><img src="./cybersecurity/logo_boot_038.png" alt="logo_boot_015" style="height:150px; width:auto;"></a>
+        <a href="https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_039"><img src="./cybersecurity/logo_boot_039.png" alt="logo_boot_015" style="height:150px; width:auto;"></a>
+    </div>
+</details>
+
 <details><summary><b>🛠️ Development - DevOps</b></summary>
     <div>
         <a href="https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_017"><img src="./devops/logo_boot_017.png" alt="logo_boot_017" style="height:150px; width:auto;"></a>
