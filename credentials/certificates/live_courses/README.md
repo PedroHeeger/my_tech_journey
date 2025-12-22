@@ -28,7 +28,7 @@
         <li><details><summary>Formação Cybersec Módulo 1 – Fundamentos de Cibersegurança e Redes</summary>
             <ul>
                 <li><a href="./cybersecurity/mod/251022_Cert_Mod1_Formacao_Cybersec_PH_VNW.pdf">Certificado (PDF)</a></li>
-                <li><strong>Pasta do Projeto:</strong> https://github.com/PedroHeeger/boot/tree/main/vnw/cybersecurity/boot_035/01-fund_cibersec</li>
+                <li><a href="https://github.com/PedroHeeger/boot/tree/main/vnw/cybersecurity/boot_035/01-fund_cibersec">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> Vai na Web (VNW)</li>
                 <li><strong>Carga Horária:</strong> 48.5 horas</li>
                 <li><strong>Concluído em:</strong> 22/10/2025</li>
@@ -42,7 +42,7 @@
                 <li><strong>Carga Horária:</strong> 46,5 horas</li>
                 <li><strong>Concluído em:</strong> 18/11/2025</li>
             </ul>
-        </details><li>
+        </details></li>
         <li><details><summary>Formação Cybersec Módulo 3 – Ethical Hacking</summary>
             <ul>
                 <li><a href="./cybersecurity/mod/251118_Cert_Mod3_Formacao_Cybersec_PH_VNW.pdf">Certificado (PDF)</a></li>
@@ -51,7 +51,7 @@
                 <li><strong>Carga Horária:</strong> 46,5 horas</li>
                 <li><strong>Concluído em:</strong> 22/12/2025</li>
             </ul>
-        </details><li>
+        </details></li>
     </ul>
 </details>
 
@@ -74,7 +74,7 @@
         <li><details><summary>CCNA Módulo 1: Introdução às Redes (Certificado PDF)</summary>
             <ul>
                 <li><a href="./network/251218_ccna-mod1.pdf">Certificado (PDF)</a></li>
-                <li><a href="hhttps://github.com/PedroHeeger/cisco/tree/main/instructor_led/ild_001">Pasta do Projeto</a></li>
+                <li><a href="https://github.com/PedroHeeger/cisco/tree/main/instructor_led/ild_001">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> Cisco Networking Academy (CNA)</li>
                 <li><strong>Carga Horária:</strong> 70 horas</li>
                 <li><strong>Concluído em:</strong> 18/12/2025</li>
