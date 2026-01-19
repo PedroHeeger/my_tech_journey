@@ -17,8 +17,14 @@
     </div>
 </details>
 
+<details><summary><b>🌐 Internet of Things (IoT)</b></summary>
+    <div>
+        <img src="./iot/260119_sfp_003_PH_CNA.png" alt="cna_sfp_003" style="height:180px; width:auto;">
+    </div>
+</details>
+
 <details><summary><b>📡 Network</b></summary>
     <div>
-        <img src="./network/cisco/250930_sfp_002_PH_CNA.png" alt="cna_sfp_002" style="height:180px; width:auto;">
+        <img src="./network/250930_sfp_002_PH_CNA.png" alt="cna_sfp_002" style="height:180px; width:auto;">
     </div>
 </details>
