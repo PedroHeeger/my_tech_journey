@@ -15,11 +15,20 @@
         </details></li>
         <li><details><summary>Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3</summary>
             <ul>
-                <li><a href="./ai/240908_Cert_Bootcamp_Nexa...IA_Generativa...Claude_3_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="./ai/240908_Cert_Boot_Nexa...IA_Generativa...Claude_3_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_028">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 10 Horas</li>
                 <li><strong>Concluído em:</strong> 08/09/2024</li>
+            </ul>
+        </details></li>
+        <li><details><summary>Bootcamp Nexa - Fundamentos de IA Generativa com Bedrock</summary>
+            <ul>
+                <li><a href="./ai/251223_Cert_Boot_Nexa...IA_Generativa...Bedrock_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_037">Pasta do Projeto</a></li>
+                <li><strong>Plataforma:</strong> DIO</li>
+                <li><strong>Carga Horária:</strong> 9 Horas</li>
+                <li><strong>Concluído em:</strong> 23/12/2025</li>
             </ul>
         </details></li>
     </ul>
@@ -190,20 +199,6 @@
     </ul>
 </details>
 
-<details><summary><b>🌐 Programming - Others Languages</b></summary>
-    <ul>
-        <li><details><summary>Formação HTML Web Developer</summary>
-            <ul>
-                <li><a href="./programming/html/">Certificado (PDF)</a></li>
-                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
-                <li><strong>Carga Horária:</strong> 21 Horas</li>
-                <li><strong>Concluído em:</strong> 25/08/2023</li>
-            </ul>
-        </details></li>
-    </ul>
-</details>
-
 <details><summary><b>🖥️ Operating System (OS) - Linux</b></summary>
     <ul>
         <li><details><summary>Linux do Zero</summary>
@@ -231,6 +226,34 @@
                 <li><strong>Plataforma:</strong> DIO</li>
                 <li><strong>Carga Horária:</strong> 23 Horas</li>
                 <li><strong>Concluído em:</strong> 03/08/2023</li>
+            </ul>
+        </details></li>
+    </ul>
+</details>
+
+<details><summary><b>🌐 Programming - Others Languages</b></summary>
+    <ul>
+        <li><details><summary>Formação HTML Web Developer</summary>
+            <ul>
+                <li><a href="./programming/html/">Certificado (PDF)</a></li>
+                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007">Pasta do Projeto</a></li>
+                <li><strong>Plataforma:</strong> DIO</li>
+                <li><strong>Carga Horária:</strong> 21 Horas</li>
+                <li><strong>Concluído em:</strong> 25/08/2023</li>
+            </ul>
+        </details></li>
+    </ul>
+</details>
+
+<details><summary><b>🌐 Software Engineering</b></summary>
+    <ul>
+        <li><details><summary>Bootcamp Santander 2025 - Automação com N8N</summary>
+            <ul>
+                <li><a href="./soft_engineering/">Certificado (PDF)</a></li>
+                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/n8n/boot_040">Pasta do Projeto</a></li>
+                <li><strong>Plataforma:</strong> DIO</li>
+                <li><strong>Carga Horária:</strong> 26 Horas</li>
+                <li><strong>Concluído em:</strong> 25/01/2026</li>
             </ul>
         </details></li>
     </ul>

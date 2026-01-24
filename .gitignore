@@ -29,6 +29,9 @@ credentials/certificates/bootcamps/programming/html/mat/*
 credentials/certificates/bootcamps/programming/html/mod/*
 credentials/certificates/bootcamps/programming/java/mat/*
 credentials/certificates/bootcamps/programming/java/mod/*
+credentials/certificates/bootcamps/soft_engineering/mat/*
+credentials/certificates/bootcamps/soft_engineering/mod/*
+
 
 credentials/certificates/bootcamps/sys_adm/os/linux/mat/*
 credentials/certificates/bootcamps/sys_adm/os/linux/mod/*
