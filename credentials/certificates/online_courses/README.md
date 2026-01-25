@@ -2364,7 +2364,7 @@
                 </details></li>
                 <li><details><summary>Automatizando Processos com N8N</summary>
                     <ul>
-                        <li><a href="./soft_engineering/n8n/">Certificado (PDF)</a></li>
+                        <li><a href="./soft_engineering/n8n/260124_Automatizando_Processos...N8N_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/blob/main/dio/n8n/boot_040/02-auto_processos/README.md#item2.3">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
                         <li><strong>Carga Horária:</strong> 1 hora</li>
