@@ -251,7 +251,7 @@
             <ul>
                 <li><details><summary>Bootcamp Santander 2025 - Automação com N8N</summary>
                     <ul>
-                        <li><a href="./soft_engineering/n8n/">Certificado (PDF)</a></li>
+                        <li><a href="./soft_engineering/n8n/260125_Cert_Boot_Santander...Automacao...N8N_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/n8n/boot_040">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> DIO</li>
                         <li><strong>Carga Horária:</strong> 26 Horas</li>

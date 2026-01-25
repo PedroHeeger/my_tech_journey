@@ -2373,7 +2373,7 @@
                 </details></li>
                 <li><details><summary>Manipulação de Dados e Variáveis no N8N</summary>
                     <ul>
-                        <li><a href="./soft_engineering/n8n/">Certificado (PDF)</a></li>
+                        <li><a href="./soft_engineering/n8n/260125...Dados...Variaveis...N8N_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/blob/main/dio/n8n/boot_040/03-integracao/README.md#item3.1">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
                         <li><strong>Carga Horária:</strong> 1 hora</li>
@@ -2382,7 +2382,7 @@
                 </details></li>
                 <li><details><summary>Uso de Webhooks e APIs no N8N</summary>
                     <ul>
-                        <li><a href="./soft_engineering/n8n/">Certificado (PDF)</a></li>
+                        <li><a href="./soft_engineering/n8n/260125...Webhooks...APIs...N8N_PH_DIO.pdf">Certificado (PDF)</a></li>
                         <li><a href="https://github.com/PedroHeeger/boot/blob/main/dio/n8n/boot_040/03-integracao/README.md#item3.2">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
                         <li><strong>Carga Horária:</strong> 1 hora</li>
