@@ -45,7 +45,7 @@
         </details></li>
         <li><details><summary>Formação Cybersec Módulo 3 – Ethical Hacking</summary>
             <ul>
-                <li><a href="./cybersecurity/mod/251118_Cert_Mod3_Formacao_Cybersec_PH_VNW.pdf">Certificado (PDF)</a></li>
+                <li><a href="./cybersecurity/mod/260119_Cert_Mod3_Formacao_Cybersec_PH_VNW.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/vnw/cybersecurity/boot_035/03-ethical_hacking">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> Vai na Web</li>
                 <li><strong>Carga Horária:</strong> 46,5 horas</li>
@@ -73,11 +73,14 @@
     <ul>
         <li><details><summary>CCNA Módulo 1: Introduction to Networks (Certificado PDF)</summary>
             <ul>
-                <li><a href="./network/251218_ccna-mod1.pdf">Certificado (PDF)</a></li>
+                <li><a href="./network/251218_ccna-mod1_PH_CNA.pdf">Certificado (PDF) - Cisco</a></li>
+                <li><a href="./network/251230_ccna-mod1_PH_SNA.pdf">Certificado (PDF) - SENAI</a></li>
                 <li><a href="https://github.com/PedroHeeger/cisco/tree/main/instructor_led/ild_001">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> Cisco Networking Academy (CNA)</li>
+                <li><strong>Plataforma:</strong> SENAI-SC</li>
                 <li><strong>Carga Horária:</strong> 70 horas</li>
                 <li><strong>Concluído em:</strong> 18/12/2025</li>
+                <li><strong>Período:</strong> 31/10/2025 à 22/12/2025</li>
             </ul>
         </details></li>
     </ul>
