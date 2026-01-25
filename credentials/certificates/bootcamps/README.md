@@ -245,15 +245,19 @@
     </ul>
 </details>
 
-<details><summary><b>🌐 Software Engineering</b></summary>
+<details><summary><b>⚙️ Software Engineering</b></summary>
     <ul>
-        <li><details><summary>Bootcamp Santander 2025 - Automação com N8N</summary>
+        <li><details><summary>N8N <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/software/n8n.png" alt="n8n" style="height:25px; width:auto;"></summary>
             <ul>
-                <li><a href="./soft_engineering/">Certificado (PDF)</a></li>
-                <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/n8n/boot_040">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
-                <li><strong>Carga Horária:</strong> 26 Horas</li>
-                <li><strong>Concluído em:</strong> 25/01/2026</li>
+                <li><details><summary>Bootcamp Santander 2025 - Automação com N8N</summary>
+                    <ul>
+                        <li><a href="./soft_engineering/n8n/">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/n8n/boot_040">Pasta do Projeto</a></li>
+                        <li><strong>Plataforma:</strong> DIO</li>
+                        <li><strong>Carga Horária:</strong> 26 Horas</li>
+                        <li><strong>Concluído em:</strong> 25/01/2026</li>
+                    </ul>
+                </details></li>
             </ul>
         </details></li>
     </ul>
