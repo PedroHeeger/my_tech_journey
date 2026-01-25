@@ -8,7 +8,7 @@
             <ul>
                 <li><a href="./ai/240807_Algoritmos...Aprendizado...Maquina_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_023/01-fundamentos_ml_ia_gen#item1.2">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                 <li><strong>Concluído em:</strong> 07/08/2024</li>
             </ul>
@@ -17,7 +17,7 @@
             <ul>
                 <li><a href="./ai/240807_Processamento...Linguagem_Natural_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_023/01-fundamentos_ml_ia_gen#item1.3">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                 <li><strong>Concluído em:</strong> 07/08/2024</li>
             </ul>
@@ -26,7 +26,7 @@
             <ul>
                 <li><a href="./ai/240807...IAs_Generativas_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_023/01-fundamentos_ml_ia_gen#item1.4">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                 <li><strong>Concluído em:</strong> 07/08/2024</li>
             </ul>
@@ -35,7 +35,7 @@
             <ul>
                 <li><a href="./ai/240809_Introducao...SageMaker_Canvas...PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_023/02-nlp#item2.2">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
                 <li><strong>Carga Horária:</strong> 3 Horas</li>
                 <li><strong>Concluído em:</strong> 09/08/2024</li>
             </ul>
@@ -44,7 +44,7 @@
             <ul>
                 <li><a href="./ai/240809_Transformando...Insights...SageMaker_Cavans_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_023/02-nlp#item2.3">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
                 <li><strong>Carga Horária:</strong> 2 Horas</li>
                 <li><strong>Concluído em:</strong> 09/08/2024</li>
             </ul>
@@ -53,7 +53,7 @@
             <ul>
                 <li><a href="./ai/">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_023/02-nlp#item2.7">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                 <li><strong>Concluído em:</strong> 09/08/2024</li>
             </ul>
@@ -62,7 +62,7 @@
             <ul>
                 <li><a href="./ai/240809_Introducao...IA_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_024#item1.1">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                 <li><strong>Concluído em:</strong> 09/08/2024</li>
             </ul>
@@ -71,7 +71,7 @@
             <ul>
                 <li><a href="./ai/240809_Aplicacoes...IA...Mundo_Atual_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_024#item1.2">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                 <li><strong>Concluído em:</strong> 09/08/2024</li>
             </ul>
@@ -80,7 +80,7 @@
             <ul>
                 <li><a href="./ai/240810_Aplicacoes_Pratica...IA_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_024#item2.1">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
                 <li><strong>Carga Horária:</strong> 2 Horas</li>
                 <li><strong>Concluído em:</strong> 10/08/2024</li>
             </ul>
@@ -89,7 +89,7 @@
             <ul>
                 <li><a href="./ai/240812_DP-Natural...Fake_Natty...IAs_Generativas_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_024#item2.2">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                 <li><strong>Concluído em:</strong> 12/08/2024</li>
             </ul>
@@ -98,7 +98,7 @@
             <ul>
                 <li><a href="./ai/240812_Visao_Computacional_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_024#item3.3">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                 <li><strong>Concluído em:</strong> 12/08/2024</li>
             </ul>
@@ -107,7 +107,7 @@
             <ul>
                 <li><a href="./ai/240906_Ment_Amazon_Bedrock...IA_Generativa_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_028#item2.1">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
                 <li><strong>Carga Horária:</strong> 2 Horas</li>
                 <li><strong>Concluído em:</strong> 06/09/2024</li>
             </ul>
@@ -116,7 +116,7 @@
             <ul>
                 <li><a href="./ai/240908_Ment...IA_Generativa...Claude_3...Amazon_Bedrock_PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_028#item2.2">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
                 <li><strong>Carga Horária:</strong> 2 Horas</li>
                 <li><strong>Concluído em:</strong> 08/09/2024</li>
             </ul>
@@ -125,9 +125,36 @@
             <ul>
                 <li><a href="./ai/240908_Ment_Amazon Q_IA_Generativa...Copiloto...PH_DIO.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_028#item2.3">Pasta do Projeto</a></li>
-                <li><strong>Plataforma:</strong> DIO</li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
                 <li><strong>Carga Horária:</strong> 2 Horas</li>
                 <li><strong>Concluído em:</strong> 08/09/2024</li>
+            </ul>
+        </details></li>
+        <li><details><summary>Mentoria: Prototipando Soluções Reais com PartyRock na AWS</summary>
+            <ul>
+                <li><a href="./ai/251106_Ment...Prototipando...PartyRock...AWS_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="">Pasta do Projeto</a></li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
+                <li><strong>Carga Horária:</strong> 1 Hora</li>
+                <li><strong>Concluído em:</strong> 06/11/2025</li>
+            </ul>
+        </details></li>
+        <li><details><summary>Mentoria: Amazon Bedrock para Escolha e Personalização de Modelos</summary>
+            <ul>
+                <li><a href="./ai/251223_Ment...Amazon_Bedrock...Personalizacao...Modelos_PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="">Pasta do Projeto</a></li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
+                <li><strong>Carga Horária:</strong> 1 Hora</li>
+                <li><strong>Concluído em:</strong> 23/12/2025</li>
+            </ul>
+        </details></li>
+        <li><details><summary>Mentoria: Construindo Agentes Autônomos com Amazon Nova e AgentCore</summary>
+            <ul>
+                <li><a href="./ai/251223_Ment...Agentes_Autonomos...Amazon_Nova...PH_DIO.pdf">Certificado (PDF)</a></li>
+                <li><a href="">Pasta do Projeto</a></li>
+                <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
+                <li><strong>Carga Horária:</strong> 1 Hora</li>
+                <li><strong>Concluído em:</strong> 23/12/2025</li>
             </ul>
         </details></li>
     </ul>
