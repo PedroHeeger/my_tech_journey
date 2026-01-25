@@ -2286,3 +2286,83 @@
     </ul>
 </details>
 
+<details><summary><b>⚙️ Software Engineering</b></summary>
+    <ul>
+        <li><details><summary>N8N <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/software/n8n.png" alt="n8n" style="height:25px; width:auto;"></summary>
+            <ul>
+                <li><details><summary>Primeiros Passos com N8N: Conceitos e Instalação</summary>
+                    <ul>
+                        <li><a href="./soft_engineering/n8n/260121_Primeiros_Passos...N8N...PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/boot/blob/main/dio/n8n/boot_040/01-intro_n8n/README.md#item1.2">Pasta do Projeto</a></li>
+                        <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
+                        <li><strong>Carga Horária:</strong> 1 hora</li>
+                        <li><strong>Concluído em:</strong> 21/01/2026</li>
+                    </ul>
+                </details></li>
+                <li><details><summary>Navegação e Interface do N8N</summary>
+                    <ul>
+                        <li><a href="./soft_engineering/n8n/260123_Navegacao...Interface...N8N_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/boot/blob/main/dio/n8n/boot_040/01-intro_n8n/README.md#item1.3">Pasta do Projeto</a></li>
+                        <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
+                        <li><strong>Carga Horária:</strong> 1 hora</li>
+                        <li><strong>Concluído em:</strong> 23/01/2026</li>
+                    </ul>
+                </details></li>
+                <li><details><summary>Criação de Workflows Simples no N8N</summary>
+                    <ul>
+                        <li><a href="./soft_engineering/n8n/260124_Criacao...Workflows_Simples...N8N_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/boot/blob/main/dio/n8n/boot_040/01-intro_n8n/README.md#item1.4">Pasta do Projeto</a></li>
+                        <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
+                        <li><strong>Carga Horária:</strong> 1 hora</li>
+                        <li><strong>Concluído em:</strong> 24/01/2026</li>
+                    </ul>
+                </details></li>
+                <li><details><summary>Utilizando Nós Padrão do N8N</summary>
+                    <ul>
+                        <li><a href="./soft_engineering/n8n/260124_Utilizando_Nos_Padrao...N8N_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/boot/blob/main/dio/n8n/boot_040/02-auto_processos/README.md#item2.1">Pasta do Projeto</a></li>
+                        <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
+                        <li><strong>Carga Horária:</strong> 1 hora</li>
+                        <li><strong>Concluído em:</strong> 24/01/2026</li>
+                    </ul>
+                </details></li>
+                <li><details><summary>Integração com Serviços Populares no N8N</summary>
+                    <ul>
+                        <li><a href="./soft_engineering/n8n/260124_Integracao...Servicos_Populares...N8N_PH_DIO.pdf">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/boot/blob/main/dio/n8n/boot_040/02-auto_processos/README.md#item2.2">Pasta do Projeto</a></li>
+                        <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
+                        <li><strong>Carga Horária:</strong> 1 hora</li>
+                        <li><strong>Concluído em:</strong> 24/01/2026</li>
+                    </ul>
+                </details></li>
+                <li><details><summary>Automatizando Processos com N8N</summary>
+                    <ul>
+                        <li><a href="./soft_engineering/n8n/">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/boot/blob/main/dio/n8n/boot_040/02-auto_processos/README.md#item2.3">Pasta do Projeto</a></li>
+                        <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
+                        <li><strong>Carga Horária:</strong> 1 hora</li>
+                        <li><strong>Concluído em:</strong> 24/01/2026</li>
+                    </ul>
+                </details></li>
+                <li><details><summary>Manipulação de Dados e Variáveis no N8N</summary>
+                    <ul>
+                        <li><a href="./soft_engineering/n8n/">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/boot/blob/main/dio/n8n/boot_040/03-integracao/README.md#item3.1">Pasta do Projeto</a></li>
+                        <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
+                        <li><strong>Carga Horária:</strong> 1 hora</li>
+                        <li><strong>Concluído em:</strong> 25/01/2026</li>
+                    </ul>
+                </details></li>
+                <li><details><summary>Uso de Webhooks e APIs no N8N</summary>
+                    <ul>
+                        <li><a href="./soft_engineering/n8n/">Certificado (PDF)</a></li>
+                        <li><a href="https://github.com/PedroHeeger/boot/blob/main/dio/n8n/boot_040/03-integracao/README.md#item3.2">Pasta do Projeto</a></li>
+                        <li><strong>Plataforma:</strong> Digital Innovation One (DIO)</li>
+                        <li><strong>Carga Horária:</strong> 1 hora</li>
+                        <li><strong>Concluído em:</strong> 25/01/2026</li>
+                    </ul>
+                </details></li>
+            </ul>
+        </details></li>
+    </ul>
+</details>
