@@ -2,6 +2,20 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Admission%20Tickets.png" alt="Events" width="45px"> Certificados de Eventos
 [Retornar para a pasta Certificados](../)
 
+<details><summary><b>🕵️‍♂️ Cybersecurity</b></summary>
+    <ul>
+        <li><details><summary>Masterclasses de Cibersegurança Estratégica,</summary>
+            <ul>
+                <li><a href="./cybersecurity/251202_Cert_Ciberseguranca_Estrategica_PH_VNW.pdf">Certificado (PDF)</a></li>
+                <li><strong>Pasta do Projeto:</strong> Não disponível</li>
+                <li><strong>Plataforma:</strong> Vai na Web (VNW)</li>
+                <li><strong>Carga Horária:</strong> 8 horas</li>
+                <li><strong>Concluído em:</strong> 11/11/2025</li>
+            </ul>
+        </details></li>
+    </ul>
+</details>
+
 <details><summary><b>🟩 Data - Excel</b></summary>
     <ul>
         <li><details><summary>Simplifica Excel Express</summary>
