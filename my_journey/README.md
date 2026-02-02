@@ -1,5 +1,5 @@
-<!-- # Sobre Mim -->
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="About Me" width="45px"> Sobre Mim
+<!-- # Minha Jornada -->
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="My Journey" width="45px"> Minha Jornada
 [Retornar para a pasta raiz](../)
 
 <a name="item0"><h1>Sumário</h1></a>

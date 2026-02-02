@@ -43,9 +43,9 @@
       </a>
     </td>
     <td align="center" style="border: none;">
-      <a href="./about_me/">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="About Me" width="120px">
-        <br><span style="font-size: 1.2em;">Sobre Mim<br></span>
+      <a href="https://github.com/PedroHeeger/my_tech_journey/tree/main/my_journey">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="My Journey" width="120px">
+        <br><span style="font-size: 1.2em;">Minha Jornada<br></span>
       </a>
     </td>
     <td align="center" style="border: none;">
