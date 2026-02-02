@@ -8,6 +8,7 @@
         <a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_024"><img src="./ai/logo_boot_024.png" alt="logo_boot_024" style="height:150px; width:auto;"></a>
         <a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_028"><img src="./ai/logo_boot_028.png" alt="logo_boot_028" style="height:150px; width:auto;"></a>
         <a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_029"><img src="./ai/logo_boot_029.png" alt="logo_boot_029" style="height:150px; width:auto;"></a>
+        <a href="https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_037"><img src="./ai/logo_boot_037.png" alt="logo_boot_037" style="height:150px; width:auto;"></a>
     </div>
 </details>
 
@@ -67,5 +68,11 @@
 <details><summary><b>👨‍💻 Programming - Java</b></summary>
     <div>
         <a href="https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010"><img src="./programming/java/logo_boot_010.png" alt="logo_boot_010" style="height:150px; width:auto;"></a>
+    </div>
+</details>
+
+<details><summary><b>⚙️ Software Engineering - N8N</b></summary>
+    <div>
+        <a href="https://github.com/PedroHeeger/boot/blob/main/dio/n8n/boot_040"><img src="./soft_engineering/n8n/logo_boot_040.png" alt="logo_boot_040" style="height:150px; width:auto;"></a>
     </div>
 </details>
