@@ -49,6 +49,12 @@
       </a>
     </td>
     <td align="center" style="border: none;">
+      <a href="./all_badges/">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel and places/Star.png" alt="All Badges" width="120px">
+        <br><span style="font-size: 1.2em;">Badges Completas<br></span>
+      </a>
+    </td>
+    <td align="center" style="border: none;">
       <a href="./online_cv/">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Online CV" width="120px">
         <br><span style="font-size: 1.2em;">CV Online<br></span>

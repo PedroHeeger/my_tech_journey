@@ -4,11 +4,11 @@
 
 Nesta pasta são exibidas todas as badges conquistadas ao longo das atividades realizadas, incluindo cursos, bootcamps, programas e eventos, sem separação por categoria.
 
-<img src="../credentials/badges/certifications/cloud_aws/250618_aws_dva-c02.png" alt="aws_clf-c02" style="height:180px; width:auto;">
-<img src="../credentials/badges/certifications/cloud_aws/250203_aws_saa-c03.png" alt="aws_saa-c03" style="height:180px; width:auto;">
-<img src="../credentials/badges/certifications/cloud_aws/240722_aws_clf-c02.png" alt="aws_dva-c02" style="height:180px; width:auto;">
-<img src="../credentials/badges/programs/cloud_aws/240730_aws_re-start.png" alt="aws_re-start" style="height:180px; width:auto;">
-<img src="../credentials/badges/live_courses/network/251218_ccna-mod1.png" alt="ccna-m1" style="height:180px; width:auto;">
+<a href="../credentials/badges/certifications/cloud_aws/250618_aws_dva-c02.png"><img src="../credentials/badges/certifications/cloud_aws/250618_aws_dva-c02.png" alt="aws_dva-c02" style="height:180px; width:auto;"></a>
+<a href="../credentials/badges/certifications/cloud_aws/250203_aws_saa-c03.png"><img src="../credentials/badges/certifications/cloud_aws/250203_aws_saa-c03.png" alt="aws_saa-c03" style="height:180px; width:auto;"></a>
+<a href="../credentials/badges/certifications/cloud_aws/240722_aws_clf-c02.png"><img src="../credentials/badges/certifications/cloud_aws/240722_aws_clf-c02.png" alt="aws_clf-c02" style="height:180px; width:auto;"></a>
+<a href="https://github.com/PedroHeeger/boot/tree/main/edn/aws/boot_022"><img src="../credentials/badges/programs/cloud_aws/240730_aws_re-start.png" alt="aws_re-start" style="height:180px; width:auto;"></a>
+<a href="https://github.com/PedroHeeger/cisco/tree/main/instructor_led/ild_001/"><img src="../credentials/badges/live_courses/network/251218_ccna-mod1.png" alt="ccna-m1" style="height:180px; width:auto;"></a>
 
 <a href="https://github.com/PedroHeeger/aws_skb/tree/main/aws_educate/curso_educ_001"><img src="../credentials/badges/online_courses/cloud_aws/250417_aws_educate_001.png" alt="aws_educate_001" style="height:180px; width:auto;"></a>
 <a href="https://github.com/PedroHeeger/aws_skb/tree/main/aws_partner/curso_apn_001"><img src="../credentials/badges/online_courses/cloud_aws/250505_aws_apn_001.png" alt="aws_apn_001" style="height:180px; width:auto;"></a>
@@ -45,11 +45,9 @@ Nesta pasta são exibidas todas as badges conquistadas ao longo das atividades r
 <a href="https://github.com/PedroHeeger/boot/tree/main/dio/cyber/boot_039"><img src="../credentials/badges/bootcamps/cybersecurity/logo_boot_039.png" alt="logo_boot_039" style="height:150px; width:auto;"></a>
 <a href="https://github.com/PedroHeeger/boot/blob/main/dio/n8n/boot_040"><img src="../credentials/badges/bootcamps/soft_engineering/n8n/logo_boot_040.png" alt="logo_boot_040" style="height:150px; width:auto;"></a>
 
-
-
-<img src="../credentials/badges/events/devops/220803_Docker_PH_Iniciativa_Devops.png" alt="iniciativa_devops-docker" style="height:180px; width:auto;">
-<img src="../credentials/badges/events/devops/220805_Kubernetes_PH_Iniciativa_Devops.png" alt="iniciativa_devops-kubernetes" style="height:180px; width:auto;">
-<img src="../credentials/badges/events/devops/220806_GitHub_Actions_PH_Iniciativa_Devops.png" alt="iniciativa_devops-terrafom" style="height:180px; width:auto;">
-<img src="../credentials/badges/events/devops/220806_Terraform_PH_Iniciativa_Devops.png" alt="iniciativa_devops-github_actions" style="height:180px; width:auto;">
-<img src="../credentials/badges/events/devops/220807_Prometheus...Grafana_PH_Iniciativa_Devops.png" alt="iniciativa_devops-prometheus_grafana" style="height:180px; width:auto;">
-<img src="../credentials/badges/events/network/250926_Networking_Academy_PH_CNA.png" alt="cna_participant" style="height:180px; width:auto;">
+<a href="../credentials/badges/events/devops/220803_Docker_PH_Iniciativa_Devops.png"><img src="../credentials/badges/events/devops/220803_Docker_PH_Iniciativa_Devops.png" alt="iniciativa_devops-docker" style="height:180px; width:auto;"></a>
+<a href="../credentials/badges/events/devops/220805_Kubernetes_PH_Iniciativa_Devops.png"><img src="../credentials/badges/events/devops/220805_Kubernetes_PH_Iniciativa_Devops.png" alt="iniciativa_devops-kubernetes" style="height:180px; width:auto;"></a>
+<a href="../credentials/badges/events/devops/220806_GitHub_Actions_PH_Iniciativa_Devops.png"><img src="../credentials/badges/events/devops/220806_GitHub_Actions_PH_Iniciativa_Devops.png" alt="iniciativa_devops-github_actions" style="height:180px; width:auto;"></a>
+<a href="../credentials/badges/events/devops/220806_Terraform_PH_Iniciativa_Devops.png"><img src="../credentials/badges/events/devops/220806_Terraform_PH_Iniciativa_Devops.png" alt="iniciativa_devops-terrafom" style="height:180px; width:auto;"></a>
+<a href="../credentials/badges/events/devops/220807_Prometheus...Grafana_PH_Iniciativa_Devops.png"><img src="../credentials/badges/events/devops/220807_Prometheus...Grafana_PH_Iniciativa_Devops.png" alt="iniciativa_devops-prometheus_grafana" style="height:180px; width:auto;"></a>
+<a href="../credentials/badges/events/network/250926_Networking_Academy_PH_CNA.png"><img src="../credentials/badges/events/network/250926_Networking_Academy_PH_CNA.png" alt="cna_participant" style="height:180px; width:auto;"></a>

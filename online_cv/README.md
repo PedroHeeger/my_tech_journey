@@ -2,7 +2,12 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Online CV" width="45px"> CV Online
 [Retornar para a pasta raiz](../)
 
-Meu currículo online atual está disponível no repositório Main, que foi meu repositório principal até ser atualizado para este, My Tech Journey, no início de julho de 2025.
+🚧 **Em manutenção**
+
+Este currículo online está temporariamente desativado, pois será revisado e atualizado futuramente.  
+No momento, ele não está sendo considerado como versão oficial.
+
+<!-- Meu currículo online atual está disponível no repositório Main, que foi meu repositório principal até ser atualizado para este, My Tech Journey, no início de julho de 2025.
 
 Em breve, um novo modelo de currículo online será desenvolvido e publicado via GitHub Pages neste repositório, junto com um site de portfólio que reunirá as informações aqui contidas, além de conteúdos adicionais que não puderam ser incluídos neste repositório.
 
@@ -17,4 +22,4 @@ Enquanto essa atualização não estiver concluída, o currículo online continu
       </a>
     </td>
   </tr>
-</table>
+</table> -->
