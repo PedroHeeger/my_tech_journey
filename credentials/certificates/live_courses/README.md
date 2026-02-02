@@ -48,8 +48,17 @@
                 <li><a href="./cybersecurity/mod/260119_Cert_Mod3_Formacao_Cybersec_PH_VNW.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/boot/tree/main/vnw/cybersecurity/boot_035/03-ethical_hacking">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> Vai na Web</li>
-                <li><strong>Carga Horária:</strong> 46,5 horas</li>
-                <li><strong>Concluído em:</strong> 22/12/2025</li>
+                <li><strong>Carga Horária:</strong> 55 horas</li>
+                <li><strong>Concluído em:</strong> 19/01/2026</li>
+            </ul>
+        </details></li>
+        <li><details><summary>Formação Cybersec</summary>
+            <ul>
+                <li><a href="./cybersecurity/260126_Cert_Formacao_Cybersec_PH_VNW.pdf">Certificado (PDF)</a></li>
+                <li><a href="https://github.com/PedroHeeger/boot/tree/main/vnw/cybersecurity/boot_035">Pasta do Projeto</a></li>
+                <li><strong>Plataforma:</strong> Vai na Web</li>
+                <li><strong>Carga Horária:</strong> 150 horas</li>
+                <li><strong>Concluído em:</strong> 26/01/2026</li>
             </ul>
         </details></li>
     </ul>
