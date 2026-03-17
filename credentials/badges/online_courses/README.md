@@ -14,8 +14,6 @@
 <details><summary><b>🕵️‍♂️ Cybersecurity</b></summary>
     <div>
         <a href="https://www.credly.com/badges/1210f13a-8b8b-41f6-826e-a7434d02922f"><img src="./cybersecurity/250922_sfp_001_PH_CNA.png" alt="cna_sfp_001" style="height:180px; width:auto;"></a>
-    </div>
-    <div>
         <a href="https://www.credly.com/badges/eb28fd4c-9e6b-4919-86d0-819d568ec5e2"><img src="./cybersecurity/260313_sfp_004_PH_CNA.png" alt="cna_sfp_004" style="height:180px; width:auto;"></a>
     </div>
 </details>
