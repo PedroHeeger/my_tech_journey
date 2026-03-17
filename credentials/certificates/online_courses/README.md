@@ -1027,6 +1027,16 @@
                 <li><strong>Concluído em:</strong> 09/11/2025</li>
             </ul>
         </details></li>
+        <li><details><summary>Introdução à Cibersegurança</summary>
+            <ul>
+                <li><a href="./cybersecurity/260313_Introduction_to_Cybersecurity_PH_CNA.pdf">Certificado (PDF)</a></li>
+                <li><a href="https://github.com/PedroHeeger/cisco/tree/main/self_paced/sfp_004/">Pasta do Projeto</a></li>
+                <li><strong>Plataforma:</strong> Cisco Networking Academy (CNA)</li>
+                <li><strong>Plataforma:</strong> SENAI-SC</li>
+                <li><strong>Carga Horária:</strong> 6 horas</li>
+                <li><strong>Concluído em:</strong> 13/03/2026</li>
+            </ul>
+        </details></li>
     </ul>
 </details>
 
@@ -1544,7 +1554,7 @@
         </details></li>
         <li><details><summary>Network Technician</summary>
             <ul>
-                <li><a href="./network/cisco/250930_Network_Technician...PH_CNA.pdf">Certificado (PDF)</a></li>
+                <li><a href="./network/250930_Network_Technician...PH_CNA.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/cisco/tree/main/self_paced/sfp_002">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> Cisco Networking Academy (CNA)</li>
                 <li><strong>Carga Horária:</strong> - horas</li>
