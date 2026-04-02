@@ -4,6 +4,15 @@
 
 <details><summary>Cloud - AWS</summary>
     <ul>
+        <li><details><summary>AWS Certified CloudOps Engineer - Associate</summary>
+            <ul>
+                <li><a href="./cloud/aws/260401_aws_soa-c03.pdf">Certificado (PDF)</a></li>
+                <li><a href="../badges/certifications/cloud_aws/260401_aws_soa-c03.png">Badge</a></li>
+                <li><strong>Plataforma:</strong> AWS</li>
+                <li><strong>Concluído em:</strong> 01/04/2026</li>
+                <li><strong>Válido até:</strong> 01/04/2029</li>
+            </ul>
+        </details></li>
         <li><details><summary>AWS Certified Developer - Associate</summary>
             <ul>
                 <li><a href="./cloud/aws/250618_aws_dva-c02.pdf">Certificado (PDF)</a></li>
