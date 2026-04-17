@@ -61,7 +61,7 @@
                 <li><strong>Concluído em:</strong> 26/01/2026</li>
             </ul>
         </details></li>
-        <li><details><summary>CyberOps Associate (Certificado PDF)</summary>
+        <li><details><summary>CyberOps Associate</summary>
             <ul>
                 <li><a href="./cybersecurity/260310_CyberOps_Associate_PH_CNA.pdf">Certificado (PDF) - Cisco</a></li>
                 <li><a href="./cybersecurity/260401_CyberOps_Associate_PH_SNA.pdf">Certificado (PDF) - SENAI</a></li>
@@ -92,7 +92,7 @@
 
 <details><summary><b>📡 Network</b></summary>
     <ul>
-        <li><details><summary>CCNA Módulo 1: Introduction to Networks (Certificado PDF)</summary>
+        <li><details><summary>CCNA Módulo 1: Introduction to Networks</summary>
             <ul>
                 <li><a href="./network/251218_ccna-mod1_PH_CNA.pdf">Certificado (PDF) - Cisco</a></li>
                 <li><a href="./network/251230_ccna-mod1_PH_SNA.pdf">Certificado (PDF) - SENAI</a></li>
