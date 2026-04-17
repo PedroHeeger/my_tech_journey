@@ -64,7 +64,7 @@
         <li><details><summary>CyberOps Associate (Certificado PDF)</summary>
             <ul>
                 <li><a href="./cybersecurity/260310_CyberOps_Associate_PH_CNA.pdf">Certificado (PDF) - Cisco</a></li>
-                <li><a href="./cybersecurity/260310_CyberOps_Associate_PH_SNA.pdf">Certificado (PDF) - SENAI</a></li>
+                <li><a href="./cybersecurity/260401_CyberOps_Associate_PH_SNA.pdf">Certificado (PDF) - SENAI</a></li>
                 <li><a href="https://github.com/PedroHeeger/cisco/tree/main/instructor_led/ild_002">Pasta do Projeto</a></li>
                 <li><strong>Plataforma:</strong> Cisco Networking Academy (CNA)</li>
                 <li><strong>Plataforma:</strong> SENAI-SC</li>
