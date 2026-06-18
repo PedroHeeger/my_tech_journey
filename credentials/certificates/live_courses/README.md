@@ -104,5 +104,16 @@
                 <li><strong>Período:</strong> 31/10/2025 à 22/12/2025</li>
             </ul>
         </details></li>
+        <li><details><summary>Networking Essentials</summary>
+            <ul>
+                <li><a href="./network/260615_networking_essentials_PH_CNA.pdf">Certificado (PDF) - Cisco</a></li>
+                <li><a href="https://github.com/PedroHeeger/cisco/tree/main/instructor_led/ild_003">Pasta do Projeto</a></li>
+                <li><strong>Plataforma:</strong> Cisco Networking Academy (CNA)</li>
+                <li><strong>Plataforma:</strong> SENAC-SC</li>
+                <li><strong>Carga Horária:</strong> 70 horas</li>
+                <li><strong>Concluído em:</strong> 15/06/2026</li>
+                <li><strong>Período:</strong> 23/04/2026 à 15/06/2026</li>
+            </ul>
+        </details></li>
     </ul>
 </details>
