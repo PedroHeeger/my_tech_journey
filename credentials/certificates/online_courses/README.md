@@ -894,6 +894,60 @@
                         <li><strong>Concluído em:</strong> 24/09/2025</li>
                     </ul>
                 </details></li>
+                <li><details><summary>AWS AI Practitioner - Semana 1</summary>
+                    <ul>
+                        <li><a href="./cloud/aws/mod/260416_AWS_AIF_Semana1_PH_TBR.pdf">Certificado (PDF)</a></li>
+                        <!-- <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/03-aws_foundation#item3.1">Pasta do Projeto</a></li> -->
+                        <li><strong>Plataforma:</strong> AWS-Treina Brasil</li>
+                        <li><strong>Carga Horária:</strong> 4 Horas</li>
+                        <li><strong>Concluído em:</strong> 16/04/2026</li>
+                    </ul>
+                </details></li>
+                <li><details><summary>AWS AI Practitioner - Semana 2</summary>
+                    <ul>
+                        <li><a href="./cloud/aws/mod/260416_AWS_AIF_Semana2_PH_TBR.pdf">Certificado (PDF)</a></li>
+                        <!-- <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/03-aws_foundation#item3.1">Pasta do Projeto</a></li> -->
+                        <li><strong>Plataforma:</strong> AWS-Treina Brasil</li>
+                        <li><strong>Carga Horária:</strong> 5 Horas</li>
+                        <li><strong>Concluído em:</strong> 16/04/2026</li>
+                    </ul>
+                </details></li>
+                <li><details><summary>AWS AI Practitioner - Semana 3</summary>
+                    <ul>
+                        <li><a href="./cloud/aws/mod/260416_AWS_AIF_Semana3_PH_TBR.pdf">Certificado (PDF)</a></li>
+                        <!-- <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/03-aws_foundation#item3.1">Pasta do Projeto</a></li> -->
+                        <li><strong>Plataforma:</strong> AWS-Treina Brasil</li>
+                        <li><strong>Carga Horária:</strong> 2 Horas</li>
+                        <li><strong>Concluído em:</strong> 16/04/2026</li>
+                    </ul>
+                </details></li>
+                <li><details><summary>AWS Cloud Practitioner</summary>
+                    <ul>
+                        <li><a href="./cloud/aws/260427_AWS_CLF_PH_TBR.pdf">Certificado (PDF)</a></li>
+                        <!-- <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/03-aws_foundation#item3.1">Pasta do Projeto</a></li> -->
+                        <li><strong>Plataforma:</strong> AWS-Treina Brasil</li>
+                        <li><strong>Carga Horária:</strong> 12 Horas</li>
+                        <li><strong>Concluído em:</strong> 27/04/2026</li>
+                    </ul>
+                </details></li>
+            </ul>
+        </details></li>
+        <li><details><summary>Fundamentos de Nuvem</summary>
+            <ul>
+                <li><a href="./cloud/260414_Fund...Nuvem_PH_TBR.pdf">Certificado (PDF)</a></li>
+                <!-- <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/03-aws_foundation#item3.1">Pasta do Projeto</a></li> -->
+                <li><strong>Plataforma:</strong> AWS-Treina Brasil</li>
+                <li><strong>Carga Horária:</strong> 3 Horas</li>
+                <li><strong>Concluído em:</strong> 14/04/2026</li>
+            </ul>
+        </details></li>
+        <li><details><summary>Gen AI Fundamentos</summary>
+            <ul>
+                <li><a href="./cloud/260415_GenAI_Fundamentos_PH_TBR.pdf">Certificado (PDF)</a></li>
+                <!-- <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/03-aws_foundation#item3.1">Pasta do Projeto</a></li> -->
+                <li><strong>Plataforma:</strong> AWS-Treina Brasil</li>
+                <li><strong>Carga Horária:</strong> 4 Horas</li>
+                <li><strong>Concluído em:</strong> 15/04/2026</li>
             </ul>
         </details></li>
     </ul>
