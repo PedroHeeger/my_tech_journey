@@ -8,6 +8,9 @@
         <a href="https://www.credly.com/badges/9d6fd8e2-9d1b-4db5-b600-c37bceb8867d/"><img src="./cloud_aws/250505_aws_apn_001.png" alt="aws_apn_001" style="height:180px; width:auto;"></a>
         <a href="https://www.credly.com/badges/f1721e35-aafe-4f44-b05a-e4017c4a366e/"><img src="./cloud_aws/250529_aws_apn_002.png" alt="aws_apn_002" style="height:180px; width:auto;"></a>
         <a href="https://www.credly.com/badges/57a00161-b64a-4995-9e13-beaeeb82161e"><img src="./cloud_aws/250924_aws_apn_008.png" alt="aws_apn_008" style="height:180px; width:auto;"></a>
+        <img src="./cloud_aws/260414_Fund...Nuvem_PH_TBR.svg" alt="aws_tbr_001" style="height:180px; width:auto;"></a>
+        <img src="./cloud_aws/260415_GenAI_Fundamentos_PH_TBR.svg" alt="aws_tbr_002" style="height:180px; width:auto;"></a>
+        <img src="./cloud_aws/260415_GenAI_Practitioner_PH_TBR.svg" alt="aws_tbr_003" style="height:180px; width:auto;"></a>
     </div>
 </details>
 
