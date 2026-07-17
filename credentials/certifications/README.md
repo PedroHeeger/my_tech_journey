@@ -31,6 +31,15 @@
                 <li><strong>Válido até:</strong> 03/02/2028</li>
             </ul>
         </details></li>
+        <li><details><summary>AWS Certified AI Practitioner</summary>
+            <ul>
+                <li><a href="./cloud/aws/260716_aws_aif-c01.pdf">Certificado (PDF)</a></li>
+                <li><a href="../badges/certifications/cloud_aws/260716_aws_aif-c01.png">Badge</a></li>
+                <li><strong>Plataforma:</strong> AWS</li>
+                <li><strong>Concluído em:</strong> 16/07/2026</li>
+                <li><strong>Válido até:</strong> 16/07/2029</li>
+            </ul>
+        </details></li>
         <li><details><summary>AWS Certified Cloud Practitioner</summary>
             <ul>
                 <li><a href="./cloud/aws/240722_aws_clf-c02.pdf">Certificado (PDF)</a></li>
