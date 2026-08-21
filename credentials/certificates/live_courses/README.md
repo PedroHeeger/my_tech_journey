@@ -73,6 +73,17 @@
                 <li><strong>Período:</strong> 10/01/2026 à 10/03/2026</li>
             </ul>
         </details></li>
+        <li><details><summary>Cybersecurity Essentials</summary>
+            <ul>
+                <li><a href="./cybersecurity/260815_Cybersecurity_Essentials_PH_CNA.pdf">Certificado (PDF) - Cisco</a></li>
+                <li><a href="https://github.com/PedroHeeger/cisco/tree/main/instructor_led/ild_004">Pasta do Projeto</a></li>
+                <li><strong>Plataforma:</strong> Cisco Networking Academy (CNA)</li>
+                <li><strong>Plataforma:</strong> SENAC-SC</li>
+                <li><strong>Carga Horária:</strong> 70 horas</li>
+                <li><strong>Concluído em:</strong> 15/08/2026</li>
+                <li><strong>Período:</strong> 15/06/2026 à 15/08/2026</li>
+            </ul>
+        </details></li>
     </ul>
 </details>
 
