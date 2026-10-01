@@ -528,7 +528,7 @@
                                 <li><strong>Concluído em:</strong> 01/09/2026</li>
                             </ul>
                         </details></li>
-                        <li><details><summary>AWS for Media & Entertainment Content Production Concepts and Roles</summary>
+                        <li><details><summary>AWS for Media & Entertainment Post-Production Workflow Essentials</summary>
                             <ul>
                                 <li><a href="./cloud/aws/skb/dc/260902_dc_018_en.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/curso_dc_018">Pasta do Projeto</a></li>
@@ -1273,6 +1273,16 @@
                 <li><strong>Plataforma:</strong> SENAI-SC</li>
                 <li><strong>Carga Horária:</strong> 6 horas</li>
                 <li><strong>Concluído em:</strong> 13/03/2026</li>
+            </ul>
+        </details></li>
+        <li><details><summary>Digital Safety and Security Awareness</summary>
+            <ul>
+                <li><a href="./cybersecurity/261001_Digital..Security_Awareness_PH_CNA.pdf">Certificado (PDF)</a></li>
+                <li><a href="https://github.com/PedroHeeger/cisco/tree/main/self_paced/sfp_006/">Pasta do Projeto</a></li>
+                <li><strong>Plataforma:</strong> Cisco Networking Academy (CNA)</li>
+                <li><strong>Plataforma:</strong> SENAI-SC</li>
+                <li><strong>Carga Horária:</strong> 6 horas</li>
+                <li><strong>Concluído em:</strong> 01/10/2026</li>
             </ul>
         </details></li>
     </ul>
