@@ -386,7 +386,7 @@
                         <li><details><summary>Cloud Essentials - Knowledge Badge Readiness Path (includes Labs)</summary>
                             <ul>
                                 <li><a href="./cloud/aws/skb/lp/261007_lp_001.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/learning_plan/lp_001">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/learning_plan/files/lp_001">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 22 Horas</li>
                                 <li><strong>Concluído em:</strong> 07/10/2026</li>
@@ -396,7 +396,7 @@
                             <ul>
                                 <li><a href="./cloud/aws/skb/lp/261011_lp_002.1.pdf">Certificado (PDF) - Conteúdo</a></li>
                                 <li><a href="./cloud/aws/skb/lp/261011_lp_002.2.pdf">Certificado (PDF) - Exame</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/learning_plan/lp_002">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/learning_plan/files/lp_002">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 3 Horas</li>
                                 <li><strong>Concluído em:</strong> 11/10/2026</li>
@@ -410,7 +410,7 @@
                             <ul>
                                 <li><a href="./cloud/aws/skb/dc/231206_dc_002_en.pdf">Certificado (PDF)</a></li>
                                 <li><a href="./cloud/aws/skb/dc/231206_dc_002_br.pdf">Certificado Português (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/dc_002">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/files/dc_002">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 06/12/2023</li>
@@ -420,7 +420,7 @@
                             <ul>
                                 <li><a href="./cloud/aws/skb/dc/260727_dc_003_en.pdf">Certificado (PDF)</a></li>
                                 <li><a href="./cloud/aws/skb/dc/260727_dc_003_br.pdf">Certificado Português (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/dc_003">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/files/dc_003">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 27/07/2026</li>
@@ -430,7 +430,7 @@
                             <ul>
                                 <li><a href="./cloud/aws/skb/dc/231211_dc_004_en.pdf">Certificado (PDF)</a></li>
                                 <li><a href="./cloud/aws/skb/dc/231211_dc_004_br.pdf">Certificado Português (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/dc_004">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/files/dc_004">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 11/12/2023</li>
@@ -440,7 +440,7 @@
                             <ul>
                                 <li><a href="./cloud/aws/skb/dc/240911_dc_005_en.pdf">Certificado (PDF)</a></li>
                                 <li><a href="./cloud/aws/skb/dc/240911_dc_005_br.pdf">Certificado Português (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/dc_005">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/files/dc_005">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 11/09/2024</li>
@@ -449,7 +449,7 @@
                         <li><details><summary>AWS Billing and Cost Management</summary>
                             <ul>
                                 <li><a href="./cloud/aws/skb/dc/260727_dc_007_en.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/dc_007">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/files/dc_007">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 27/07/2026</li>
@@ -458,7 +458,7 @@
                         <li><details><summary>Job Roles in the Cloud</summary>
                             <ul>
                                 <li><a href="./cloud/aws/skb/dc/260729_dc_008_en.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/dc_008">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/files/dc_008">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 29/07/2026</li>
@@ -467,7 +467,7 @@
                         <li><details><summary>Configuring and Deploying VPCs with Multiple Subnets</summary>
                             <ul>
                                 <li><a href="./cloud/aws/skb/dc/260817_dc_009_en.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/dc_009">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/files/dc_009">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 17/08/2026</li>
@@ -476,7 +476,7 @@
                         <li><details><summary>Getting Started with Cloud Acquisition</summary>
                             <ul>
                                 <li><a href="./cloud/aws/skb/dc/260818_dc_010_en.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/dc_010">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/files/dc_010">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 18/08/2026</li>
@@ -485,7 +485,7 @@
                         <li><details><summary>AWS IPv6 Fundamentals and VPC Connectivity</summary>
                             <ul>
                                 <li><a href="./cloud/aws/skb/dc/260819_dc_011_en.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/dc_011">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/files/dc_011">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 19/08/2026</li>
@@ -494,7 +494,7 @@
                         <li><details><summary>Getting Started with the AWS Cloud Essentials</summary>
                             <ul>
                                 <li><a href="./cloud/aws/skb/dc/260820_dc_012_en.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/dc_012">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/files/dc_012">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 20/08/2026</li>
@@ -503,7 +503,7 @@
                         <li><details><summary>Introduction to Amazon VPC Lattice</summary>
                             <ul>
                                 <li><a href="./cloud/aws/skb/dc/260820_dc_013_en.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/dc_013">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/files/dc_013">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 20/08/2026</li>
@@ -513,7 +513,7 @@
                             <ul>
                                 <li><a href="./cloud/aws/skb/dc/260822_dc_014_en.pdf">Certificado (PDF)</a></li>
                                 <li><a href="./cloud/aws/skb/dc/260822_dc_014_br.pdf">Certificado Português (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/dc_014">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/files/dc_014">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 22/08/2026</li>
@@ -522,7 +522,7 @@
                         <li><details><summary>Introduction to AWS Cloud WAN</summary>
                             <ul>
                                 <li><a href="./cloud/aws/skb/dc/260823_dc_015_en.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/dc_015">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/files/dc_015">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 23/08/2026</li>
@@ -532,7 +532,7 @@
                             <ul>
                                 <li><a href="./cloud/aws/skb/dc/260901_dc_016_en.pdf">Certificado (PDF)</a></li>
                                 <li><a href="./cloud/aws/skb/dc/260901_dc_016_br.pdf">Certificado Português (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/dc_016">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/files/dc_016">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 01/09/2026</li>
@@ -541,7 +541,7 @@
                         <li><details><summary>AWS for Media & Entertainment Content Production Concepts and Roles</summary>
                             <ul>
                                 <li><a href="./cloud/aws/skb/dc/260901_dc_017_en.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/dc_017">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/files/dc_017">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 01/09/2026</li>
@@ -550,7 +550,7 @@
                         <li><details><summary>AWS for Media & Entertainment Post-Production Workflow Essentials</summary>
                             <ul>
                                 <li><a href="./cloud/aws/skb/dc/260902_dc_018_en.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/dc_018">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/files/dc_018">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 02/09/2026</li>
@@ -560,7 +560,7 @@
                             <ul>
                                 <li><a href="./cloud/aws/skb/dc/260904_dc_019_en.pdf">Certificado (PDF)</a></li>
                                 <li><a href="./cloud/aws/skb/dc/260904_dc_019_br.pdf">Certificado Português (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/dc_019">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/files/dc_019">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 2 Horas</li>
                                 <li><strong>Concluído em:</strong> 04/09/2026</li>
@@ -569,7 +569,7 @@
                         <li><details><summary>Amazon Virtual Private Cloud (Amazon VPC) - Troubleshooting</summary>
                             <ul>
                                 <li><a href="./cloud/aws/skb/dc/260911_dc_020_en.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/dc_020">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/files/dc_020">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 11/09/2026</li>
@@ -578,7 +578,7 @@
                         <li><details><summary>AWS for Media & Entertainment Content Production Workstation Requirements</summary>
                             <ul>
                                 <li><a href="./cloud/aws/skb/dc/260913_dc_021_en.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/dc_021">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/files/dc_021">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 13/09/2026</li>
@@ -587,7 +587,7 @@
                         <li><details><summary>AWS for Media & Entertainment Content Production Storage Essentials</summary>
                             <ul>
                                 <li><a href="./cloud/aws/skb/dc/260929_dc_022_en.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/dc_022">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/files/dc_022">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 29/09/2026</li>
@@ -596,7 +596,7 @@
                         <li><details><summary>AWS for Media & Entertainment Content Production Workstation Design</summary>
                             <ul>
                                 <li><a href="./cloud/aws/skb/dc/261008_dc_023_en.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/dc_023">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/files/dc_023">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 08/10/2026</li>
@@ -605,7 +605,7 @@
                         <li><details><summary>AWS for Media & Entertainment Content Production Security Essentials</summary>
                             <ul>
                                 <li><a href="./cloud/aws/skb/dc/261009_dc_024_en.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/dc_024">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/files/dc_024">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 09/10/2026</li>
@@ -614,7 +614,7 @@
                         <li><details><summary>Amazon EC2 Basics</summary>
                             <ul>
                                 <li><a href="./cloud/aws/skb/dc/261011_dc_025_en.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/dc_025">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/files/dc_025">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 11/10/2026</li>
@@ -694,7 +694,7 @@
                         <li><details><summary>Lab - Introduction to AWS Identity and Access Management (IAM)</summary>
                             <ul>
                                 <li><a href="./cloud/aws/skb/spl/260822_spl_055_en.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/self_paced_lab/spl_055">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/self_paced_lab/files/spl_055">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 22/08/2026</li>
@@ -703,7 +703,7 @@
                         <li><details><summary>Lab - Introduction to Amazon EC2</summary>
                             <ul>
                                 <li><a href="./cloud/aws/skb/spl/261005_spl_019_en.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/self_paced_lab/spl_019">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/self_paced_lab/files/spl_019">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 05/10/2026</li>
@@ -712,7 +712,7 @@
                         <li><details><summary>Lab - Introduction to Amazon Simple Storage Service (S3)</summary>
                             <ul>
                                 <li><a href="./cloud/aws/skb/spl/261006_spl_056_en.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/self_paced_lab/spl_056">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/self_paced_lab/files/spl_056">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 06/10/2026</li>
@@ -721,7 +721,7 @@
                         <li><details><summary>Lab - Introduction to Amazon Virtual Private Cloud (VPC)</summary>
                             <ul>
                                 <li><a href="./cloud/aws/skb/spl/261006_spl_057_en.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/self_paced_lab/spl_057">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/self_paced_lab/files/spl_057">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 06/10/2026</li>
@@ -730,7 +730,7 @@
                         <li><details><summary>Lab - Introduction to Amazon CloudFront</summary>
                             <ul>
                                 <li><a href="./cloud/aws/skb/spl/261007_spl_058_en.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/self_paced_lab/spl_058">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/self_paced_lab/files/spl_058">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 07/10/2026</li>
@@ -739,7 +739,7 @@
                         <!-- <li><details><summary>Job Roles in the Cloud</summary>
                             <ul>
                                 <li><a href="./cloud/aws/skb/spl/">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/self_paced_lab/spl_059">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/self_paced_lab/files/spl_059">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 29/07/2026</li>
@@ -748,21 +748,12 @@
                         <li><details><summary>Configuring and Deploying VPCs with Multiple Subnets</summary>
                             <ul>
                                 <li><a href="./cloud/aws/skb/spl/">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/self_paced_lab/spl_060">Pasta do Projeto</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/self_paced_lab/files/spl_060">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
                                 <li><strong>Concluído em:</strong> 17/08/2026</li>
                             </ul>
                         </details></li> -->
-                        <li><details><summary>Getting Started with Cloud Acquisition</summary>
-                            <ul>
-                                <li><a href="./cloud/aws/skb/dc/260818_dc_010_en.pdf">Certificado (PDF)</a></li>
-                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/dc_010">Pasta do Projeto</a></li>
-                                <li><strong>Plataforma:</strong> AWS Skill Builder</li>
-                                <li><strong>Carga Horária:</strong> 1 Hora</li>
-                                <li><strong>Concluído em:</strong> 18/08/2026</li>
-                            </ul>
-                        </details></li>
                 </details></li>
                 <li><details><summary>AWS - DIO <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/plataforma/dio.jpeg" alt="dio" style="height:25px; width:auto;"></summary>
                     <ul>
