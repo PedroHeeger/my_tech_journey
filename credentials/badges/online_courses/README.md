@@ -4,6 +4,8 @@
 
 <details><summary><b>☁️ Cloud - AWS</b></summary>
     <div>
+        <a href="https://www.credly.com/badges/bcf7e233-8ce3-42f2-802d-f22a9d6fc58f/"><img src="./cloud_aws/261007_lp_001.png" alt="lp_001" style="height:180px; width:auto;"></a>
+        <a href="https://www.credly.com/badges/9f8c591e-961f-4620-9691-28fdbbc7efa2/"><img src="./cloud_aws/261011_lp_002.png" alt="lp_002" style="height:180px; width:auto;"></a>
         <a href="https://www.credly.com/badges/2c755109-49e2-48b6-bde6-5b8f5df48616/"><img src="./cloud_aws/250417_aws_educate_001.png" alt="aws_educate_001" style="height:180px; width:auto;"></a>
         <a href="https://www.credly.com/badges/9d6fd8e2-9d1b-4db5-b600-c37bceb8867d/"><img src="./cloud_aws/250505_aws_apn_001.png" alt="aws_apn_001" style="height:180px; width:auto;"></a>
         <a href="https://www.credly.com/badges/f1721e35-aafe-4f44-b05a-e4017c4a366e/"><img src="./cloud_aws/250529_aws_apn_002.png" alt="aws_apn_002" style="height:180px; width:auto;"></a>
