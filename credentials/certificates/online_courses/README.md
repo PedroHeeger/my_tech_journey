@@ -394,7 +394,7 @@
                         </details></li>
                         <li><details><summary>AWS for Media & Entertainment – Content Production Foundations</summary>
                             <ul>
-                                <li><a href="./cloud/aws/skb/lp/261011_lp_002.1.pdf">Certificado (PDF) - Conteúdo</a></li>
+                                <li><a href="./cloud/aws/skb/lp/261013_lp_002.1.pdf">Certificado (PDF) - Conteúdo</a></li>
                                 <li><a href="./cloud/aws/skb/lp/261011_lp_002.2.pdf">Certificado (PDF) - Exame</a></li>
                                 <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/learning_plan/files/lp_002">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
