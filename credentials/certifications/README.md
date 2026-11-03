@@ -66,9 +66,10 @@
                     <ul>
                         <li><a href="./cloud/aws/micro/261013_aws_micro_01_PH_ASB.pdf">Certificado (PDF)</a></li>
                         <li><a href="../badges/certifications/cloud/aws/micro/261013_aws_micro_01.png">Badge</a></li>
+                        <li><a href="./cloud/aws/micro/261013_result_aws_micro_01_PH_ASB.png">Resultado</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Concluído em:</strong> 13/10/2026</li>
-                        <li><strong>Válido até:</strong> 13/10/2027</li>
+                        <li><strong>Válido até:</strong> 12/10/2027</li>
                     </ul>
                 </details></li>
             </ul>
