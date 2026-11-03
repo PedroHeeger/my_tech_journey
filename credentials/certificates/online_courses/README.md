@@ -613,11 +613,47 @@
                         </details></li>
                         <li><details><summary>Amazon EC2 Basics</summary>
                             <ul>
-                                <li><a href="./cloud/aws/skb/dc/261011_dc_025_en.pdf">Certificado (PDF)</a></li>
+                                <li><a href="./cloud/aws/skb/dc/261013_dc_025_en.pdf">Certificado (PDF)</a></li>
                                 <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/files/dc_025">Pasta do Projeto</a></li>
                                 <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                                 <li><strong>Carga Horária:</strong> 1 Hora</li>
-                                <li><strong>Concluído em:</strong> 11/10/2026</li>
+                                <li><strong>Concluído em:</strong> 13/10/2026</li>
+                            </ul>
+                        </details></li>
+                        <li><details><summary>Amazon EBS Getting Started</summary>
+                            <ul>
+                                <li><a href="./cloud/aws/skb/dc/261014_dc_026_en.pdf">Certificado (PDF)</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/files/dc_026">Pasta do Projeto</a></li>
+                                <li><strong>Plataforma:</strong> AWS Skill Builder</li>
+                                <li><strong>Carga Horária:</strong> 1 Hora</li>
+                                <li><strong>Concluído em:</strong> 14/10/2026</li>
+                            </ul>
+                        </details></li>
+                        <li><details><summary>Understanding Amazon EBS Volume Encryption</summary>
+                            <ul>
+                                <li><a href="./cloud/aws/skb/dc/261014_dc_027_en.pdf">Certificado (PDF)</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/files/dc_027">Pasta do Projeto</a></li>
+                                <li><strong>Plataforma:</strong> AWS Skill Builder</li>
+                                <li><strong>Carga Horária:</strong> 0 Hora</li>
+                                <li><strong>Concluído em:</strong> 14/10/2026</li>
+                            </ul>
+                        </details></li>
+                        <li><details><summary>AWS Compute Services Overview</summary>
+                            <ul>
+                                <li><a href="./cloud/aws/skb/dc/261020_dc_028_en.pdf">Certificado (PDF)</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/files/dc_028">Pasta do Projeto</a></li>
+                                <li><strong>Plataforma:</strong> AWS Skill Builder</li>
+                                <li><strong>Carga Horária:</strong> 1 Hora</li>
+                                <li><strong>Concluído em:</strong> 20/10/2026</li>
+                            </ul>
+                        </details></li>
+                        <li><details><summary>AWS Graviton Processors Fundamentals</summary>
+                            <ul>
+                                <li><a href="./cloud/aws/skb/dc/261023_dc_029_en.pdf">Certificado (PDF)</a></li>
+                                <li><a href="https://github.com/PedroHeeger/aws_skb/tree/main/digital_course/files/dc_029">Pasta do Projeto</a></li>
+                                <li><strong>Plataforma:</strong> AWS Skill Builder</li>
+                                <li><strong>Carga Horária:</strong> 1 Hora</li>
+                                <li><strong>Concluído em:</strong> 23/10/2026</li>
                             </ul>
                         </details></li>
                     </ul>
