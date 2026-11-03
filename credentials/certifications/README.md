@@ -2,14 +2,14 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Certification" width="45px"> Certificações
 [Retornar para a pasta Credenciais](../)
 
-<details><summary>☁️ Cloud - AWS</summary>
+<details><summary><b>☁️ Cloud - AWS</b></summary>
     <ul>
         <li><details><summary><b>🎓 AWS Certification</b></summary>
             <ul>
                 <li><details><summary>AWS Certified CloudOps Engineer - Associate</summary>
                     <ul>
                         <li><a href="./cloud/aws/260401_aws_soa-c03.pdf">Certificado (PDF)</a></li>
-                        <li><a href="../badges/certifications/cloud_aws/260401_aws_soa-c03.png">Badge</a></li>
+                        <li><a href="../badges/certifications/cloud/aws/260401_aws_soa-c03.png">Badge</a></li>
                         <li><strong>Plataforma:</strong> AWS</li>
                         <li><strong>Concluído em:</strong> 01/04/2026</li>
                         <li><strong>Válido até:</strong> 01/04/2029</li>
@@ -18,7 +18,7 @@
                 <li><details><summary>AWS Certified Developer - Associate</summary>
                     <ul>
                         <li><a href="./cloud/aws/250618_aws_dva-c02.pdf">Certificado (PDF)</a></li>
-                        <li><a href="../badges/certifications/cloud_aws/250618_aws_dva-c02.png">Badge</a></li>
+                        <li><a href="../badges/certifications/cloud/aws/250618_aws_dva-c02.png">Badge</a></li>
                         <li><strong>Plataforma:</strong> AWS</li>
                         <li><strong>Concluído em:</strong> 18/06/2025</li>
                         <li><strong>Válido até:</strong> 18/06/2028</li>
@@ -27,7 +27,7 @@
                 <li><details><summary>AWS Certified Solutions Architect - Associate</summary>
                     <ul>
                         <li><a href="./cloud/aws/250203_aws_saa-c03.pdf">Certificado (PDF)</a></li>
-                        <li><a href="../badges/certifications/cloud_aws/250203_aws_saa-c03.png">Badge</a></li>
+                        <li><a href="../badges/certifications/cloud/aws/250203_aws_saa-c03.png">Badge</a></li>
                         <li><strong>Plataforma:</strong> AWS</li>
                         <li><strong>Concluído em:</strong> 03/02/2025</li>
                         <li><strong>Válido até:</strong> 03/02/2028</li>
@@ -36,7 +36,7 @@
                 <li><details><summary>AWS Certified AI Practitioner</summary>
                     <ul>
                         <li><a href="./cloud/aws/260716_aws_aif-c01.pdf">Certificado (PDF)</a></li>
-                        <li><a href="../badges/certifications/cloud_aws/260716_aws_aif-c01.png">Badge</a></li>
+                        <li><a href="../badges/certifications/cloud/aws/260716_aws_aif-c01.png">Badge</a></li>
                         <li><strong>Plataforma:</strong> AWS</li>
                         <li><strong>Concluído em:</strong> 16/07/2026</li>
                         <li><strong>Válido até:</strong> 16/07/2029</li>
@@ -45,7 +45,7 @@
                 <li><details><summary>AWS Certified Cloud Practitioner</summary>
                     <ul>
                         <li><a href="./cloud/aws/240722_aws_clf-c02.pdf">Certificado (PDF)</a></li>
-                        <li><a href="../badges/certifications/cloud_aws/240722_aws_clf-c02.png">Badge</a></li>
+                        <li><a href="../badges/certifications/cloud/aws/240722_aws_clf-c02.png">Badge</a></li>
                         <li><strong>Plataforma:</strong> AWS</li>
                         <li><strong>Concluído em:</strong> 22/07/2024</li>
                         <li><strong>Válido até:</strong> 22/07/2027</li>
@@ -57,14 +57,14 @@
             <ul>
                 <li><details><summary>Microcredential Preview Experience</summary>
                     <ul>
-                        <li><a href="./cloud/aws/micro/261012_Microcredential_Preview...PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/micro/261012_aws_micro_00_PH_ASB.pdf">Certificado (PDF)</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Concluído em:</strong> 12/10/2026</li>
                     </ul>
                 </details></li>
                 <li><details><summary>AWS Application Networking Demonstrated</summary>
                     <ul>
-                        <li><a href="./cloud/aws/micro/261013_AWS_Application_Networking...PH_ASB.pdf">Certificado (PDF)</a></li>
+                        <li><a href="./cloud/aws/micro/261013_aws_micro_01_PH_ASB.pdf">Certificado (PDF)</a></li>
                         <li><a href="../badges/certifications/cloud/aws/micro/261013_aws_micro_01.png">Badge</a></li>
                         <li><strong>Plataforma:</strong> AWS Skill Builder</li>
                         <li><strong>Concluído em:</strong> 13/10/2026</li>
