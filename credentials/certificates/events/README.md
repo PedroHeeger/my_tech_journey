@@ -4,13 +4,26 @@
 
 <details><summary><b>🕵️‍♂️ Cybersecurity</b></summary>
     <ul>
-        <li><details><summary>Masterclasses de Cibersegurança Estratégica,</summary>
+        <li><details><summary>Masterclasses de Cibersegurança Estratégica</summary>
             <ul>
                 <li><a href="./cybersecurity/251202_Cert_Ciberseguranca_Estrategica_PH_VNW.pdf">Certificado (PDF)</a></li>
                 <li><strong>Pasta do Projeto:</strong> Não disponível</li>
                 <li><strong>Plataforma:</strong> Vai na Web (VNW)</li>
                 <li><strong>Carga Horária:</strong> 8 horas</li>
                 <li><strong>Concluído em:</strong> 11/11/2025</li>
+            </ul>
+        </details></li>
+    </ul>
+</details>
+
+<details><summary><b>☁️ Cloud Computing</b></summary>
+    <ul>
+        <li><details><summary>AWS Community Day Salvador 2026</summary>
+            <ul>
+                <li><a href="./cloud/aws/261010_AWS_Cday_SSA.pdf">Certificado (PDF)</a></li>
+                <li><strong>Plataforma:</strong> AWS User Group Salvador</li>
+                <li><strong>Carga Horária:</strong> 8 horas</li>
+                <li><strong>Concluído em:</strong> 10/10/2026</li>
             </ul>
         </details></li>
     </ul>
