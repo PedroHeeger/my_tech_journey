@@ -2007,7 +2007,7 @@
                         <li><a href="https://github.com/PedroHeeger/cisco/tree/main/self_paced/sfp_009">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> Cisco Networking Academy (CNA)</li>
                         <li><strong>Carga Horária:</strong> 14 horas</li>
-                        <li><strong>Concluído em:</strong> 22/11/20265</li>
+                        <li><strong>Concluído em:</strong> 22/11/2026</li>
                     </ul>
                 </details></li>
                 <li><details><summary>Network Support and Security</summary>
@@ -2018,7 +2018,7 @@
                         <li><a href="https://github.com/PedroHeeger/cisco/tree/main/self_paced/sfp_010">Pasta do Projeto</a></li>
                         <li><strong>Plataforma:</strong> Cisco Networking Academy (CNA)</li>
                         <li><strong>Carga Horária:</strong> 12 horas</li>
-                        <li><strong>Concluído em:</strong> 23/11/20265</li>
+                        <li><strong>Concluído em:</strong> 23/11/2026</li>
                     </ul>
                 </details></li>
             </ul>
