@@ -18,6 +18,7 @@
 
 <details><summary><b>🕵️‍♂️ Cybersecurity</b></summary>
     <div>
+        <a href="https://www.credly.com/badges/4081e986-f077-4456-aac9-94abe52a5a75"><img src="./cybersecurity/260815_cph_002_PH_CNA.png" alt="cna_cph_002" style="height:180px; width:auto;"></a>
         <a href="https://www.credly.com/badges/1210f13a-8b8b-41f6-826e-a7434d02922f"><img src="./cybersecurity/250922_sfp_001_PH_CNA.png" alt="cna_sfp_001" style="height:180px; width:auto;"></a>
         <a href="https://www.credly.com/badges/eb28fd4c-9e6b-4919-86d0-819d568ec5e2"><img src="./cybersecurity/260313_sfp_004_PH_CNA.png" alt="cna_sfp_004" style="height:180px; width:auto;"></a>
         <a href="https://www.credly.com/badges/f14187ae-02de-4b17-a844-19b3b511711d"><img src="./cybersecurity/261001_sfp_006_PH_CNA.png" alt="cna_sfp_006" style="height:180px; width:auto;"></a>
@@ -32,6 +33,10 @@
 
 <details><summary><b>📡 Network</b></summary>
     <div>
-        <a href="https://www.credly.com/badges/113d6da4-5332-42c2-9a2f-0771adff57bb"><img src="./network/250930_sfp_002_PH_CNA.png" alt="cna_sfp_002" style="height:180px; width:auto;"></a>
+        <a href="https://www.credly.com/badges/113d6da4-5332-42c2-9a2f-0771adff57bb"><img src="./network/250930_cph_001_PH_CNA.png" alt="cna_cph_001" style="height:180px; width:auto;"></a>
+        <a href="https://www.credly.com/badges/e71ea3ae-6028-4c35-82cb-317abf421e19"><img src="./network/251115_sfp_007_PH_CNA.png" alt="cna_sfp_007" style="height:180px; width:auto;"></a>
+        <a href="https://www.credly.com/badges/d0327ec3-2b96-43d0-afca-5006abc93880"><img src="./network/251120_sfp_008_PH_CNA.png" alt="cna_sfp_008" style="height:180px; width:auto;"></a>
+        <a href="https://www.credly.com/badges/279f8434-ce73-46af-b029-75ee3945dfd5"><img src="./network/251122_sfp_009_PH_CNA.png" alt="cna_sfp_009" style="height:180px; width:auto;"></a>
+        <a href="https://www.credly.com/badges/fb658b7e-14e0-450a-9df6-89544c4b9af8"><img src="./network/251123_sfp_010_PH_CNA.png" alt="cna_sfp_010" style="height:180px; width:auto;"></a>
     </div>
 </details>
