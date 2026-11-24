@@ -1960,7 +1960,7 @@
 
 <details><summary><b>🌐 Internet of Things (IoT)</b></summary>
     <ul>
-        <li><details><summary>Introdução à IoT e à Transformação Digital</summary>
+        <li><details><summary>Introduction to IoT and Digital Transformation</summary>
             <ul>
                 <li><a href="./iot/260119_Cert_sfp_003_PH_CNA.pdf">Certificado (PDF)</a></li>
                 <li><a href="https://github.com/PedroHeeger/cisco/tree/main/self_paced/sfp_003">Pasta do Projeto</a></li>
